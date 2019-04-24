@@ -106,7 +106,7 @@ var getLang = function () {
 var setLang = function (lang) {
     lang = lang || localStorage["uilang"] || navigator.language || navigator.browserLanguage;
     if (_.any(supportedLang, function (o) { return o.key == lang }) == false) {
-        lang = 'zh-CN';
+        lang = 'en-US';
     }
     currentLang = lang;
     localStorage["uilang"] = lang;

@@ -837,7 +837,7 @@
   },
   {
     "Id": 5026,
-    "Text": "【双重愈合】技能等级＋1，施放后牧师获得“双重愈合”状态持续10秒，使接下来在施放治愈术时，除当前目标还会治愈另1名当前生命百分比最低的队友，效果相当于本次治愈量的%s%%"
+    "Text": "Skill level of [Double Healing] ＋1; after release, the priest receives \"Double Healing\" for 10 seconds, the next healing spell will cure one more partner with the lowest HP, the recovery value equals to half of this time"
   },
   {
     "Id": 5027,
@@ -869,7 +869,7 @@
   },
   {
     "Id": 5034,
-    "Text": "获得【群体复活术】技能等级＋%s，使范围内的所有死亡队友复活，复活后血量30%%。Lv.2时，复活后血量50%%。（蓝色魔力矿石*2）"
+    "Text": "[Group Resurrection] Skill Level ＋%s. Revives all dead allies in its range, granting them 30%% HP. Grants 50%% HP at Lv.2. (Blue Gemstone*2)"
   },
   {
     "Id": 5035,
@@ -1405,7 +1405,7 @@
   },
   {
     "Id": 9016,
-    "Text": "使解除隐匿状态后的强化隐匿时间＋%s秒"
+    "Text": "Enhanced hiding time after hiding state removed ＋%s seconds"
   },
   {
     "Id": 9017,
@@ -1829,7 +1829,7 @@
   },
   {
     "Id": 12021,
-    "Text": "对眩晕状态下的目标造成的伤害＋%s%%"
+    "Text": "Deals ＋%s%% Dmg to stunned targets"
   },
   {
     "Id": 12022,

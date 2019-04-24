@@ -74,7 +74,7 @@
   },
   {
     "Id": 12001,
-    "RuneName": "乘胜追击",
+    "RuneName": "Victorious Pursuit",
     "Runetip": 1005,
     "SkillTipParm": [
       1
@@ -106,7 +106,7 @@
   },
   {
     "Id": 12008,
-    "RuneName": "加速追击",
+    "RuneName": "Hot Pursuit",
     "Runetip": 1007,
     "SkillTipParm": [
       10
@@ -186,7 +186,7 @@
   },
   {
     "Id": 12033,
-    "RuneName": "强效魔法防御",
+    "RuneName": "Highly Effective M.Def",
     "Runetip": 1016,
     "SkillTipParm": [
       10
@@ -244,7 +244,7 @@
   },
   {
     "Id": 12072,
-    "RuneName": "冲锋攻击",
+    "RuneName": "Charge Attack",
     "Runetip": 1021,
     "SkillTipParm": [
       1,
@@ -297,7 +297,7 @@
   },
   {
     "Id": 12112,
-    "RuneName": "投掷长矛攻击",
+    "RuneName": "Spear Boomerang",
     "Runetip": 1025,
     "SkillTipParm": [
       300,
@@ -356,7 +356,7 @@
   },
   {
     "Id": 12152,
-    "RuneName": "极速回复",
+    "RuneName": "Tension Relax",
     "Runetip": 1030,
     "SkillTipParm": [
       100
@@ -400,7 +400,7 @@
   },
   {
     "Id": 13020,
-    "RuneName": "冲锋攻击",
+    "RuneName": "Charge Attack",
     "Runetip": 1302,
     "SkillTipParm": [
       5
@@ -712,13 +712,13 @@
   },
   {
     "Id": 22047,
-    "RuneName": "陨石术Ⅰ",
+    "RuneName": "Meteor Storm I",
     "Runetip": 2040,
     "SkillTipParm": null
   },
   {
     "Id": 22048,
-    "RuneName": "陨石术Ⅰ",
+    "RuneName": "Meteor Storm I",
     "Runetip": 2040,
     "SkillTipParm": null
   },
@@ -778,7 +778,7 @@
   },
   {
     "Id": 22091,
-    "RuneName": "无视空间",
+    "RuneName": "Invisible Space",
     "Runetip": 2035,
     "SkillTipParm": [
       1,
@@ -855,7 +855,7 @@
   },
   {
     "Id": 22153,
-    "RuneName": "重力原野Ⅰ",
+    "RuneName": "Gravitational Field I",
     "Runetip": 2039,
     "SkillTipParm": [
       200,
@@ -1763,7 +1763,7 @@
   },
   {
     "Id": 42102,
-    "RuneName": "禁锢箭",
+    "RuneName": "Imprisoned arrow",
     "Runetip": 4026,
     "SkillTipParm": [
       5
@@ -1771,7 +1771,7 @@
   },
   {
     "Id": 42103,
-    "RuneName": "禁锢箭",
+    "RuneName": "Imprisoned arrow",
     "Runetip": 4026,
     "SkillTipParm": [
       5
@@ -1779,7 +1779,7 @@
   },
   {
     "Id": 42104,
-    "RuneName": "禁锢箭",
+    "RuneName": "Imprisoned arrow",
     "Runetip": 4026,
     "SkillTipParm": [
       5
@@ -2182,7 +2182,7 @@
   },
   {
     "Id": 52036,
-    "RuneName": "高等物理防御",
+    "RuneName": "Advanced Def",
     "Runetip": 5025,
     "SkillTipParm": [
       3
@@ -2206,7 +2206,7 @@
   },
   {
     "Id": 52041,
-    "RuneName": "双重愈合Ⅰ",
+    "RuneName": "Double Healing I",
     "Runetip": 5010,
     "SkillTipParm": [
       10
@@ -2214,7 +2214,7 @@
   },
   {
     "Id": 52042,
-    "RuneName": "双重愈合Ⅰ",
+    "RuneName": "Double Healing I",
     "Runetip": 5010,
     "SkillTipParm": [
       10
@@ -2222,7 +2222,7 @@
   },
   {
     "Id": 52060,
-    "RuneName": "高等魔法防御",
+    "RuneName": "Advanced M.Def",
     "Runetip": 5027,
     "SkillTipParm": [
       3
@@ -2271,7 +2271,7 @@
   },
   {
     "Id": 52120,
-    "RuneName": "信仰祈福",
+    "RuneName": "Faith Pray",
     "Runetip": 5036,
     "SkillTipParm": [
       1,
@@ -2280,7 +2280,7 @@
   },
   {
     "Id": 52121,
-    "RuneName": "信仰祈福",
+    "RuneName": "Faith Pray",
     "Runetip": 5036,
     "SkillTipParm": [
       1,
@@ -2289,7 +2289,7 @@
   },
   {
     "Id": 52122,
-    "RuneName": "信仰祈福",
+    "RuneName": "Faith Pray",
     "Runetip": 5036,
     "SkillTipParm": [
       1,
@@ -2350,7 +2350,7 @@
   },
   {
     "Id": 52171,
-    "RuneName": "忏悔",
+    "RuneName": "Repentance",
     "Runetip": 5038,
     "SkillTipParm": [
       1,
@@ -2808,7 +2808,7 @@
   },
   {
     "Id": 62062,
-    "RuneName": "旋风斧",
+    "RuneName": "Whirl Axe",
     "Runetip": 6012,
     "SkillTipParm": [
       40,
@@ -2818,7 +2818,7 @@
   },
   {
     "Id": 62063,
-    "RuneName": "旋风斧",
+    "RuneName": "Whirl Axe",
     "Runetip": 6012,
     "SkillTipParm": [
       40,
@@ -2828,7 +2828,7 @@
   },
   {
     "Id": 62064,
-    "RuneName": "旋风斧",
+    "RuneName": "Whirl Axe",
     "Runetip": 6012,
     "SkillTipParm": [
       40,
@@ -2873,7 +2873,7 @@
   },
   {
     "Id": 62092,
-    "RuneName": "分裂斧",
+    "RuneName": "Split Axe",
     "Runetip": 6015,
     "SkillTipParm": [
       5,
@@ -3039,19 +3039,19 @@
   },
   {
     "Id": 70062,
-    "RuneName": "【神之威压】",
+    "RuneName": "[Pressure]",
     "Runetip": 7006,
     "SkillTipParm": null
   },
   {
     "Id": 70063,
-    "RuneName": "【神之威压】",
+    "RuneName": "[Pressure]",
     "Runetip": 7006,
     "SkillTipParm": null
   },
   {
     "Id": 70064,
-    "RuneName": "【神之威压】",
+    "RuneName": "[Pressure]",
     "Runetip": 7006,
     "SkillTipParm": null
   },
@@ -3225,7 +3225,7 @@
   },
   {
     "Id": 82001,
-    "RuneName": "普攻-强效",
+    "RuneName": "Auto Atk -Enpower",
     "Runetip": 8201,
     "SkillTipParm": [
       0.3
@@ -3558,7 +3558,7 @@
   },
   {
     "Id": 90012,
-    "RuneName": "双倍防具卸除",
+    "RuneName": "Double Armor Removal",
     "Runetip": 9001,
     "SkillTipParm": [
       10
@@ -3566,7 +3566,7 @@
   },
   {
     "Id": 90013,
-    "RuneName": "双倍防具卸除",
+    "RuneName": "Double Armor Removal",
     "Runetip": 9001,
     "SkillTipParm": [
       10
@@ -3574,7 +3574,7 @@
   },
   {
     "Id": 90014,
-    "RuneName": "双倍防具卸除",
+    "RuneName": "Double Armor Removal",
     "Runetip": 9001,
     "SkillTipParm": [
       10
@@ -4780,7 +4780,7 @@
   },
   {
     "Id": 130110,
-    "RuneName": "普攻-强效",
+    "RuneName": "Auto Atk -Enpower",
     "Runetip": 13011,
     "SkillTipParm": [
       3,
@@ -4801,7 +4801,7 @@
   },
   {
     "Id": 130122,
-    "RuneName": "生命体禁术",
+    "RuneName": "Homunculus Forbidden Skill",
     "Runetip": 13012,
     "SkillTipParm": null
   },
@@ -4823,7 +4823,7 @@
   },
   {
     "Id": 130132,
-    "RuneName": "【生命体修复】",
+    "RuneName": "[Homunculusn Repair]",
     "Runetip": 13013,
     "SkillTipParm": [
       2
@@ -4831,7 +4831,7 @@
   },
   {
     "Id": 130133,
-    "RuneName": "【生命体修复】",
+    "RuneName": "[Homunculusn Repair]",
     "Runetip": 13013,
     "SkillTipParm": [
       2
@@ -4839,7 +4839,7 @@
   },
   {
     "Id": 130134,
-    "RuneName": "【生命体修复】",
+    "RuneName": "[Homunculusn Repair]",
     "Runetip": 13013,
     "SkillTipParm": [
       2
@@ -4899,7 +4899,7 @@
   },
   {
     "Id": 130182,
-    "RuneName": "化学头盔保护",
+    "RuneName": "Chemical Protection Helm",
     "Runetip": 13018,
     "SkillTipParm": [
       1,
@@ -4988,7 +4988,7 @@
   },
   {
     "Id": 130272,
-    "RuneName": "化学盾牌保护",
+    "RuneName": "Chemical Protection Shield",
     "Runetip": 13027,
     "SkillTipParm": [
       1,
@@ -5037,7 +5037,7 @@
   },
   {
     "Id": 133030,
-    "RuneName": "生命体禁术",
+    "RuneName": "Homunculus Forbidden Skill",
     "Runetip": 13303,
     "SkillTipParm": null
   },

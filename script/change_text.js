@@ -17,11 +17,29 @@ for (var cnText in allText) {
     console.log((counter++) + "/" + length);
     var enText = allText[cnText] + "";
     enText = enText.replace(/\"/g, "\\\"");
-    for (var i in fileDatas) {
-        fileDatas[i] = fileDatas[i].replace('"' + cnText + '"', '"' + enText + '"');
+    try {
+        cnText = cnText.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        var cnRegx = new RegExp("\"" + cnText + "\"", 'g');
+        for (var i in fileDatas) {
+            fileDatas[i] = fileDatas[i].replace(cnRegx, '"' + enText + '"');
+        }
+    } catch (e) {
+        console.log("Skip: " + cnText);
     }
 }
 
+
+
+/* 
+//Test 1 text
+//Error: (表情落寞）我离开仙山已经太久了，如果还不能找到我的小狐狸，我就要回去了。
+var cnText = "元素扩散-强效";
+var enText = "Element Diffusion -Enpower";
+var cnRegx = new RegExp("\"" + cnText + "\"", 'g');
+for (var i in fileDatas) {
+    fileDatas[i] = fileDatas[i].replace(cnRegx, '"' + enText + '"');
+}
+*/
 for (var i in files){
     fs.writeFileSync(files[i], fileDatas[i], 'utf8');
 }
