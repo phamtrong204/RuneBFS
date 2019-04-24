@@ -101,11 +101,11 @@
   },
   {
     "Id": 1025,
-    "Text": "【投掷长矛攻击】技能等级＋1，投掷长矛对远处敌方单体造成%s%%物理伤害，必须装备长矛类武器，每养成一点＋%s%%物理伤害，＋%s米技能射程"
+    "Text": "[Spear Boomerang] Skill Level ＋1. Casts the spear to deal %s%% Dmg to an enemy. Spear class weapons are required.. Each ＋%s%% Dmg increases skill range by ＋%sm"
   },
   {
     "Id": 1026,
-    "Text": "使【投掷长矛攻击】有15%%概率减速目标20%%，每养成1点减速率＋%s%%，减速效果＋%s%%"
+    "Text": "[Spear Boomerang] has a 15% chance to slow the target by 20%%. Each 1 point increases slow rate by ＋%s%% and slow effects by ＋%s%%"
   },
   {
     "Id": 1027,
@@ -225,7 +225,7 @@
   },
   {
     "Id": 2009,
-    "Text": "获得【无视空间】技能等级＋%s:使下一个区域型的技能施放可以无视射程，超远投掷。CD：40S。每养成1点技能CD时间-%s秒"
+    "Text": "Has [Invisible Space] Skill Level ＋%s. Lifts the range limit for the next AOE skill, allowing it to reach far. CD:40S. Each point reduces skill CD by －%s sec"
   },
   {
     "Id": 2010,
@@ -297,7 +297,7 @@
   },
   {
     "Id": 2027,
-    "Text": "使【念力连击】也可享受法术暴击效果，暴击伤害＋%s%%"
+    "Text": "Allows [Napalm Vulcan] to deal spell crit effect, Crit.Dmg ＋%s%%"
   },
   {
     "Id": 2028,
@@ -329,7 +329,7 @@
   },
   {
     "Id": 2035,
-    "Text": "获得【无视空间】技能等级＋%s:使下一个区域型的技能施放可以无视射程，超远投掷。CD：40S。每养成1点技能CD时间-%s秒"
+    "Text": "Has [Invisible Space] Skill Level ＋%s. Lifts the range limit for the next AOE skill, allowing it to reach far. CD:40S. Each point reduces skill CD by －%s sec"
   },
   {
     "Id": 2036,
@@ -337,7 +337,7 @@
   },
   {
     "Id": 2037,
-    "Text": "获得【重力原野】技能等级＋2，施法者持续使周身范围内的所有目标受到无属性魔法伤害，并使其降低10%%移动速度和攻击速度，持续时间5秒。（引导技能，需消耗蓝色魔力矿石*1）每养成一点＋%s点无属性魔法伤害，-%s%%的移动速度和攻击速度，持续时间＋%s秒"
+    "Text": "Skill level of [Gravitational Field] ＋2, caster constantly deals natural magic damage to all targets around, and reduces their moving speed and ASPD by 10%; the effect lasts 5 seconds. (Guidance skill, it will costs Blue Gemstone x1) for each point, natural M.Dmg ＋%s points, Moving speed and ASPD －%s%%; the effect lasts ＋%s seconds"
   },
   {
     "Id": 2038,
@@ -345,7 +345,7 @@
   },
   {
     "Id": 2039,
-    "Text": "获得【重力原野】技能等级＋1，施法者持续使周身范围内的所有目标受到无属性魔法伤害，并使其降低10%%移动速度和攻击速度，持续时间5秒。（引导技能，需消耗蓝色魔力矿石*1）每养成一点＋%s点无属性魔法伤害，-%s%%的移动速度和攻击速度，持续时间＋%s秒"
+    "Text": "Skill level of [Gravitational Field] ＋1, caster constantly deals natural M.Dmg to all targets around, and reduces their moving speed and ASPD by 10%; the effect lasts 5 seconds. (Guidance skill, it will costs Blue Gemstone x1) For each point built, natural M.Dmg ＋%s points, moving speed & ASPD －%s%%; the effect lasts ＋%s seconds"
   },
   {
     "Id": 2040,
@@ -873,11 +873,11 @@
   },
   {
     "Id": 5035,
-    "Text": "获得【双向传送】的技能，在一定范围内（9屏）使用技能摆放1个只有队友可见的双向传送阵，传送阵可被AOE技能摧毁（蓝色魔力矿石*1），每养成一点传送阵持续＋%s秒，血量＋%s，最多可同时存在2个"
+    "Text": "Get the skill [Two-way Teleport]. Places 1 two-way portal that is visible to allies only in a range (9 screens). The portal could be destroyed by AOE skills (Blue Gemstone*1). Each point increases portal duration by ＋%s sec, HP by ＋%s. Can have up to 2 portals at the same time"
   },
   {
     "Id": 5036,
-    "Text": "获得【信仰祈福】技能等级＋1，为1名队友持续祈福使其在接下来的%s秒内即使受到致命伤害也不会死亡，每养成1点持续时间＋%s秒（蓝色魔力矿石*1）"
+    "Text": "[Faith Pray] Skill Level ＋%s. Prays for 1 ally so he/she won’t die in %s sec even a fatal damage is applied. Each point increases duration by ＋%s sec (Blue Gemstone*1)"
   },
   {
     "Id": 5037,
@@ -993,31 +993,31 @@
   },
   {
     "Id": 6010,
-    "Text": "使【斧头精炼度】提升的物理攻击力额外＋%s%%"
+    "Text": "[Axe Refining] provides Atk ＋%s%%"
   },
   {
     "Id": 6011,
-    "Text": "【金钱攻击】伤害＋%s%%，但技能消耗额外＋%s%%"
+    "Text": "[Mammonite] Dmg ＋%s%%, Skill Cost ＋%s%%"
   },
   {
     "Id": 6012,
-    "Text": "获得【旋风斧】：将周围一定范围内的目标吸附到自身附近，造成伤害＋%s%%,使移动速度-%s%%持续%s秒"
+    "Text": "Get the skill [Whirl Axe]: Absorbs nearby units to self, dealing ＋%s%% Dmg and reducing －%s%% Move Spd for %s sec"
   },
   {
     "Id": 6013,
-    "Text": "【旋风斧】伤害额外＋%s%%"
+    "Text": "[Whirl Axe] Dmg ＋%s%%"
   },
   {
     "Id": 6014,
-    "Text": "使普通攻击时，普攻攻击力提高%s，力量带来的素质攻击力＋%s%%"
+    "Text": "When launching auto attacks, auto attack increases by %s, quality attack brought by Strength increases by ＋%s%%"
   },
   {
     "Id": 6015,
-    "Text": "获得技能【分裂斧】：普通攻击时%s%%概率对周围目标造成溅射伤害＋%s%%"
+    "Text": "Get the skill [Split Axe]: auto attacks have a %s%% chance to deal ＋%s%%  splash damage to adjacent targets."
   },
   {
     "Id": 6016,
-    "Text": "【分裂斧】溅射伤害＋%s%%"
+    "Text": "Splash Damage of [Split Axe] ＋%s%%"
   },
   {
     "Id": 6301,
@@ -1089,7 +1089,7 @@
   },
   {
     "Id": 7006,
-    "Text": "获得【神之威压】技能等级＋1，对敌方单体造成（技能等级*1000＋500）点固定物理伤害，并使其减少其（MaxSp*（技能等级*0.5%%＋0.5%%）＋（技能等级*5＋15））点Sp"
+    "Text": "[Pressure] Skill Level ＋1. Deals (Skill Level*1000 ＋500) fixed Dmg and reduces (MaxSp* (Skill Level*0.5%% ＋0.5%%) ＋ (Skill Level*5 ＋15) ) SP"
   },
   {
     "Id": 7007,
@@ -1785,7 +1785,7 @@
   },
   {
     "Id": 12010,
-    "Text": "使【阿修罗霸凰拳】公式中【技能等级*4＋剩余SP/100】部分的伤害倍率增加%s"
+    "Text": "Increases multiplier of the [Asura Strike] formula: [Skill Lv.*4 ＋Remaining SP/100] by %s"
   },
   {
     "Id": 12011,
@@ -1941,7 +1941,7 @@
   },
   {
     "Id": 13011,
-    "Text": "使普通攻击时力量带来的素质攻击力＋%s%%，普攻攻击力提高%s"
+    "Text": "When launching auto attacks, the attribute Atk brought by Strength increases by %s%%, auto attack increases by %s"
   },
   {
     "Id": 13012,

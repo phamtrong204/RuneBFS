@@ -17,18 +17,12 @@ for (var cnText in allText) {
     console.log((counter++) + "/" + length);
     var enText = allText[cnText] + "";
     enText = enText.replace(/\"/g, "\\\"");
-    try {
-        cnText = cnText.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-        var cnRegx = new RegExp("\"" + cnText + "\"", 'g');
-        for (var i in fileDatas) {
-            fileDatas[i] = fileDatas[i].replace(cnRegx, '"' + enText + '"');
-        }
-    } catch (e) {
-        console.log("Skip: " + cnText);
+    cnText = cnText.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    var cnRegx = new RegExp("\"" + cnText + "\"", 'g');
+    for (var i in fileDatas) {
+        fileDatas[i] = fileDatas[i].replace(cnRegx, '"' + enText + '"');
     }
 }
-
-
 
 /* 
 //Test 1 text
