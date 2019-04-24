@@ -16,7 +16,7 @@ var maxX = 0;
 var minY = 0;
 var maxY = 0;
 var scale = 0.2;
-var maxevo = 99999;
+var maxevo = 40000;
 var pathAlgorithm = "nogold";
 var inited = false;
 var runeSize = 60.0;
@@ -202,7 +202,7 @@ var render = function (id, savedata) {
                 '<ul class="list-group list-group-flush">' +
                 '<li class="list-group-item p-1">' + (desc.Desc || "") + '</li>' +
                 '<li class="list-group-item p-1">' + _.reduce(cost, function (result, current) {
-                    return result + current.Name + "*" + current.Count + " ";
+                    return result + current.Name + ": " + current.Count + "&nbsp;&nbsp;&nbsp;";
                 }, "") + '</li>' + '</ul>')
             .click(function () {
                 runeClick(o.Id);
@@ -330,7 +330,7 @@ var renderRuneLink = function () {
     linkcontext.fillText($('#runeCost').data('cost'), 0, runeLinkHeight - 35);
     linkcontext.font = "25px Consolas";
     linkcontext.textAlign = "right";
-    linkcontext.fillText("ROMEL Rune BFS", runeLinkWidth, runeLinkHeight - 35);
+    linkcontext.fillText("ROMEL Rune Calc", runeLinkWidth, runeLinkHeight - 35);
     linkcontext.fillText("Version:" + Data.getVersion(), runeLinkWidth, runeLinkHeight - 5);
     _.each(Data.getAstrolabe(), function (o, i) {
         var runeData = o;
@@ -418,11 +418,11 @@ var renderCost = function () {
     }, {});
     var runeCheckCostText = "";
     _.each(runeCheckCost, function (o, i) {
-        runeCheckCostText += i + "*" + o + " ";
+        runeCheckCostText += "<tr><td>" + i + "</td><td>" + o + "</td></tr>";
     })
     var runeCostText = "";
     _.each(runeCost, function (o, i) {
-        runeCostText += i + "*" + o + " ";
+        runeCostText += "<tr><td>" + i + "</td><td>" + o + "</td></tr>";
     })
     runeCheckResetCost = _.reduce(runeCheckResetCost, function (memo, item) {
         _.each(item, function (o, i) {
@@ -438,11 +438,11 @@ var renderCost = function () {
     }, {});
     var runeCheckResetCostText = "";
     _.each(runeCheckResetCost, function (o, i) {
-        runeCheckResetCostText += i + "*" + o + " ";
+        runeCheckResetCostText += "<tr><td>" + i + "</td><td>" + o + "</td></tr>";
     })
     var runeResetCostText = "";
     _.each(runeResetCost, function (o, i) {
-        runeResetCostText += i + "*" + o + " ";
+        runeResetCostText += "<tr><td>" + i + "</td><td>" + o + "</td></tr>";
     })
     runeCheckTotalAttr = _.reduce(runeCheckTotalAttr, function (memo, o) {
         if (!o || !o.Key) { return memo; }
@@ -459,26 +459,26 @@ var renderCost = function () {
     var index = 0;
     _.each(runeCheckTotalAttr, function (o, i) {
         index++;
-        runeCheckTotalAttrText += Ui.getEquipEffect(i) + "+" + Math.round(o * 100) / 100 + " ";
-        if (index % 4 == 0) { runeCheckTotalAttrText += "<br/>"; }
+        runeCheckTotalAttrText += "<tr><td>" + Ui.getEquipEffect(i) + "</td><td>+" + Math.round(o * 100) / 100 + "</td></tr>";
+        //if (index % 4 == 0) { runeCheckTotalAttrText += "<br/>"; }
     })
     var runeTotalAttrText = "";
     index = 0;
     _.each(runeTotalAttr, function (o, i) {
         index++;
-        runeTotalAttrText += Ui.getEquipEffect(i) + "+" + Math.round(o * 100) / 100 + " ";
-        if (index % 4 == 0) { runeTotalAttrText += "<br/>"; }
+        runeTotalAttrText += "<tr><td>" + Ui.getEquipEffect(i) + "</td><td>+" + Math.round(o * 100) / 100 + "</td></tr>";
+        //if (index % 4 == 0) { runeTotalAttrText += "<br/>"; }
     })
     $('#runeCheckCost').empty()
-        .append(runeCheckCostText.trim() +
-            "(" + runeCheckResetCostText.trim() + ")" +
-            '<br/>' + runeCheckTotalAttrText.trim());
-    $('#runeCheckCost').data('cost', runeCheckCostText.trim() + "(" + runeCheckResetCostText.trim() + ")");
+        .append(runeCheckCostText.trim()
+            + runeCheckResetCostText.trim()
+            + runeCheckTotalAttrText.trim());
+    $('#runeCheckCost').data('cost', runeCheckCostText.trim() + runeCheckResetCostText.trim());
     $('#runeCost').empty()
-        .append(runeCostText.trim() +
-            "(" + runeResetCostText.trim() + ")" +
-            '<br/>' + runeTotalAttrText.trim());
-    $('#runeCost').data('cost', runeCostText.trim() + "(" + runeResetCostText.trim() + ")");
+        .append(runeCostText.trim()
+            + runeResetCostText.trim()
+            + runeTotalAttrText.trim());
+    $('#runeCost').data('cost', runeCostText.trim() + runeResetCostText.trim());
 };
 
 var runeClick = function (runeId) {

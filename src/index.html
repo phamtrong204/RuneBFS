@@ -6,14 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>ROMEL Rune BFS</title>
-    <meta name="description" content="仙境传说：守护永恒的爱 阿萨神碑加点模拟器;ROMEL Rune Breadth-First-Search." />
-    <meta name="keywords" content="仙境传说,守护永恒的爱,阿萨神碑,符文,碑文,加点,RuneBFS,ForeverLove,仙境傳說,守護永恆的愛">
+    <title>Ragnarok Mobile Rune Calculator</title>
+    <meta name="description" content="Ragnarok Online Mobile Rune Calculator Breadth-First-Search." />
+    <meta name="keywords" content="Ragnarok,Mobile,ROM,Rune,Calc,Calculator,RuneBFS,EternalLove,ROMEL,RagnarokMobile">
 </head>
 
 <body>
     <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" title="ROMEL Rune Breadth-First-Search" href="#">ROMEL Rune BFS</a>
+        <a class="navbar-brand" title="Ragnarok Mobile Rune Calculator" href="#">ROMEL Rune Calc</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -65,8 +65,8 @@
                     </a>
                     <ul class="dropdown-menu dropdown-menu-right">
                         <h6 class="dropdown-header" data-lang="externallink">Link</h6>
-                        <a class="dropdown-item" href="http://ro.xd.com/" target="_blank" data-lang="officalsite">OfficalSite</a>
-                        <a class="dropdown-item" href="http://nga.178.com/thread.php?fid=555/" target="_blank" data-lang="donate">Donate</a>
+                        <a class="dropdown-item" href="https://www.ragnaroketernallove.com/" target="_blank" data-lang="officalsite">OfficalSite</a>
+                        <!--<a class="dropdown-item" href="" target="_blank" data-lang="donate">Donate</a>-->
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -125,12 +125,12 @@
                         <input type="radio" name="evo" id="radEvo3" autocomplete="off" value="30000">
                         <span data-lang="transcendentsecondclass">进阶二转</span>
                     </label>
-                    <label class="btn btn-outline-secondary">
-                        <input type="radio" name="evo" id="radEvo4" autocomplete="off" value="40000">
+                    <label class="btn btn-outline-secondary active">
+                        <input type="radio" name="evo" id="radEvo4" autocomplete="off" value="40000" checked>
                         <span data-lang="thirdclass">三转</span>
                     </label>
-                    <label class="btn btn-outline-secondary active">
-                        <input type="radio" name="evo" id="radEvo4+" autocomplete="off" value="99999" checked>
+                    <label class="btn btn-outline-secondary">
+                        <input type="radio" name="evo" id="radEvo4+" autocomplete="off" value="99999">
                         <span data-lang="thirdclassplus">深化</span>
                     </label>
                 </div>
@@ -175,14 +175,23 @@
                 </div>
             </div>
             <div class="rune-panel-divider"></div>
-            <div>
-                <span data-lang="selected">已选：</span>
-                <span id="runeCost">0</span>
-            </div>
-            <div>
-                <span data-lang="currentselected">本次：</span>
-                <span id="runeCheckCost">0</span>
-            </div>
+            <table class="rune-data-table">
+                <thead>
+                    <tr>
+                        <th colspan="2" data-lang="currentselected">本次</th>
+                    </tr>
+                </thead>
+                <tbody id="runeCheckCost"></tbody>
+            </table>
+            <table class="rune-data-table">
+                <thead>
+                    <tr>
+                        <th colspan="2" data-lang="selected">已选</th>
+                    </tr>
+                </thead>
+                <tbody id="runeCost"></tbody>
+            </table>
+            
             <div class="row justify-content-end">
                 <div class="btn-group">
                     <button type="button" class="btn btn-outline-secondary" id="btnSaveImage" data-lang="saveimage">生成全符文图片</button>
