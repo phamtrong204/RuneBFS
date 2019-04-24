@@ -2,7 +2,7 @@
   "11": [
     {
       "Id": 670004,
-      "Name": "命中",
+      "Name": "Hit",
       "Key": "Hit",
       "Value": 2,
       "Type": 1,
@@ -10,7 +10,7 @@
     },
     {
       "Id": 670005,
-      "Name": "暴击防护",
+      "Name": "Crit.Res.",
       "Key": "CriRes",
       "Value": 0.9,
       "Type": 3,
@@ -18,7 +18,7 @@
     },
     {
       "Id": 670006,
-      "Name": "魔法上限",
+      "Name": "Max SP",
       "Key": "MaxSp",
       "Value": 2,
       "Type": 3,
@@ -26,7 +26,7 @@
     },
     {
       "Id": 10130000,
-      "Name": "魔法防御",
+      "Name": "M.Def",
       "Key": "MDef",
       "Value": 0.75,
       "Type": 3,
@@ -34,7 +34,7 @@
     },
     {
       "Id": 230000,
-      "Name": "灵气剑-强效",
+      "Name": "Aura Blade -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -42,7 +42,7 @@
     },
     {
       "Id": 460000,
-      "Name": "极速回复",
+      "Name": "Tension Relax",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -58,7 +58,7 @@
     },
     {
       "Id": 460001,
-      "Name": "物理攻击",
+      "Name": "Atk",
       "Key": "Atk",
       "Value": 2.6,
       "Type": 1,
@@ -66,7 +66,7 @@
     },
     {
       "Id": 230001,
-      "Name": "精炼物攻",
+      "Name": "Refine Atk",
       "Key": "Refine",
       "Value": 1.95,
       "Type": 1,
@@ -82,7 +82,7 @@
     },
     {
       "Id": 920004,
-      "Name": "生命上限",
+      "Name": "Max HP ",
       "Key": "MaxHp",
       "Value": 40,
       "Type": 3,
@@ -98,7 +98,7 @@
     },
     {
       "Id": 230002,
-      "Name": "骑乘训练-多效Ⅰ",
+      "Name": "Cavalry Mastery -Utility",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -106,7 +106,7 @@
     },
     {
       "Id": 460004,
-      "Name": "物理防御",
+      "Name": "Def",
       "Key": "Def",
       "Value": 2,
       "Type": 3,
@@ -210,7 +210,7 @@
     },
     {
       "Id": 460013,
-      "Name": "骑乘攻击-多效",
+      "Name": "Brandish Spear -Utility",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -330,7 +330,7 @@
     },
     {
       "Id": 750000,
-      "Name": "孤注一掷-坚守",
+      "Name": "Sink or Swim - Steadfast",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -354,7 +354,7 @@
     },
     {
       "Id": 750004,
-      "Name": "符文精通-长效",
+      "Name": "Rune Mastery - Lengthened",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -370,7 +370,7 @@
     },
     {
       "Id": 750007,
-      "Name": "暴击",
+      "Name": "Critical",
       "Key": "Cri",
       "Value": 0.6,
       "Type": 1,
@@ -386,7 +386,7 @@
     },
     {
       "Id": 750009,
-      "Name": "暴伤减免%",
+      "Name": "Crit.Def.%",
       "Key": "CriDefPer",
       "Value": 0.03,
       "Type": 3,
@@ -474,7 +474,7 @@
     },
     {
       "Id": 500000,
-      "Name": "狂击-强效",
+      "Name": "Bash -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -570,7 +570,7 @@
     },
     {
       "Id": 250004,
-      "Name": "巧打-强效",
+      "Name": "Joint Beat -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -642,7 +642,7 @@
     },
     {
       "Id": 580000,
-      "Name": "投掷长矛攻击",
+      "Name": "Spear Boomerang",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -714,7 +714,7 @@
     },
     {
       "Id": 580010,
-      "Name": "投掷长矛-减速",
+      "Name": "Spear Boomerang -Slow",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -802,7 +802,7 @@
     },
     {
       "Id": 830000,
-      "Name": "附魔之刃-魔化",
+      "Name": "Enchant Blade - Transformed",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -834,7 +834,7 @@
     },
     {
       "Id": 830004,
-      "Name": "体质",
+      "Name": "VIT",
       "Key": "Vit",
       "Value": 1,
       "Type": 4,
@@ -874,7 +874,7 @@
     },
     {
       "Id": 830009,
-      "Name": "长矛熟练度Ⅰ",
+      "Name": "Spear Mastery I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -938,7 +938,7 @@
     },
     {
       "Id": 10330000,
-      "Name": "忽视物防",
+      "Name": "Ignore Def",
       "Key": "IgnoreDef",
       "Value": 0.01,
       "Type": 5,
@@ -954,7 +954,7 @@
     },
     {
       "Id": 660000,
-      "Name": "急速戳刺-螺旋",
+      "Name": "Hundred Spears - Spiral",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -978,7 +978,7 @@
     },
     {
       "Id": 330002,
-      "Name": "伤害增压-精通",
+      "Name": "Head Crush -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -1130,7 +1130,7 @@
     },
     {
       "Id": 910005,
-      "Name": "力量",
+      "Name": "Str",
       "Key": "Str",
       "Value": 1,
       "Type": 4,
@@ -1322,7 +1322,7 @@
     },
     {
       "Id": 990001,
-      "Name": "冲锋攻击",
+      "Name": "Charge Attack",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -1434,7 +1434,7 @@
     },
     {
       "Id": 990015,
-      "Name": "魔伤减免",
+      "Name": "Magic Reduc.",
       "Key": "MDamReduc",
       "Value": 0.01,
       "Type": 3,
@@ -1498,7 +1498,7 @@
     },
     {
       "Id": 570003,
-      "Name": "骑乘训练-多效Ⅱ",
+      "Name": "Cavalry Mastery -Utility II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -1626,7 +1626,7 @@
     },
     {
       "Id": 410003,
-      "Name": "强效魔法防御",
+      "Name": "Highly Effective M.Def",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -1770,7 +1770,7 @@
     },
     {
       "Id": 650004,
-      "Name": "龙之吐息-强化",
+      "Name": "Dragon Breath - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -1898,7 +1898,7 @@
     },
     {
       "Id": 900000,
-      "Name": "幻影刺击-射程",
+      "Name": "Phantom Thrust - Range",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -2090,7 +2090,7 @@
     },
     {
       "Id": 730005,
-      "Name": "急速戳刺-强化",
+      "Name": " Hundred Spears - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -2226,7 +2226,7 @@
     },
     {
       "Id": 10140000,
-      "Name": "挑衅-警惕",
+      "Name": "Taunt-Alert",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -2242,7 +2242,7 @@
     },
     {
       "Id": 140000,
-      "Name": "乘胜追击",
+      "Name": "Victorious Pursuit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -2290,7 +2290,7 @@
     },
     {
       "Id": 560004,
-      "Name": "普攻-强效",
+      "Name": "Auto Atk -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -2578,7 +2578,7 @@
     },
     {
       "Id": 320000,
-      "Name": "钢铁之心-精通",
+      "Name": "Heart of Steel -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -2666,7 +2666,7 @@
     },
     {
       "Id": 160003,
-      "Name": "集中攻击-警惕",
+      "Name": "Concentration-Alert",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -2914,7 +2914,7 @@
     },
     {
       "Id": 160013,
-      "Name": "高等剑术修炼",
+      "Name": "Advanced Sword Mastery",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -2938,7 +2938,7 @@
     },
     {
       "Id": 20002,
-      "Name": "闪避",
+      "Name": "Flee",
       "Key": "Flee",
       "Value": 1,
       "Type": 3,
@@ -2986,7 +2986,7 @@
     },
     {
       "Id": 90000,
-      "Name": "剑术修炼-强效",
+      "Name": "Sword Mastery -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -2994,7 +2994,7 @@
     },
     {
       "Id": 180000,
-      "Name": "伤害增压-致残",
+      "Name": "Head Crush -Crippling",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -3570,7 +3570,7 @@
     },
     {
       "Id": 400004,
-      "Name": "反击-反伤盾",
+      "Name": "Counter Attack-Damage Shield",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -3602,7 +3602,7 @@
     },
     {
       "Id": 400006,
-      "Name": "挑衅-范围",
+      "Name": "Taunt -AoE",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -4122,7 +4122,7 @@
     },
     {
       "Id": 710000,
-      "Name": "龙之庇护-火免",
+      "Name": "Dragon’s Protection - Fire Immunity",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -4258,7 +4258,7 @@
     },
     {
       "Id": 480000,
-      "Name": "狂暴之怒-免控",
+      "Name": "Furious Rage -CC Immunity",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -4282,7 +4282,7 @@
     },
     {
       "Id": 240001,
-      "Name": "反击-远程物理",
+      "Name": "Counter Attack-Ranged Atk",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -4426,7 +4426,7 @@
     },
     {
       "Id": 480013,
-      "Name": "狂怒之枪-警惕",
+      "Name": "Frenzy Spear-Alert",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -4450,7 +4450,7 @@
     },
     {
       "Id": 120004,
-      "Name": "反击-魔法",
+      "Name": "Counter Attack-Magic",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -4458,7 +4458,7 @@
     },
     {
       "Id": 480016,
-      "Name": "狂怒之枪-冷却",
+      "Name": "Frenzy Spear -Cooldown",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -4882,7 +4882,7 @@
     },
     {
       "Id": 130003,
-      "Name": "加速追击",
+      "Name": "Hot Pursuit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -5490,7 +5490,7 @@
     },
     {
       "Id": 10250000,
-      "Name": "连刺攻击-射程",
+      "Name": "Pierce -Range",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -5586,7 +5586,7 @@
     },
     {
       "Id": 530009,
-      "Name": "风行护甲",
+      "Name": "Wind Armor",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -6266,7 +6266,7 @@
     },
     {
       "Id": 470009,
-      "Name": "螺旋击刺-射程",
+      "Name": "Spiral Pierce -Range",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -6394,7 +6394,7 @@
     },
     {
       "Id": 470017,
-      "Name": "狂暴之怒",
+      "Name": "Furious Rage",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -7194,7 +7194,7 @@
     },
     {
       "Id": 300000,
-      "Name": "霸体-无限",
+      "Name": "Endure -Unlimited",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -7242,7 +7242,7 @@
     },
     {
       "Id": 300003,
-      "Name": "领主光环-精通",
+      "Name": "Lord's Aura -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -8346,7 +8346,7 @@
     },
     {
       "Id": 170014,
-      "Name": "剑速增加-精通",
+      "Name": "One-Hand Quicken -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -9948,7 +9948,7 @@
     },
     {
       "Id": 230000,
-      "Name": "盾击-眩晕",
+      "Name": "Shield Charge -Stun",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -9956,7 +9956,7 @@
     },
     {
       "Id": 460000,
-      "Name": "【极速回复】",
+      "Name": "(Tension Relax)",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -9964,7 +9964,7 @@
     },
     {
       "Id": 920000,
-      "Name": "圣属性攻击",
+      "Name": "Holy Dmg",
       "Key": "HolyAtk",
       "Value": 0.01,
       "Type": 5,
@@ -10124,7 +10124,7 @@
     },
     {
       "Id": 460013,
-      "Name": "濒死回复",
+      "Name": "Dying Rocovery",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -10244,7 +10244,7 @@
     },
     {
       "Id": 750000,
-      "Name": "圣音-治疗",
+      "Name": "Battle Chant - Cure",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -10268,7 +10268,7 @@
     },
     {
       "Id": 750004,
-      "Name": "圣灵感应-祝福",
+      "Name": "Inspiration - Blessing",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -10340,7 +10340,7 @@
     },
     {
       "Id": 750014,
-      "Name": "魔法攻击",
+      "Name": "M.Atk",
       "Key": "MAtk",
       "Value": 2.8,
       "Type": 2,
@@ -10484,7 +10484,7 @@
     },
     {
       "Id": 250004,
-      "Name": "生命上限%",
+      "Name": "Max HP%",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -10556,7 +10556,7 @@
     },
     {
       "Id": 580000,
-      "Name": "圣十字审判-强效",
+      "Name": "Grand Cross -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -10628,7 +10628,7 @@
     },
     {
       "Id": 580010,
-      "Name": "圣十字审判-警惕",
+      "Name": "Grand Cross-Alert",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -10716,7 +10716,7 @@
     },
     {
       "Id": 830000,
-      "Name": "无惧无畏-铁甲",
+      "Name": "Fearless - Armor",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -10748,7 +10748,7 @@
     },
     {
       "Id": 830004,
-      "Name": "智力",
+      "Name": "Int",
       "Key": "Int",
       "Value": 1,
       "Type": 4,
@@ -10780,7 +10780,7 @@
     },
     {
       "Id": 830008,
-      "Name": "精炼魔攻",
+      "Name": "Refine M.Atk",
       "Key": "MRefine",
       "Value": 2.6,
       "Type": 2,
@@ -10788,7 +10788,7 @@
     },
     {
       "Id": 830009,
-      "Name": "惩戒-强效",
+      "Name": "Retribution -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -10868,7 +10868,7 @@
     },
     {
       "Id": 660000,
-      "Name": "指挥冲锋-急速",
+      "Name": "Command of Charge - Haste",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -10892,7 +10892,7 @@
     },
     {
       "Id": 330002,
-      "Name": "治愈术-强效",
+      "Name": "Heal -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -11116,7 +11116,7 @@
     },
     {
       "Id": 370000,
-      "Name": "连续盾击-强效",
+      "Name": "Shield Chain -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -11204,7 +11204,7 @@
     },
     {
       "Id": 370008,
-      "Name": "连续盾击-射程",
+      "Name": "Shield Chain -Range",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -11500,7 +11500,7 @@
     },
     {
       "Id": 820000,
-      "Name": "虔诚-信仰",
+      "Name": "Piety - Faith",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -11684,7 +11684,7 @@
     },
     {
       "Id": 650004,
-      "Name": "大地猛击-冷却",
+      "Name": "Earth Drive - Cooldown",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -12516,7 +12516,7 @@
     },
     {
       "Id": 160001,
-      "Name": "【神之威压】",
+      "Name": "[Pressure]",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -12900,7 +12900,7 @@
     },
     {
       "Id": 90000,
-      "Name": "物理防御%",
+      "Name": "Def%",
       "Key": "DefPer",
       "Value": 0.02,
       "Type": 3,
@@ -12924,7 +12924,7 @@
     },
     {
       "Id": 720000,
-      "Name": "虔诚-长效",
+      "Name": "Piety - Lengthened",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -12956,7 +12956,7 @@
     },
     {
       "Id": 720004,
-      "Name": "血十字-强化",
+      "Name": "Overbrand - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -13092,7 +13092,7 @@
     },
     {
       "Id": 180006,
-      "Name": "【长矛熟练度】",
+      "Name": "[Spear Mastery]",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -13476,7 +13476,7 @@
     },
     {
       "Id": 200002,
-      "Name": "回旋盾击-强效",
+      "Name": "Shield Boomerang -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -14180,7 +14180,7 @@
     },
     {
       "Id": 960000,
-      "Name": "晕眩抵抗",
+      "Name": "Stun Res",
       "Key": "StunDef",
       "Value": 0.02,
       "Type": 3,
@@ -14196,7 +14196,7 @@
     },
     {
       "Id": 240001,
-      "Name": "盾击-命中",
+      "Name": "Shield Charge -Hit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -14260,7 +14260,7 @@
     },
     {
       "Id": 60001,
-      "Name": "受治疗加成",
+      "Name": "Bonus Healing",
       "Key": "BeHealEncPer",
       "Value": 0.02,
       "Type": 3,
@@ -14796,7 +14796,7 @@
     },
     {
       "Id": 130003,
-      "Name": "圣十字攻击-强效",
+      "Name": "Holy Cross -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -16100,7 +16100,7 @@
     },
     {
       "Id": 470004,
-      "Name": "圣十字祝福",
+      "Name": "Holy Cross Blissing",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -16308,7 +16308,7 @@
     },
     {
       "Id": 470017,
-      "Name": "【狂暴之怒】",
+      "Name": "(Furious Rage)",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -17388,7 +17388,7 @@
     },
     {
       "Id": 860003,
-      "Name": "无属性攻击",
+      "Name": "Neutral Dmg",
       "Key": "NeutralAtk",
       "Value": 0.01,
       "Type": 5,
@@ -19108,7 +19108,7 @@
     },
     {
       "Id": 590004,
-      "Name": "圣十字审判-速读",
+      "Name": "Grand Cross -Quick Cast",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -19862,7 +19862,7 @@
     },
     {
       "Id": 230000,
-      "Name": "法术暴击",
+      "Name": "Spell Crit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -19870,7 +19870,7 @@
     },
     {
       "Id": 460000,
-      "Name": "冰墓",
+      "Name": "Ice Tomb",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -19878,7 +19878,7 @@
     },
     {
       "Id": 920000,
-      "Name": "水属性攻击",
+      "Name": "Water Dmg",
       "Key": "WaterAtk",
       "Value": 0.01,
       "Type": 5,
@@ -19926,7 +19926,7 @@
     },
     {
       "Id": 230002,
-      "Name": "崩裂术-专精",
+      "Name": "Heaven's Drive -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -20038,7 +20038,7 @@
     },
     {
       "Id": 460013,
-      "Name": "冰墓-回复",
+      "Name": "Ice Tomb - Restore",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -20158,7 +20158,7 @@
     },
     {
       "Id": 750000,
-      "Name": "白色监狱-折磨",
+      "Name": "White Imprison - Torment",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -20182,7 +20182,7 @@
     },
     {
       "Id": 750004,
-      "Name": "灵魂爆发-强化",
+      "Name": "Soul Expansion - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -20302,7 +20302,7 @@
     },
     {
       "Id": 500000,
-      "Name": "火属性攻击",
+      "Name": "Fire Dmg",
       "Key": "FireAtk",
       "Value": 0.01,
       "Type": 5,
@@ -20398,7 +20398,7 @@
     },
     {
       "Id": 250004,
-      "Name": "重力原野Ⅰ",
+      "Name": "Gravitational Field I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -20470,7 +20470,7 @@
     },
     {
       "Id": 580000,
-      "Name": "引雷针Ⅰ",
+      "Name": "Lightning Rod I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -20542,7 +20542,7 @@
     },
     {
       "Id": 580010,
-      "Name": "元素扩散-强效",
+      "Name": "Element Diffusion -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -20606,7 +20606,7 @@
     },
     {
       "Id": 580018,
-      "Name": "怒雷强击-专精",
+      "Name": "Lord of Vermilion -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -20630,7 +20630,7 @@
     },
     {
       "Id": 830000,
-      "Name": "连锁闪电-震荡",
+      "Name": "Chain Lightning - Concussion",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -20766,7 +20766,7 @@
     },
     {
       "Id": 10330000,
-      "Name": "念力高能",
+      "Name": "Thought High Energy",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -20774,7 +20774,7 @@
     },
     {
       "Id": 330000,
-      "Name": "高能圣灵",
+      "Name": "High-energy Holy Spirit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -20782,7 +20782,7 @@
     },
     {
       "Id": 660000,
-      "Name": "元素漩涡-融合",
+      "Name": "Tetra Vortex - Merge",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -20806,7 +20806,7 @@
     },
     {
       "Id": 330002,
-      "Name": "自动圣灵-高效",
+      "Name": "Auto Holy Spirit -Efficient",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -20814,7 +20814,7 @@
     },
     {
       "Id": 660004,
-      "Name": "念属性攻击",
+      "Name": "Thought Attack",
       "Key": "GhostAtk",
       "Value": 0.01,
       "Type": 5,
@@ -20910,7 +20910,7 @@
     },
     {
       "Id": 330010,
-      "Name": "自动圣灵",
+      "Name": "Auto Holy Spirit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -20958,7 +20958,7 @@
     },
     {
       "Id": 910005,
-      "Name": "地属性攻击",
+      "Name": "Earth Dmg",
       "Key": "EarthAtk",
       "Value": 0.01,
       "Type": 5,
@@ -21030,7 +21030,7 @@
     },
     {
       "Id": 370000,
-      "Name": "破冰",
+      "Name": "Ice Breaking",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -21118,7 +21118,7 @@
     },
     {
       "Id": 370008,
-      "Name": "破冰-伤害",
+      "Name": "Ice Breaking -Damage",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -21302,7 +21302,7 @@
     },
     {
       "Id": 570000,
-      "Name": "风属性攻击",
+      "Name": "Wind Dmg",
       "Key": "WindAtk",
       "Value": 0.02,
       "Type": 5,
@@ -21486,7 +21486,7 @@
     },
     {
       "Id": 410005,
-      "Name": "冰箭术-专精",
+      "Name": "Cold Bolt -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -21598,7 +21598,7 @@
     },
     {
       "Id": 650004,
-      "Name": "魔法理解-精通",
+      "Name": "Recognized Spell - Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -21718,7 +21718,7 @@
     },
     {
       "Id": 450000,
-      "Name": "高能冰箭术",
+      "Name": "High-energy Cold Bolt",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -21726,7 +21726,7 @@
     },
     {
       "Id": 900000,
-      "Name": "连锁闪电-跳跃",
+      "Name": "Chain Lightning - Jump",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -21798,7 +21798,7 @@
     },
     {
       "Id": 450005,
-      "Name": "冰箭术-速读",
+      "Name": "Cold Bolt -Quick Cast",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -22062,7 +22062,7 @@
     },
     {
       "Id": 70000,
-      "Name": "火焰之环-速读",
+      "Name": "Ring of Fire -Quick Cast",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -22230,7 +22230,7 @@
     },
     {
       "Id": 810003,
-      "Name": "暴风雪-专精",
+      "Name": "Storm Gust -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -22406,7 +22406,7 @@
     },
     {
       "Id": 320000,
-      "Name": "法力普攻",
+      "Name": "SP auto attack",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -22430,7 +22430,7 @@
     },
     {
       "Id": 160001,
-      "Name": "火柱攻击",
+      "Name": "Fire Pillar Attack",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -22494,7 +22494,7 @@
     },
     {
       "Id": 160003,
-      "Name": "火柱攻击-强效",
+      "Name": "Fire Pillar -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -22822,7 +22822,7 @@
     },
     {
       "Id": 180000,
-      "Name": "陨石术Ⅱ",
+      "Name": "Meteor Storm II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -22870,7 +22870,7 @@
     },
     {
       "Id": 720004,
-      "Name": "生命吸收-强化",
+      "Name": "HP Absorb - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -22878,7 +22878,7 @@
     },
     {
       "Id": 90001,
-      "Name": "火箭术-专精",
+      "Name": "Fire Bolt -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -23006,7 +23006,7 @@
     },
     {
       "Id": 180006,
-      "Name": "陨石术Ⅰ",
+      "Name": "Meteor Storm I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -23318,7 +23318,7 @@
     },
     {
       "Id": 100000,
-      "Name": "火狩护佑",
+      "Name": "Sight Blissing",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -23382,7 +23382,7 @@
     },
     {
       "Id": 100001,
-      "Name": "火球术-强效",
+      "Name": "Fire Ball -Quick Cast",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -23766,7 +23766,7 @@
     },
     {
       "Id": 220002,
-      "Name": "火焰之环-抵挡",
+      "Name": "Ring of Fire -Block",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -24054,7 +24054,7 @@
     },
     {
       "Id": 30000,
-      "Name": "火箭术-速读",
+      "Name": "Fire Bolt -Quick Cast",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -24086,7 +24086,7 @@
     },
     {
       "Id": 480000,
-      "Name": "无视空间",
+      "Name": "Invisible Space",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -24110,7 +24110,7 @@
     },
     {
       "Id": 240001,
-      "Name": "重力原野Ⅱ",
+      "Name": "Gravitational Field II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -24278,7 +24278,7 @@
     },
     {
       "Id": 120004,
-      "Name": "普攻点燃",
+      "Name": "Auto Attack Igniting",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -25350,7 +25350,7 @@
     },
     {
       "Id": 530000,
-      "Name": "点燃-强效",
+      "Name": "Alight -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -25446,7 +25446,7 @@
     },
     {
       "Id": 390000,
-      "Name": "破冰-蔓延",
+      "Name": "Ice Breaking -Spread",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -25862,7 +25862,7 @@
     },
     {
       "Id": 690009,
-      "Name": "状态易伤-强化",
+      "Name": "Status Vulnerability - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -27022,7 +27022,7 @@
     },
     {
       "Id": 300000,
-      "Name": "元素集中",
+      "Name": "Element Concentration",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -27790,7 +27790,7 @@
     },
     {
       "Id": 170002,
-      "Name": "高能火箭术",
+      "Name": "High-energy Fire Bolt",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -27950,7 +27950,7 @@
     },
     {
       "Id": 170007,
-      "Name": "火狩叠加",
+      "Name": "Sight Accumulation",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -28990,7 +28990,7 @@
     },
     {
       "Id": 590000,
-      "Name": "元素扩散",
+      "Name": "Element Diffusion",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -29694,7 +29694,7 @@
     },
     {
       "Id": 160015,
-      "Name": "双重火柱",
+      "Name": "Double Fire Pillars",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -29840,7 +29840,7 @@
     },
     {
       "Id": 230002,
-      "Name": "敏捷",
+      "Name": "Agi",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -39690,7 +39690,7 @@
     },
     {
       "Id": 230000,
-      "Name": "音速投掷Ⅰ",
+      "Name": "Sonic Blow I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -39698,7 +39698,7 @@
     },
     {
       "Id": 460000,
-      "Name": "致命涂毒-强化",
+      "Name": "Enchant Deadly Poison -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -39754,7 +39754,7 @@
     },
     {
       "Id": 230002,
-      "Name": "音速投掷Ⅱ",
+      "Name": "Sonic Blow II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -39850,7 +39850,7 @@
     },
     {
       "Id": 230006,
-      "Name": "音速投掷Ⅲ",
+      "Name": "Sonic Blow III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -39866,7 +39866,7 @@
     },
     {
       "Id": 460013,
-      "Name": "物理攻击%",
+      "Name": "Dmg%",
       "Key": "AtkPer",
       "Value": 0.01,
       "Type": 1,
@@ -39978,7 +39978,7 @@
     },
     {
       "Id": 230016,
-      "Name": "病毒散播Ⅰ",
+      "Name": "Virus Diffusion I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -39986,7 +39986,7 @@
     },
     {
       "Id": 750000,
-      "Name": "剧毒蔓延",
+      "Name": "Toxic Spread",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -40010,7 +40010,7 @@
     },
     {
       "Id": 750004,
-      "Name": "武器格挡-反击斩",
+      "Name": "Weapon Blocking - Counter Slash",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -40130,7 +40130,7 @@
     },
     {
       "Id": 500000,
-      "Name": "中毒Ⅱ",
+      "Name": "Poisoned II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -40226,7 +40226,7 @@
     },
     {
       "Id": 250004,
-      "Name": "黑暗瞬间-瞬杀",
+      "Name": "Meteor Assault -Instant Kill",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -40298,7 +40298,7 @@
     },
     {
       "Id": 580000,
-      "Name": "心灵震波-专精",
+      "Name": "Soul Breaker -Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -40370,7 +40370,7 @@
     },
     {
       "Id": 580010,
-      "Name": "心灵震波-强效",
+      "Name": "Soul Breaker -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -40458,7 +40458,7 @@
     },
     {
       "Id": 830000,
-      "Name": "疾风步-破法",
+      "Name": "Hallucination Walk - Magic Break",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -40490,7 +40490,7 @@
     },
     {
       "Id": 830004,
-      "Name": "毒属性攻击",
+      "Name": "Poison Attack",
       "Key": "PoisoningAtk",
       "Value": 0.01,
       "Type": 5,
@@ -40530,7 +40530,7 @@
     },
     {
       "Id": 830009,
-      "Name": "心灵震波-增幅",
+      "Name": "Soul Breaker -Increase ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -40602,7 +40602,7 @@
     },
     {
       "Id": 330000,
-      "Name": "无影之牙Ⅲ",
+      "Name": "Grimtooth III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -40610,7 +40610,7 @@
     },
     {
       "Id": 660000,
-      "Name": "回旋利刃-切割",
+      "Name": "Rolling Cutter - Cut",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -40634,7 +40634,7 @@
     },
     {
       "Id": 330002,
-      "Name": "无影之牙Ⅳ",
+      "Name": "Grimtooth Ⅳ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -40642,7 +40642,7 @@
     },
     {
       "Id": 660004,
-      "Name": "暴伤%",
+      "Name": "Crit.Dmg%",
       "Key": "CriDamPer",
       "Value": 0.01,
       "Type": 1,
@@ -40738,7 +40738,7 @@
     },
     {
       "Id": 330010,
-      "Name": "无影之牙Ⅴ",
+      "Name": "Grimtooth Ⅴ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -40762,7 +40762,7 @@
     },
     {
       "Id": 330012,
-      "Name": "对中型魔物的伤害",
+      "Name": "Damage to middle-sized monster",
       "Key": "MidDamPer",
       "Value": 0.025,
       "Type": 5,
@@ -40858,7 +40858,7 @@
     },
     {
       "Id": 370000,
-      "Name": "强化涂毒Ⅰ",
+      "Name": "Enhanced Enchant Poison I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -40946,7 +40946,7 @@
     },
     {
       "Id": 370008,
-      "Name": "强化涂毒Ⅱ",
+      "Name": "Enhanced Enchant Poison II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -41130,7 +41130,7 @@
     },
     {
       "Id": 570000,
-      "Name": "拳刃修炼Ⅱ",
+      "Name": "Katar Mastery II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -41154,7 +41154,7 @@
     },
     {
       "Id": 570003,
-      "Name": "拳刃修炼Ⅲ",
+      "Name": "Katar Mastery III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -41274,7 +41274,7 @@
     },
     {
       "Id": 820004,
-      "Name": "拳刃修炼",
+      "Name": "Katar Mastery",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -41282,7 +41282,7 @@
     },
     {
       "Id": 410003,
-      "Name": "无影之牙_增幅Ⅰ",
+      "Name": "Grimtooth - Increase I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -41314,7 +41314,7 @@
     },
     {
       "Id": 410005,
-      "Name": "无影之牙_增幅Ⅱ",
+      "Name": "Grimtooth - Increase II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -41426,7 +41426,7 @@
     },
     {
       "Id": 650004,
-      "Name": "回旋十字斩-强化",
+      "Name": "Cross Ripper Slasher - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -41554,7 +41554,7 @@
     },
     {
       "Id": 900000,
-      "Name": "疾风步-无影",
+      "Name": "Hallucination Walk - Shadowless",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -41746,7 +41746,7 @@
     },
     {
       "Id": 730005,
-      "Name": "暗影步-突袭",
+      "Name": "Dark Illusion - Assault",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -41842,7 +41842,7 @@
     },
     {
       "Id": 980004,
-      "Name": "隐匿强化-延时",
+      "Name": "Enhanced Hiding -Delay",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -41866,7 +41866,7 @@
     },
     {
       "Id": 490004,
-      "Name": "毒性克制Ⅱ",
+      "Name": "Poison Restraint II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -41882,7 +41882,7 @@
     },
     {
       "Id": 10140000,
-      "Name": "无影之牙Ⅱ",
+      "Name": "Grimtooth Ⅱ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -41890,7 +41890,7 @@
     },
     {
       "Id": 70000,
-      "Name": "伏击增幅Ⅳ",
+      "Name": "Ambush Booster IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -41898,7 +41898,7 @@
     },
     {
       "Id": 140000,
-      "Name": "二刀增幅Ⅴ",
+      "Name": "Twin Blade Booster V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -41946,7 +41946,7 @@
     },
     {
       "Id": 560004,
-      "Name": "涂毒Ⅰ",
+      "Name": "Enchant Poison I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -42322,7 +42322,7 @@
     },
     {
       "Id": 160003,
-      "Name": "毒药投掷-强效",
+      "Name": "Poison Cast -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -42514,7 +42514,7 @@
     },
     {
       "Id": 80005,
-      "Name": "伏击增幅Ⅰ",
+      "Name": "Ambush Booster I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -42642,7 +42642,7 @@
     },
     {
       "Id": 90000,
-      "Name": "伏击增幅Ⅱ",
+      "Name": "Ambush Booster II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -42658,7 +42658,7 @@
     },
     {
       "Id": 360000,
-      "Name": "强刃击Ⅱ",
+      "Name": "Strong Blade Attack II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -42706,7 +42706,7 @@
     },
     {
       "Id": 90001,
-      "Name": "伏击增幅Ⅲ",
+      "Name": "Ambush Booster III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -43034,7 +43034,7 @@
     },
     {
       "Id": 550000,
-      "Name": "涂毒Ⅱ",
+      "Name": "Enchant Poison II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -43146,7 +43146,7 @@
     },
     {
       "Id": 100000,
-      "Name": "二刀增幅Ⅲ",
+      "Name": "Twin Blade Booster III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -43210,7 +43210,7 @@
     },
     {
       "Id": 100001,
-      "Name": "二刀增幅Ⅳ",
+      "Name": "Twin Blade Booster IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -43218,7 +43218,7 @@
     },
     {
       "Id": 200002,
-      "Name": "病毒散播Ⅱ",
+      "Name": "Virus Diffusion Ⅱ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -43530,7 +43530,7 @@
     },
     {
       "Id": 220000,
-      "Name": "眩晕加伤Ⅲ",
+      "Name": "Stunning Damage III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -43554,7 +43554,7 @@
     },
     {
       "Id": 440001,
-      "Name": "无影之牙_增幅Ⅳ",
+      "Name": "Grimtooth _Increase Ⅳ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -43594,7 +43594,7 @@
     },
     {
       "Id": 220002,
-      "Name": "眩晕加伤Ⅳ",
+      "Name": "Stunning Damage IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -43882,7 +43882,7 @@
     },
     {
       "Id": 30000,
-      "Name": "二刀增幅Ⅰ",
+      "Name": "Twin Blade Booster I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -43890,7 +43890,7 @@
     },
     {
       "Id": 60000,
-      "Name": "双刀破甲Ⅰ",
+      "Name": "Twin Blade Penetration I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -43938,7 +43938,7 @@
     },
     {
       "Id": 240001,
-      "Name": "黑暗瞬间-专精",
+      "Name": "Meteor Assault -Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -44002,7 +44002,7 @@
     },
     {
       "Id": 60001,
-      "Name": "双刀破甲Ⅱ",
+      "Name": "Twin Blade Penetration II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -44098,7 +44098,7 @@
     },
     {
       "Id": 60002,
-      "Name": "后退回避Ⅰ",
+      "Name": "Back Sliding I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -44106,7 +44106,7 @@
     },
     {
       "Id": 120004,
-      "Name": "毒药投掷",
+      "Name": "Poison Cast",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -44298,7 +44298,7 @@
     },
     {
       "Id": 270011,
-      "Name": "病毒散播Ⅳ",
+      "Name": "Virus Diffusion Ⅳ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -44306,7 +44306,7 @@
     },
     {
       "Id": 10050000,
-      "Name": "伏击增幅Ⅴ",
+      "Name": "Ambush Booster Ⅴ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -44442,7 +44442,7 @@
     },
     {
       "Id": 30003,
-      "Name": "二刀增幅Ⅱ",
+      "Name": "Twin Blade Booster II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -44538,7 +44538,7 @@
     },
     {
       "Id": 130003,
-      "Name": "剧毒暗器Ⅰ",
+      "Name": "Venom Dart I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -44578,7 +44578,7 @@
     },
     {
       "Id": 310000,
-      "Name": "无影之牙Ⅰ",
+      "Name": "Grimtooth I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -44754,7 +44754,7 @@
     },
     {
       "Id": 130009,
-      "Name": "剧毒暗器Ⅱ",
+      "Name": "Venom Dart II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -44978,7 +44978,7 @@
     },
     {
       "Id": 350004,
-      "Name": "强刃击Ⅲ",
+      "Name": "Strong Blade Attack Ⅲ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -45146,7 +45146,7 @@
     },
     {
       "Id": 10250000,
-      "Name": "无影之牙_增幅Ⅲ",
+      "Name": "Grimtooth _Increase Ⅲ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -45274,7 +45274,7 @@
     },
     {
       "Id": 390000,
-      "Name": "斩击-专精",
+      "Name": "Slash -Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -45282,7 +45282,7 @@
     },
     {
       "Id": 780000,
-      "Name": "毒性爆发",
+      "Name": "Poison Burst",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -45586,7 +45586,7 @@
     },
     {
       "Id": 430006,
-      "Name": "拳刃修炼Ⅰ",
+      "Name": "Katar Mastery I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -47338,7 +47338,7 @@
     },
     {
       "Id": 550002,
-      "Name": "中毒Ⅰ",
+      "Name": "Poisoned I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -47402,7 +47402,7 @@
     },
     {
       "Id": 10060000,
-      "Name": "后退回避Ⅱ",
+      "Name": "Back Sliding II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -47618,7 +47618,7 @@
     },
     {
       "Id": 170002,
-      "Name": "剧毒暗器Ⅲ",
+      "Name": "Venom Dart III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -47642,7 +47642,7 @@
     },
     {
       "Id": 340005,
-      "Name": "毒性克制Ⅰ",
+      "Name": "Poison Restraint I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -47778,7 +47778,7 @@
     },
     {
       "Id": 170007,
-      "Name": "剧毒暗器Ⅳ",
+      "Name": "Venom Dart IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -48002,7 +48002,7 @@
     },
     {
       "Id": 170014,
-      "Name": "剧毒暗器Ⅴ",
+      "Name": "Venom Dart V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -48266,7 +48266,7 @@
     },
     {
       "Id": 190000,
-      "Name": "眩晕加伤Ⅴ",
+      "Name": "Stunning Damage V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -48514,7 +48514,7 @@
     },
     {
       "Id": 10370000,
-      "Name": "人形种族加伤",
+      "Name": "Dmg to Demi-Human",
       "Key": "DemiHumanDamPer",
       "Value": 0.025,
       "Type": 5,
@@ -48978,7 +48978,7 @@
     },
     {
       "Id": 210000,
-      "Name": "眩晕加伤Ⅰ",
+      "Name": "Stunning Damage I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -48986,7 +48986,7 @@
     },
     {
       "Id": 420000,
-      "Name": "毒刃Ⅰ",
+      "Name": "Venom Knife I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49018,7 +49018,7 @@
     },
     {
       "Id": 420002,
-      "Name": "毒刃Ⅱ",
+      "Name": "Venom Knife II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49106,7 +49106,7 @@
     },
     {
       "Id": 210004,
-      "Name": "眩晕加伤Ⅱ",
+      "Name": "Stunning Damage II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49314,7 +49314,7 @@
     },
     {
       "Id": 440007,
-      "Name": "无影之牙_增幅Ⅴ",
+      "Name": "Grimtooth _Increase Ⅴ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49378,7 +49378,7 @@
     },
     {
       "Id": 360003,
-      "Name": "强刃击Ⅰ",
+      "Name": "Strong Blade Attack I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49466,7 +49466,7 @@
     },
     {
       "Id": 270000,
-      "Name": "病毒散播Ⅲ",
+      "Name": "Virus Diffusion Ⅲ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49482,7 +49482,7 @@
     },
     {
       "Id": 260000,
-      "Name": "病毒散播Ⅴ",
+      "Name": "Virus Diffusion Ⅴ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49604,7 +49604,7 @@
     },
     {
       "Id": 230000,
-      "Name": "潜击-强效",
+      "Name": "Raid -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49612,7 +49612,7 @@
     },
     {
       "Id": 460000,
-      "Name": "擒拿-防护",
+      "Name": "Close Confine -Defense",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49668,7 +49668,7 @@
     },
     {
       "Id": 230002,
-      "Name": "潜击-易伤",
+      "Name": "Raid -Vulnerable",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -49804,7 +49804,7 @@
     },
     {
       "Id": 460015,
-      "Name": "定身抵抗",
+      "Name": "Snare Res",
       "Key": "SlowDef",
       "Value": 0.04,
       "Type": 3,
@@ -49900,7 +49900,7 @@
     },
     {
       "Id": 750000,
-      "Name": "逐影",
+      "Name": "Shadow Chaser ",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -49924,7 +49924,7 @@
     },
     {
       "Id": 750004,
-      "Name": "死亡标记-追击",
+      "Name": "Mark of Death - Chase Down",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -50044,7 +50044,7 @@
     },
     {
       "Id": 500000,
-      "Name": "灵巧",
+      "Name": "Dex",
       "Key": "Dex",
       "Value": 1,
       "Type": 4,
@@ -50140,7 +50140,7 @@
     },
     {
       "Id": 250004,
-      "Name": "眩晕追击",
+      "Name": "Stunning Pursuit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -50212,7 +50212,7 @@
     },
     {
       "Id": 580000,
-      "Name": "胁持-强效",
+      "Name": "Intimidate -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -50284,7 +50284,7 @@
     },
     {
       "Id": 580010,
-      "Name": "胁持-压迫",
+      "Name": "Intimidate -Oppress",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -50372,7 +50372,7 @@
     },
     {
       "Id": 830000,
-      "Name": "死亡标记-噩梦",
+      "Name": "Mark of Death - Nightmare",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -50444,7 +50444,7 @@
     },
     {
       "Id": 830009,
-      "Name": "弓类修炼",
+      "Name": "Bow Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -50508,7 +50508,7 @@
     },
     {
       "Id": 10330000,
-      "Name": "销声匿迹-冷却",
+      "Name": "Vanished -Cooldown",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -50516,7 +50516,7 @@
     },
     {
       "Id": 330000,
-      "Name": "【陷阱探查】",
+      "Name": "[Talkie Box]",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -50524,7 +50524,7 @@
     },
     {
       "Id": 660000,
-      "Name": "黑洞陷阱-专精",
+      "Name": "Manhole - Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -50548,7 +50548,7 @@
     },
     {
       "Id": 330002,
-      "Name": "定身追击",
+      "Name": "Freezing Pursuit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -50772,7 +50772,7 @@
     },
     {
       "Id": 370000,
-      "Name": "背刺-强效",
+      "Name": "Back Stab -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -50860,7 +50860,7 @@
     },
     {
       "Id": 370008,
-      "Name": "背刺-精通",
+      "Name": "Back Stab -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -50988,7 +50988,7 @@
     },
     {
       "Id": 990013,
-      "Name": "冰冻抵抗",
+      "Name": "Freeze Res",
       "Key": "FreezeDef",
       "Value": 0.03,
       "Type": 3,
@@ -51316,7 +51316,7 @@
     },
     {
       "Id": 650000,
-      "Name": "嗜血渴望-牢笼",
+      "Name": "Blood Thirst - Cage",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -51340,7 +51340,7 @@
     },
     {
       "Id": 650004,
-      "Name": "黑洞陷阱-吞噬",
+      "Name": "Manhole - Devour",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -51460,7 +51460,7 @@
     },
     {
       "Id": 450000,
-      "Name": "双倍防具卸除",
+      "Name": "Double Armor Removal",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -51468,7 +51468,7 @@
     },
     {
       "Id": 900000,
-      "Name": "威胁恐吓-惊吓",
+      "Name": "Threaten - Frighten",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -51660,7 +51660,7 @@
     },
     {
       "Id": 730005,
-      "Name": "魔力陷阱-强化",
+      "Name": "Magic Trap - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -51780,7 +51780,7 @@
     },
     {
       "Id": 490004,
-      "Name": "短剑修炼",
+      "Name": "Sword Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -52172,7 +52172,7 @@
     },
     {
       "Id": 160001,
-      "Name": "三连矢-强效",
+      "Name": "Triangle Shot -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -52556,7 +52556,7 @@
     },
     {
       "Id": 90000,
-      "Name": "二刀连击-强效",
+      "Name": "Double Attack -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -52948,7 +52948,7 @@
     },
     {
       "Id": 550000,
-      "Name": "伏击-强效",
+      "Name": "The Ambush -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -53132,7 +53132,7 @@
     },
     {
       "Id": 200002,
-      "Name": "远程物理伤害",
+      "Name": "Ranged Physical Damage",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -53732,7 +53732,7 @@
     },
     {
       "Id": 710005,
-      "Name": "魔力陷阱-退魔",
+      "Name": "Magic Trap - Exorcism",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -53996,7 +53996,7 @@
     },
     {
       "Id": 480013,
-      "Name": "石化抵抗",
+      "Name": "Stone Res",
       "Key": "StoneDef",
       "Value": 0.04,
       "Type": 3,
@@ -54348,7 +54348,7 @@
     },
     {
       "Id": 520001,
-      "Name": "销声匿迹-精通",
+      "Name": "Vanished -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -56764,7 +56764,7 @@
     },
     {
       "Id": 300000,
-      "Name": "【陷阱移除】",
+      "Name": "[Remove Trap]",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -57532,7 +57532,7 @@
     },
     {
       "Id": 170002,
-      "Name": "【流氓天堂】",
+      "Name": "[Gangster's Paradise]",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -59518,7 +59518,7 @@
     },
     {
       "Id": 230000,
-      "Name": "分裂箭Ⅵ",
+      "Name": "Splitting Arrows VI",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -59526,7 +59526,7 @@
     },
     {
       "Id": 460000,
-      "Name": "多重扫射-强效",
+      "Name": "Multi Firing -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -59582,7 +59582,7 @@
     },
     {
       "Id": 230002,
-      "Name": "分裂箭Ⅶ",
+      "Name": "Splitting Arrows VII",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -59678,7 +59678,7 @@
     },
     {
       "Id": 230006,
-      "Name": "重伤箭Ⅰ",
+      "Name": "Heavy Arrow I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -59694,7 +59694,7 @@
     },
     {
       "Id": 460013,
-      "Name": "多重扫射-专精",
+      "Name": "Multi Firing -Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -59806,7 +59806,7 @@
     },
     {
       "Id": 230016,
-      "Name": "重伤箭Ⅱ",
+      "Name": "Heavy Arrow Ⅱ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -59814,7 +59814,7 @@
     },
     {
       "Id": 750000,
-      "Name": "死亡狙击-强化",
+      "Name": "Deadly Snipe - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -59838,7 +59838,7 @@
     },
     {
       "Id": 750004,
-      "Name": "电击陷阱-强化",
+      "Name": "Electric Shock - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60054,7 +60054,7 @@
     },
     {
       "Id": 250004,
-      "Name": "专注射击-精通",
+      "Name": "Sharp Shooting -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60126,7 +60126,7 @@
     },
     {
       "Id": 580000,
-      "Name": "猎鹰-驱散",
+      "Name": "Falcon -Clearance",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60198,7 +60198,7 @@
     },
     {
       "Id": 580010,
-      "Name": "猎鹰-震慑",
+      "Name": "Falcon -Stun",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60286,7 +60286,7 @@
     },
     {
       "Id": 830000,
-      "Name": "死亡狙击-精准",
+      "Name": "Deadly Snipe - Precision",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60358,7 +60358,7 @@
     },
     {
       "Id": 830009,
-      "Name": "定身加伤",
+      "Name": "Freezing Damage",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60430,7 +60430,7 @@
     },
     {
       "Id": 330000,
-      "Name": "闪电冲击Ⅷ",
+      "Name": "Blitz Beat VIII",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60438,7 +60438,7 @@
     },
     {
       "Id": 660000,
-      "Name": "狼突击-强效",
+      "Name": "Warg Strike - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60462,7 +60462,7 @@
     },
     {
       "Id": 330002,
-      "Name": "分裂箭Ⅰ",
+      "Name": "Splitting Arrows I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60566,7 +60566,7 @@
     },
     {
       "Id": 330010,
-      "Name": "分裂箭Ⅱ",
+      "Name": "Splitting Arrows II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60590,7 +60590,7 @@
     },
     {
       "Id": 330012,
-      "Name": "分裂箭Ⅲ",
+      "Name": "Splitting Arrows III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60686,7 +60686,7 @@
     },
     {
       "Id": 370000,
-      "Name": "爆散陷阱Ⅴ",
+      "Name": "Claymore Trap V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60774,7 +60774,7 @@
     },
     {
       "Id": 370008,
-      "Name": "引爆Ⅰ",
+      "Name": "Detonator I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60806,7 +60806,7 @@
     },
     {
       "Id": 990001,
-      "Name": "魔伤加成",
+      "Name": "M.Dmg Inc.",
       "Key": "MDamIncrease",
       "Value": 0.01,
       "Type": 2,
@@ -60958,7 +60958,7 @@
     },
     {
       "Id": 570000,
-      "Name": "冰霜陷阱Ⅱ",
+      "Name": "Frost Trap II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -60982,7 +60982,7 @@
     },
     {
       "Id": 570003,
-      "Name": "冰霜陷阱Ⅲ",
+      "Name": "Frost Trap III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -61110,7 +61110,7 @@
     },
     {
       "Id": 410003,
-      "Name": "引爆Ⅱ",
+      "Name": "Detonator II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -61142,7 +61142,7 @@
     },
     {
       "Id": 410005,
-      "Name": "引爆Ⅲ",
+      "Name": "Detonator III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -61254,7 +61254,7 @@
     },
     {
       "Id": 650004,
-      "Name": "蓄势待发-专精",
+      "Name": "Exceed Break- Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -61382,7 +61382,7 @@
     },
     {
       "Id": 900000,
-      "Name": "自然庇护",
+      "Name": "Nature’s Protection",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -61710,7 +61710,7 @@
     },
     {
       "Id": 10140000,
-      "Name": "闪电冲击Ⅶ",
+      "Name": "Blitz Beat Ⅶ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -61718,7 +61718,7 @@
     },
     {
       "Id": 70000,
-      "Name": "箭雨Ⅳ",
+      "Name": "Arrow ShowerⅣ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -61726,7 +61726,7 @@
     },
     {
       "Id": 140000,
-      "Name": "元素箭矢Ⅲ",
+      "Name": "Elemental Arrow Ⅲ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -62062,7 +62062,7 @@
     },
     {
       "Id": 320000,
-      "Name": "分裂箭Ⅳ",
+      "Name": "Splitting Arrows IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -62086,7 +62086,7 @@
     },
     {
       "Id": 160001,
-      "Name": "陷阱研究-精通",
+      "Name": "Trap Research -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -62150,7 +62150,7 @@
     },
     {
       "Id": 160003,
-      "Name": "地雷陷阱-强化",
+      "Name": "Land Mine -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -62190,7 +62190,7 @@
     },
     {
       "Id": 320009,
-      "Name": "分裂箭Ⅴ",
+      "Name": "Splitting Arrows V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -62286,7 +62286,7 @@
     },
     {
       "Id": 160008,
-      "Name": "陷阱-噩梦",
+      "Name": "Trap -Nightmare",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -62342,7 +62342,7 @@
     },
     {
       "Id": 80005,
-      "Name": "箭雨Ⅰ",
+      "Name": "Arrow Shower I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -62470,7 +62470,7 @@
     },
     {
       "Id": 90000,
-      "Name": "箭雨Ⅱ",
+      "Name": "Arrow Shower II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -62486,7 +62486,7 @@
     },
     {
       "Id": 360000,
-      "Name": "冲锋箭Ⅲ",
+      "Name": "Arrow Repel III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -62526,7 +62526,7 @@
     },
     {
       "Id": 720004,
-      "Name": "箭矢风暴-暴风",
+      "Name": "Arrow Storm - Storm",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -62534,7 +62534,7 @@
     },
     {
       "Id": 90001,
-      "Name": "箭雨Ⅲ",
+      "Name": "Arrow ShowerⅢ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -62974,7 +62974,7 @@
     },
     {
       "Id": 100000,
-      "Name": "元素箭矢Ⅰ",
+      "Name": "Elemental Arrow I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -63038,7 +63038,7 @@
     },
     {
       "Id": 100001,
-      "Name": "元素箭矢Ⅱ",
+      "Name": "Elemental Arrow II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -63046,7 +63046,7 @@
     },
     {
       "Id": 200002,
-      "Name": "爆散陷阱Ⅰ",
+      "Name": "Claymore Trap I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -63294,7 +63294,7 @@
     },
     {
       "Id": 630003,
-      "Name": "驯狼术",
+      "Name": "Wolf Training",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -63358,7 +63358,7 @@
     },
     {
       "Id": 220000,
-      "Name": "定身加伤Ⅲ",
+      "Name": "Freezing Damage III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -63382,7 +63382,7 @@
     },
     {
       "Id": 440001,
-      "Name": "引爆Ⅴ",
+      "Name": "Detonator Ⅴ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -63422,7 +63422,7 @@
     },
     {
       "Id": 220002,
-      "Name": "冲锋箭Ⅰ",
+      "Name": "Arrow Repel I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -63606,7 +63606,7 @@
     },
     {
       "Id": 710000,
-      "Name": "狼突击-协同",
+      "Name": "Warg Strike - Synergy",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -63710,7 +63710,7 @@
     },
     {
       "Id": 30000,
-      "Name": "火箭雨",
+      "Name": "Fire Arrow Shower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -63718,7 +63718,7 @@
     },
     {
       "Id": 60000,
-      "Name": "闪电冲击Ⅰ",
+      "Name": "Blitz Beat I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -63766,7 +63766,7 @@
     },
     {
       "Id": 240001,
-      "Name": "禁锢箭",
+      "Name": "Imprisoned arrow",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -63830,7 +63830,7 @@
     },
     {
       "Id": 60001,
-      "Name": "闪电冲击Ⅱ",
+      "Name": "Blitz Beat II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -63926,7 +63926,7 @@
     },
     {
       "Id": 60002,
-      "Name": "闪电冲击Ⅲ",
+      "Name": "Blitz Beat Ⅲ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -64126,7 +64126,7 @@
     },
     {
       "Id": 270011,
-      "Name": "爆散陷阱Ⅲ",
+      "Name": "Claymore Trap III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -64134,7 +64134,7 @@
     },
     {
       "Id": 10050000,
-      "Name": "箭雨Ⅴ",
+      "Name": "Arrow Shower V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -64262,7 +64262,7 @@
     },
     {
       "Id": 520001,
-      "Name": "宠物伤害Ⅰ",
+      "Name": "Pet Damage I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -64270,7 +64270,7 @@
     },
     {
       "Id": 30003,
-      "Name": "火禁锢",
+      "Name": "Fire Imprison",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -64366,7 +64366,7 @@
     },
     {
       "Id": 130003,
-      "Name": "闪电冲击Ⅴ",
+      "Name": "Blitz Beat Ⅴ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -64406,7 +64406,7 @@
     },
     {
       "Id": 310000,
-      "Name": "闪电冲击Ⅵ",
+      "Name": "Blitz Beat VI",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -64582,7 +64582,7 @@
     },
     {
       "Id": 130009,
-      "Name": "驯兽术Ⅰ",
+      "Name": "Beastmastery I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -64598,7 +64598,7 @@
     },
     {
       "Id": 870004,
-      "Name": "驯兽术",
+      "Name": "Beastmastery",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -64806,7 +64806,7 @@
     },
     {
       "Id": 350004,
-      "Name": "冲锋箭Ⅳ",
+      "Name": "Arrow Repel Ⅳ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -64974,7 +64974,7 @@
     },
     {
       "Id": 10250000,
-      "Name": "引爆Ⅳ",
+      "Name": "Detonator Ⅳ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -65414,7 +65414,7 @@
     },
     {
       "Id": 430006,
-      "Name": "冰霜陷阱Ⅰ",
+      "Name": "Frost Trap I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -66318,7 +66318,7 @@
     },
     {
       "Id": 510000,
-      "Name": "宠物伤害Ⅱ",
+      "Name": "Pet Damage II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -67230,7 +67230,7 @@
     },
     {
       "Id": 10060000,
-      "Name": "闪电冲击Ⅳ",
+      "Name": "Blitz Beat Ⅳ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -67446,7 +67446,7 @@
     },
     {
       "Id": 170002,
-      "Name": "驯兽术Ⅱ",
+      "Name": "Beastmastery II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -67470,7 +67470,7 @@
     },
     {
       "Id": 340005,
-      "Name": "冲锋箭Ⅴ",
+      "Name": "Arrow Repel Ⅴ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -67606,7 +67606,7 @@
     },
     {
       "Id": 170007,
-      "Name": "驯兽术Ⅲ",
+      "Name": "Beastmastery III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -67830,7 +67830,7 @@
     },
     {
       "Id": 170014,
-      "Name": "驯兽术Ⅳ",
+      "Name": "Beastmastery IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -67862,7 +67862,7 @@
     },
     {
       "Id": 170015,
-      "Name": "驯兽术Ⅴ",
+      "Name": "Beastmastery V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -68094,7 +68094,7 @@
     },
     {
       "Id": 190000,
-      "Name": "冲锋箭Ⅱ",
+      "Name": "Arrow Repel Ⅱ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -68342,7 +68342,7 @@
     },
     {
       "Id": 10370000,
-      "Name": "冰霜陷阱Ⅴ",
+      "Name": "Frost Trap Ⅴ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -68494,7 +68494,7 @@
     },
     {
       "Id": 600003,
-      "Name": "冰霜陷阱Ⅳ",
+      "Name": "Frost Trap IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -68806,7 +68806,7 @@
     },
     {
       "Id": 210000,
-      "Name": "定身加伤Ⅰ",
+      "Name": "Freezing Damage I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -68846,7 +68846,7 @@
     },
     {
       "Id": 420002,
-      "Name": "冲锋箭Ⅵ",
+      "Name": "Arrow Repel Ⅵ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -68934,7 +68934,7 @@
     },
     {
       "Id": 210004,
-      "Name": "定身加伤Ⅱ",
+      "Name": "Freezing Damage II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -68958,7 +68958,7 @@
     },
     {
       "Id": 420009,
-      "Name": "冲锋箭Ⅶ",
+      "Name": "Arrow Repel Ⅶ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -69142,7 +69142,7 @@
     },
     {
       "Id": 440007,
-      "Name": "引爆Ⅵ",
+      "Name": "Detonator Ⅵ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -69294,7 +69294,7 @@
     },
     {
       "Id": 270000,
-      "Name": "爆散陷阱Ⅱ",
+      "Name": "Claymore Trap II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -69310,7 +69310,7 @@
     },
     {
       "Id": 260000,
-      "Name": "爆散陷阱Ⅳ",
+      "Name": "Claymore Trap IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -69608,7 +69608,7 @@
     },
     {
       "Id": 460013,
-      "Name": "物伤减免",
+      "Name": "Dmg Reduc.",
       "Key": "DamReduc",
       "Value": 0.01,
       "Type": 3,
@@ -72064,7 +72064,7 @@
     },
     {
       "Id": 160003,
-      "Name": "智力转换",
+      "Name": "INT Switch",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -89260,7 +89260,7 @@
     },
     {
       "Id": 230000,
-      "Name": "钝器熟练度-强效",
+      "Name": "The Blunt Mastery -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -89268,7 +89268,7 @@
     },
     {
       "Id": 460000,
-      "Name": "双向传送",
+      "Name": "Two-way Teleport",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -89436,7 +89436,7 @@
     },
     {
       "Id": 460013,
-      "Name": "高等物理防御",
+      "Name": "Advanced Def",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -89460,7 +89460,7 @@
     },
     {
       "Id": 460015,
-      "Name": "高等魔法防御",
+      "Name": "Advanced M.Def",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -89556,7 +89556,7 @@
     },
     {
       "Id": 750000,
-      "Name": "治愈之光-强效",
+      "Name": "Coluceo Heal - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -89580,7 +89580,7 @@
     },
     {
       "Id": 750004,
-      "Name": "赎罪-强效",
+      "Name": "Expiatio - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -89668,7 +89668,7 @@
     },
     {
       "Id": 750016,
-      "Name": "赞歌-专精",
+      "Name": "Adoramus - Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -89700,7 +89700,7 @@
     },
     {
       "Id": 500000,
-      "Name": "十字驱魔-强效",
+      "Name": "Magnus Exorcismus -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -89796,7 +89796,7 @@
     },
     {
       "Id": 250004,
-      "Name": "力量普攻",
+      "Name": "STR auto attack",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -89868,7 +89868,7 @@
     },
     {
       "Id": 580000,
-      "Name": "言语之术",
+      "Name": "Word Style",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -89940,7 +89940,7 @@
     },
     {
       "Id": 580010,
-      "Name": "牺牲祈福-延时",
+      "Name": "Suffragium -Delay",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -90028,7 +90028,7 @@
     },
     {
       "Id": 830000,
-      "Name": "双重圣光-强化",
+      "Name": "Duple Light - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -90164,7 +90164,7 @@
     },
     {
       "Id": 10330000,
-      "Name": "强效驱散",
+      "Name": "Highly Effective Clearance",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -90172,7 +90172,7 @@
     },
     {
       "Id": 330000,
-      "Name": "自动幸运",
+      "Name": "Auto Luck",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -90180,7 +90180,7 @@
     },
     {
       "Id": 660000,
-      "Name": "缓毒术-长效",
+      "Name": "Slow Poison - Lengthened",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -90308,7 +90308,7 @@
     },
     {
       "Id": 330010,
-      "Name": "忏悔",
+      "Name": "Repentance",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -90332,7 +90332,7 @@
     },
     {
       "Id": 330012,
-      "Name": "忏悔-多效",
+      "Name": "Repentance -Utility",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -90428,7 +90428,7 @@
     },
     {
       "Id": 370000,
-      "Name": "转生术-强效",
+      "Name": "Turn Undead -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -90516,7 +90516,7 @@
     },
     {
       "Id": 370008,
-      "Name": "神威祈福-强效",
+      "Name": "Impositio Manus -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -90972,7 +90972,7 @@
     },
     {
       "Id": 650000,
-      "Name": "否决-强效",
+      "Name": "Deny - Strong",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -90996,7 +90996,7 @@
     },
     {
       "Id": 650004,
-      "Name": "祷告-强效",
+      "Name": "Oratio - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -91092,7 +91092,7 @@
     },
     {
       "Id": 650016,
-      "Name": "赞歌-强化",
+      "Name": "Adoramus - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -91116,7 +91116,7 @@
     },
     {
       "Id": 450000,
-      "Name": "群体复活术",
+      "Name": "Group Resurrection",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -91124,7 +91124,7 @@
     },
     {
       "Id": 900000,
-      "Name": "双重圣光-加速",
+      "Name": "Duple Light - Boost",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -91180,7 +91180,7 @@
     },
     {
       "Id": 450004,
-      "Name": "沉默之术-抑制",
+      "Name": "Lex Divina -Control",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -91460,7 +91460,7 @@
     },
     {
       "Id": 70000,
-      "Name": "霸邪之阵-疾走",
+      "Name": "Kyrie Eleison -Speeding Up",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -91468,7 +91468,7 @@
     },
     {
       "Id": 140000,
-      "Name": "急速光耀",
+      "Name": "Speedy Blazing",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -92140,7 +92140,7 @@
     },
     {
       "Id": 160013,
-      "Name": "圣母之颂歌-专精",
+      "Name": "Magnificat -Mastery",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -92212,7 +92212,7 @@
     },
     {
       "Id": 90000,
-      "Name": "持久愈合",
+      "Name": "Lasting Healing",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -92220,7 +92220,7 @@
     },
     {
       "Id": 180000,
-      "Name": "双重愈合Ⅰ",
+      "Name": "Double Healing I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -92276,7 +92276,7 @@
     },
     {
       "Id": 90001,
-      "Name": "持久愈合-强效",
+      "Name": "Lasting Healing -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -92404,7 +92404,7 @@
     },
     {
       "Id": 180006,
-      "Name": "双重愈合-延时",
+      "Name": "Double Healing -Delay",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -92796,7 +92796,7 @@
     },
     {
       "Id": 400004,
-      "Name": "牺牲颂歌",
+      "Name": "Sacrifice Ode",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -93484,7 +93484,7 @@
     },
     {
       "Id": 480000,
-      "Name": "信仰祈福",
+      "Name": "Faith Pray",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -93652,7 +93652,7 @@
     },
     {
       "Id": 480013,
-      "Name": "神圣增幅-眩晕",
+      "Name": "Holy Booster -Stun",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -93748,7 +93748,7 @@
     },
     {
       "Id": 540004,
-      "Name": "牺牲祈福-专精",
+      "Name": "Suffragium -Mastery",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -94716,7 +94716,7 @@
     },
     {
       "Id": 10250000,
-      "Name": "十字驱魔-专精",
+      "Name": "Magnus Exorcismus -Mastery",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -95012,7 +95012,7 @@
     },
     {
       "Id": 10350000,
-      "Name": "缓速术-蔓延",
+      "Name": "Decrease Agility -Spread",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -95412,7 +95412,7 @@
     },
     {
       "Id": 470004,
-      "Name": "信仰祈福-治愈",
+      "Name": "Faith Pray -Cure",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -96060,7 +96060,7 @@
     },
     {
       "Id": 510000,
-      "Name": "传送之阵",
+      "Name": "Warp Portal",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -97796,7 +97796,7 @@
     },
     {
       "Id": 10160000,
-      "Name": "自动神威",
+      "Name": "Auto Impositio",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -99174,7 +99174,7 @@
     },
     {
       "Id": 230000,
-      "Name": "铁砂掌-强效",
+      "Name": "Iron Fist -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -99182,7 +99182,7 @@
     },
     {
       "Id": 460000,
-      "Name": "气爆散-多效",
+      "Name": "Ki Explosion -Utility",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -99238,7 +99238,7 @@
     },
     {
       "Id": 230002,
-      "Name": "运气调息-强效",
+      "Name": "Spirits Recovery -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -99350,7 +99350,7 @@
     },
     {
       "Id": 460013,
-      "Name": "气绝崩击-精通",
+      "Name": "Chain Crush Combo -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -99470,7 +99470,7 @@
     },
     {
       "Id": 750000,
-      "Name": "点穴-活血",
+      "Name": "Gentle Touch - Invigorate",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -99494,7 +99494,7 @@
     },
     {
       "Id": 750004,
-      "Name": "潜龙升天-无畏",
+      "Name": "Rising Dragon - Fearless",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -99710,7 +99710,7 @@
     },
     {
       "Id": 250004,
-      "Name": "阿修罗霸凰拳-强效",
+      "Name": "Asura Strike -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -99854,7 +99854,7 @@
     },
     {
       "Id": 580010,
-      "Name": "沉默追击",
+      "Name": "Silent Pursuit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -99942,7 +99942,7 @@
     },
     {
       "Id": 830000,
-      "Name": "点穴-强愈",
+      "Name": "Gentle Touch - Power Healing",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -100014,7 +100014,7 @@
     },
     {
       "Id": 830009,
-      "Name": "六合拳-高能",
+      "Name": "Triple Attack -High-energy",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -100078,7 +100078,7 @@
     },
     {
       "Id": 10330000,
-      "Name": "弹指神通-强效",
+      "Name": "Finger Offensive-Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -100094,7 +100094,7 @@
     },
     {
       "Id": 660000,
-      "Name": "罗刹破凰拳-专精",
+      "Name": "Hell Gate - Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -100118,7 +100118,7 @@
     },
     {
       "Id": 330002,
-      "Name": "爆气",
+      "Name": "Critical Explosion",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -100638,7 +100638,7 @@
     },
     {
       "Id": 570003,
-      "Name": "弹指神通-速读",
+      "Name": "Finger Offensive -Quick Cast",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -100886,7 +100886,7 @@
     },
     {
       "Id": 650000,
-      "Name": "虎炮-爆发",
+      "Name": "Tiger Cannon - Burst",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -100910,7 +100910,7 @@
     },
     {
       "Id": 650004,
-      "Name": "罗刹破凰拳-强化",
+      "Name": "Hell Gate - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -101038,7 +101038,7 @@
     },
     {
       "Id": 900000,
-      "Name": "濒死觉醒-超脱",
+      "Name": "Near-death Awaken - Transcendence",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -101350,7 +101350,7 @@
     },
     {
       "Id": 490004,
-      "Name": "普通攻击-精修",
+      "Name": "Auto Attack -Refining",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -101382,7 +101382,7 @@
     },
     {
       "Id": 140000,
-      "Name": "力量专精",
+      "Name": "Strength Mastery",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -101742,7 +101742,7 @@
     },
     {
       "Id": 160001,
-      "Name": "【注气】",
+      "Name": "[Ki Translation]",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -101806,7 +101806,7 @@
     },
     {
       "Id": 160003,
-      "Name": "气弹-多效",
+      "Name": "Spirit Bomb -Utility",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -102134,7 +102134,7 @@
     },
     {
       "Id": 180000,
-      "Name": "猛龙夸强-强效",
+      "Name": "Combo Finish -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -102182,7 +102182,7 @@
     },
     {
       "Id": 720004,
-      "Name": "咒缚阵-速读",
+      "Name": "Cursed Circle - Quick Cast",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -102710,7 +102710,7 @@
     },
     {
       "Id": 400004,
-      "Name": "连环全身掌-强效",
+      "Name": "Chain Combo -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -102950,7 +102950,7 @@
     },
     {
       "Id": 630003,
-      "Name": "虎炮-破魔",
+      "Name": "Tiger Cannon - Exorcism",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -103398,7 +103398,7 @@
     },
     {
       "Id": 480000,
-      "Name": "致命追击",
+      "Name": "Fatal Pursuit",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -103566,7 +103566,7 @@
     },
     {
       "Id": 480013,
-      "Name": "浸透劲-强效",
+      "Name": "Investigate-Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -104022,7 +104022,7 @@
     },
     {
       "Id": 130003,
-      "Name": "金刚不坏-警惕",
+      "Name": "Steel Body-Alert",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -104238,7 +104238,7 @@
     },
     {
       "Id": 130009,
-      "Name": "金刚不坏-速读",
+      "Name": "Steel Body -Quick Cast",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -104518,7 +104518,7 @@
     },
     {
       "Id": 950000,
-      "Name": "治疗加成",
+      "Name": "Healing Increase",
       "Key": "HealEncPer",
       "Value": 0.02,
       "Type": 3,
@@ -105070,7 +105070,7 @@
     },
     {
       "Id": 430006,
-      "Name": "浸透劲-精通",
+      "Name": "Investigate -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -105326,7 +105326,7 @@
     },
     {
       "Id": 470004,
-      "Name": "伏虎拳-强效",
+      "Name": "Tiger Knuckle Fist -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -105974,7 +105974,7 @@
     },
     {
       "Id": 510000,
-      "Name": "【传送之阵】",
+      "Name": "[Warp Portal]",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -107486,7 +107486,7 @@
     },
     {
       "Id": 170014,
-      "Name": "金刚不坏-精通",
+      "Name": "Steel Body -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -108334,7 +108334,7 @@
     },
     {
       "Id": 590004,
-      "Name": "光猎-延时",
+      "Name": "Ruwach -Delay",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -109088,7 +109088,7 @@
     },
     {
       "Id": 230000,
-      "Name": "手推车撞击Ⅰ",
+      "Name": "Cart Attack I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109096,7 +109096,7 @@
     },
     {
       "Id": 460000,
-      "Name": "装备攻速",
+      "Name": "Gear ASPD",
       "Key": "EquipASPD",
       "Value": 0.03,
       "Type": 1,
@@ -109152,7 +109152,7 @@
     },
     {
       "Id": 230002,
-      "Name": "手推车撞击Ⅱ",
+      "Name": "Cart Attack II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109248,7 +109248,7 @@
     },
     {
       "Id": 230006,
-      "Name": "手推车撞击Ⅲ",
+      "Name": "Cart Attack III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109264,7 +109264,7 @@
     },
     {
       "Id": 460013,
-      "Name": "力量膨胀",
+      "Name": "Strength Expanding",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -109376,7 +109376,7 @@
     },
     {
       "Id": 230016,
-      "Name": "手推车撞击Ⅳ",
+      "Name": "Cart Attack IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109384,7 +109384,7 @@
     },
     {
       "Id": 750000,
-      "Name": "紧急护盾",
+      "Name": "Emergency Shield",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109408,7 +109408,7 @@
     },
     {
       "Id": 750004,
-      "Name": "加农炮-破坏",
+      "Name": "Arm Cannon - Destroy",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -109528,7 +109528,7 @@
     },
     {
       "Id": 500000,
-      "Name": "手推车增幅Ⅴ",
+      "Name": "Cart Increase V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109624,7 +109624,7 @@
     },
     {
       "Id": 250004,
-      "Name": "分裂斧-强化",
+      "Name": "Split Axe -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109696,7 +109696,7 @@
     },
     {
       "Id": 580000,
-      "Name": "旋风斧",
+      "Name": "Whirl Axe",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109768,7 +109768,7 @@
     },
     {
       "Id": 580010,
-      "Name": "旋风斧-强化",
+      "Name": "Whirl Axe -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109856,7 +109856,7 @@
     },
     {
       "Id": 830000,
-      "Name": "加农炮-强化",
+      "Name": "Arm Cannon - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110000,7 +110000,7 @@
     },
     {
       "Id": 330000,
-      "Name": "斧头精炼度Ⅱ",
+      "Name": "Axe Refining II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110008,7 +110008,7 @@
     },
     {
       "Id": 660000,
-      "Name": "自爆-强化",
+      "Name": "Suicidal Destruction - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110032,7 +110032,7 @@
     },
     {
       "Id": 330002,
-      "Name": "斧头精炼度Ⅲ",
+      "Name": "Axe Refining III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110136,7 +110136,7 @@
     },
     {
       "Id": 330010,
-      "Name": "手推车撞击Ⅵ",
+      "Name": "Cart Attack VI",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110160,7 +110160,7 @@
     },
     {
       "Id": 330012,
-      "Name": "手推车撞击Ⅶ",
+      "Name": "Cart Attack VII",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110256,7 +110256,7 @@
     },
     {
       "Id": 370000,
-      "Name": "斧头精炼度Ⅳ",
+      "Name": "Axe Refining IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110344,7 +110344,7 @@
     },
     {
       "Id": 370008,
-      "Name": "斧头精炼度Ⅴ",
+      "Name": "Axe Refining V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110528,7 +110528,7 @@
     },
     {
       "Id": 570000,
-      "Name": "幸运转换Ⅱ",
+      "Name": "Luck Switch II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110552,7 +110552,7 @@
     },
     {
       "Id": 570003,
-      "Name": "幸运转换Ⅲ",
+      "Name": "Luck Switch III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110800,7 +110800,7 @@
     },
     {
       "Id": 650000,
-      "Name": "元素盔甲",
+      "Name": "Elemental Armor",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110824,7 +110824,7 @@
     },
     {
       "Id": 650004,
-      "Name": "机械维修-精通",
+      "Name": "Repair - Mastery",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -110952,7 +110952,7 @@
     },
     {
       "Id": 900000,
-      "Name": "连续飞拳",
+      "Name": "Successive Flying Punches",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111144,7 +111144,7 @@
     },
     {
       "Id": 730005,
-      "Name": "磁场-强效",
+      "Name": "Magnetic Field - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111280,7 +111280,7 @@
     },
     {
       "Id": 10140000,
-      "Name": "灵巧转换Ⅴ",
+      "Name": "Swiftly Transform V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111288,7 +111288,7 @@
     },
     {
       "Id": 70000,
-      "Name": "改装手推车Ⅳ",
+      "Name": "Change Cart Ⅳ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111296,7 +111296,7 @@
     },
     {
       "Id": 140000,
-      "Name": "手推车攻击",
+      "Name": "Cart Revolution",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111344,7 +111344,7 @@
     },
     {
       "Id": 560004,
-      "Name": "手推车增幅Ⅱ",
+      "Name": "Cart Increase II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111632,7 +111632,7 @@
     },
     {
       "Id": 320000,
-      "Name": "手推车撞击Ⅷ",
+      "Name": "Cart Attack VIII",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111656,7 +111656,7 @@
     },
     {
       "Id": 160001,
-      "Name": "金钱攻击-精通",
+      "Name": "Mammonite -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111720,7 +111720,7 @@
     },
     {
       "Id": 160003,
-      "Name": "斧头精炼度-强化",
+      "Name": "Axe Refining -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -111760,7 +111760,7 @@
     },
     {
       "Id": 320009,
-      "Name": "手推车撞击Ⅸ",
+      "Name": "Cart Attack IX",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -111912,7 +111912,7 @@
     },
     {
       "Id": 80005,
-      "Name": "改装手推车Ⅰ",
+      "Name": "Change Cart I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -112040,7 +112040,7 @@
     },
     {
       "Id": 90000,
-      "Name": "改装手推车Ⅱ",
+      "Name": "Change Cart II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -112104,7 +112104,7 @@
     },
     {
       "Id": 90001,
-      "Name": "改装手推车Ⅲ",
+      "Name": "Change Cart Ⅲ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -112432,7 +112432,7 @@
     },
     {
       "Id": 550000,
-      "Name": "手推车增幅Ⅲ",
+      "Name": "Cart Increase III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -112616,7 +112616,7 @@
     },
     {
       "Id": 200002,
-      "Name": "手推车撞击Ⅴ",
+      "Name": "Cart Attack V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -112624,7 +112624,7 @@
     },
     {
       "Id": 400004,
-      "Name": "分裂斧",
+      "Name": "Split Axe",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -113288,7 +113288,7 @@
     },
     {
       "Id": 60000,
-      "Name": "对火属性魔物伤害",
+      "Name": "Damage to Fire monsters",
       "Key": "FireDamPer",
       "Value": 0.06,
       "Type": 5,
@@ -113336,7 +113336,7 @@
     },
     {
       "Id": 240001,
-      "Name": "物伤加成",
+      "Name": "Dmg Inc. ",
       "Key": "DamIncrease",
       "Value": 0.01,
       "Type": 1,
@@ -113696,7 +113696,7 @@
     },
     {
       "Id": 270011,
-      "Name": "灵巧转换Ⅱ",
+      "Name": "Swiftly Transform II",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -113704,7 +113704,7 @@
     },
     {
       "Id": 10050000,
-      "Name": "改装手推车Ⅴ",
+      "Name": "Change Cart Ⅴ",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -113832,7 +113832,7 @@
     },
     {
       "Id": 520001,
-      "Name": "强化火属性Ⅰ",
+      "Name": "Skin Tempering I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -113976,7 +113976,7 @@
     },
     {
       "Id": 310000,
-      "Name": "灵巧转换Ⅳ",
+      "Name": "Swiftly Transform IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -114984,7 +114984,7 @@
     },
     {
       "Id": 430006,
-      "Name": "幸运转换Ⅰ",
+      "Name": "Luck Switch I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -115088,7 +115088,7 @@
     },
     {
       "Id": 690009,
-      "Name": "悬浮-专精",
+      "Name": "Hover - Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -115888,7 +115888,7 @@
     },
     {
       "Id": 510000,
-      "Name": "斧头精炼度Ⅰ",
+      "Name": "Axe Refining I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -116008,7 +116008,7 @@
     },
     {
       "Id": 910004,
-      "Name": "幸运转换",
+      "Name": "Luck Switch",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -116736,7 +116736,7 @@
     },
     {
       "Id": 550002,
-      "Name": "手推车增幅Ⅳ",
+      "Name": "Cart Increase IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -117912,7 +117912,7 @@
     },
     {
       "Id": 10370000,
-      "Name": "幸运转换Ⅴ",
+      "Name": "Luck Switch V",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -118064,7 +118064,7 @@
     },
     {
       "Id": 600003,
-      "Name": "幸运转换Ⅳ",
+      "Name": "Luck Switch IV",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -118528,7 +118528,7 @@
     },
     {
       "Id": 420009,
-      "Name": "手推车增幅Ⅰ",
+      "Name": "Cart Increase I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -118864,7 +118864,7 @@
     },
     {
       "Id": 270000,
-      "Name": "灵巧转换Ⅰ",
+      "Name": "Swiftly Transform I",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -118880,7 +118880,7 @@
     },
     {
       "Id": 260000,
-      "Name": "灵巧转换Ⅲ",
+      "Name": "Swiftly Transform III",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -119002,7 +119002,7 @@
     },
     {
       "Id": 230000,
-      "Name": "生命体禁术",
+      "Name": "Homunculus Forbidden Skill",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -119010,7 +119010,7 @@
     },
     {
       "Id": 460000,
-      "Name": "强酸火烟瓶投掷-强效",
+      "Name": "Improved Acid Demonstration -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -119066,7 +119066,7 @@
     },
     {
       "Id": 230002,
-      "Name": "【生命体修复】",
+      "Name": "[Homunculusn Repair]",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -119178,7 +119178,7 @@
     },
     {
       "Id": 460013,
-      "Name": "强酸火烟瓶投掷-精通",
+      "Name": "Improved Acid Demonstration -Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -119298,7 +119298,7 @@
     },
     {
       "Id": 750000,
-      "Name": "手推车爆发-加速",
+      "Name": "Cart Boost - Boost",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -119322,7 +119322,7 @@
     },
     {
       "Id": 750004,
-      "Name": "生命融合-强化",
+      "Name": "Life Merge - Strong",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -119442,7 +119442,7 @@
     },
     {
       "Id": 500000,
-      "Name": "生命体-技能",
+      "Name": "Homunculus -Skill",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -119610,7 +119610,7 @@
     },
     {
       "Id": 580000,
-      "Name": "化学盾牌保护",
+      "Name": "Chemical Protection Shield",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -119770,7 +119770,7 @@
     },
     {
       "Id": 830000,
-      "Name": "火焰爆炸-强化",
+      "Name": "Fire Expansion - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -119842,7 +119842,7 @@
     },
     {
       "Id": 830009,
-      "Name": "钝器精通",
+      "Name": "The Blunt Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -119922,7 +119922,7 @@
     },
     {
       "Id": 660000,
-      "Name": "基因异变",
+      "Name": "Genetic Mutation",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -120170,7 +120170,7 @@
     },
     {
       "Id": 370000,
-      "Name": "强酸攻击-强效",
+      "Name": "Acid Terror -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -120258,7 +120258,7 @@
     },
     {
       "Id": 370008,
-      "Name": "丽芙的祈福",
+      "Name": "Lif's Blessing",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -120442,7 +120442,7 @@
     },
     {
       "Id": 570000,
-      "Name": "火烟瓶投掷-强效",
+      "Name": "Acid Demonstration -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -120738,7 +120738,7 @@
     },
     {
       "Id": 650004,
-      "Name": "疯狂火焰-烈焰",
+      "Name": "Demonic Fire - Blaze",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -120866,7 +120866,7 @@
     },
     {
       "Id": 900000,
-      "Name": "痛苦嚎叫",
+      "Name": "Agonizing Roar",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -120922,7 +120922,7 @@
     },
     {
       "Id": 450004,
-      "Name": "强酸攻击-专精",
+      "Name": "Acid Terror -Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -121202,7 +121202,7 @@
     },
     {
       "Id": 70000,
-      "Name": "战斧修炼",
+      "Name": "Axe Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -121210,7 +121210,7 @@
     },
     {
       "Id": 140000,
-      "Name": "手推车攻击-强效",
+      "Name": "Cart Revolution -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -121570,7 +121570,7 @@
     },
     {
       "Id": 160001,
-      "Name": "忽视魔防",
+      "Name": "Ignore M.Def",
       "Key": "IgnoreMDef",
       "Value": 0.01,
       "Type": 5,
@@ -121962,7 +121962,7 @@
     },
     {
       "Id": 180000,
-      "Name": "野蛮叫嚣-群体",
+      "Name": "Wild Clamor -Group",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -121978,7 +121978,7 @@
     },
     {
       "Id": 720000,
-      "Name": "快速生长",
+      "Name": "Rapid Growth",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -122010,7 +122010,7 @@
     },
     {
       "Id": 720004,
-      "Name": "疯狂野草-强化",
+      "Name": "Crazy Weed - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -122146,7 +122146,7 @@
     },
     {
       "Id": 180006,
-      "Name": "善变-火箭术",
+      "Name": "Caprice -Fire Bolt",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -122178,7 +122178,7 @@
     },
     {
       "Id": 180007,
-      "Name": "善变-冰箭术",
+      "Name": "Caprice -Cold Bolt",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -122210,7 +122210,7 @@
     },
     {
       "Id": 180008,
-      "Name": "善变-雷击术",
+      "Name": "Caprice -Lightning Bolt",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -122530,7 +122530,7 @@
     },
     {
       "Id": 200002,
-      "Name": "艾米斯可鲁的祈福",
+      "Name": "Amistr's Blessing",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -122538,7 +122538,7 @@
     },
     {
       "Id": 400004,
-      "Name": "化学头盔保护",
+      "Name": "Chemical Protection Helm",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -123202,7 +123202,7 @@
     },
     {
       "Id": 60000,
-      "Name": "气泡虫召唤-强效",
+      "Name": "Sphere Mine -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -123250,7 +123250,7 @@
     },
     {
       "Id": 240001,
-      "Name": "地狱植物-强效",
+      "Name": "Hell Plant -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -123314,7 +123314,7 @@
     },
     {
       "Id": 60001,
-      "Name": "巴尼米乐斯的祈福",
+      "Name": "Vanilmirth's Blessing",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -123418,7 +123418,7 @@
     },
     {
       "Id": 120004,
-      "Name": "治愈之手-赤色",
+      "Name": "Touch of Heal -Red",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -125002,7 +125002,7 @@
     },
     {
       "Id": 690009,
-      "Name": "手推车加农炮-强化",
+      "Name": "Cart Cannon - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -125154,7 +125154,7 @@
     },
     {
       "Id": 470004,
-      "Name": "强酸火烟瓶投掷-专精",
+      "Name": "Improved Acid Demonstration -Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -126210,7 +126210,7 @@
     },
     {
       "Id": 300003,
-      "Name": "地狱植物-专精",
+      "Name": "Hell Plant -Mastery",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -126930,7 +126930,7 @@
     },
     {
       "Id": 170002,
-      "Name": "气泡虫寄生-强效",
+      "Name": "Sphere Parasitism -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -127538,7 +127538,7 @@
     },
     {
       "Id": 10160000,
-      "Name": "地狱植物-秘术",
+      "Name": "Hell Plant -Occult",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -128826,7 +128826,7 @@
     },
     {
       "Id": 180001,
-      "Name": "善变-强效",
+      "Name": "Caprice -Enpower",
       "Key": null,
       "Value": 0,
       "Type": 6,

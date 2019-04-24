@@ -1,7 +1,7 @@
 [
   {
     "Id": 11001,
-    "RuneName": "狂击-强效",
+    "RuneName": "Bash -Enpower",
     "Runetip": 1000,
     "SkillTipParm": [
       10
@@ -9,7 +9,7 @@
   },
   {
     "Id": 11002,
-    "RuneName": "剑术修炼-强效",
+    "RuneName": "Sword Mastery -Enpower",
     "Runetip": 1001,
     "SkillTipParm": [
       60
@@ -17,7 +17,7 @@
   },
   {
     "Id": 11003,
-    "RuneName": "挑衅-警惕",
+    "RuneName": "Taunt-Alert",
     "Runetip": 1002,
     "SkillTipParm": [
       5
@@ -25,7 +25,7 @@
   },
   {
     "Id": 11008,
-    "RuneName": "乘胜追击",
+    "RuneName": "Victorious Pursuit",
     "Runetip": 1005,
     "SkillTipParm": [
       1
@@ -33,7 +33,7 @@
   },
   {
     "Id": 11010,
-    "RuneName": "乘胜追击",
+    "RuneName": "Victorious Pursuit",
     "Runetip": 1005,
     "SkillTipParm": [
       1
@@ -41,7 +41,7 @@
   },
   {
     "Id": 11011,
-    "RuneName": "风行护甲",
+    "RuneName": "Wind Armor",
     "Runetip": 1009,
     "SkillTipParm": [
       1
@@ -49,7 +49,7 @@
   },
   {
     "Id": 11020,
-    "RuneName": "强效魔法防御",
+    "RuneName": "Highly Effective M.Def",
     "Runetip": 1016,
     "SkillTipParm": [
       10
@@ -57,7 +57,7 @@
   },
   {
     "Id": 11021,
-    "RuneName": "骑乘攻击-多效",
+    "RuneName": "Brandish Spear -Utility",
     "Runetip": 1003,
     "SkillTipParm": [
       3
@@ -65,7 +65,7 @@
   },
   {
     "Id": 11022,
-    "RuneName": "普攻-强效",
+    "RuneName": "Auto Atk -Enpower",
     "Runetip": 1004,
     "SkillTipParm": [
       3,
@@ -82,7 +82,7 @@
   },
   {
     "Id": 12002,
-    "RuneName": "高等剑术修炼",
+    "RuneName": "Advanced Sword Mastery",
     "Runetip": 1006,
     "SkillTipParm": [
       1
@@ -90,7 +90,7 @@
   },
   {
     "Id": 12005,
-    "RuneName": "加速追击",
+    "RuneName": "Hot Pursuit",
     "Runetip": 1007,
     "SkillTipParm": [
       10
@@ -98,7 +98,7 @@
   },
   {
     "Id": 12007,
-    "RuneName": "加速追击",
+    "RuneName": "Hot Pursuit",
     "Runetip": 1007,
     "SkillTipParm": [
       10
@@ -114,7 +114,7 @@
   },
   {
     "Id": 12009,
-    "RuneName": "剑速增加-精通",
+    "RuneName": "One-Hand Quicken -Proficient",
     "Runetip": 1008,
     "SkillTipParm": [
       10
@@ -122,7 +122,7 @@
   },
   {
     "Id": 12012,
-    "RuneName": "风行护甲",
+    "RuneName": "Wind Armor",
     "Runetip": 1009,
     "SkillTipParm": [
       1
@@ -130,7 +130,7 @@
   },
   {
     "Id": 12013,
-    "RuneName": "灵气剑-强效",
+    "RuneName": "Aura Blade -Enpower",
     "Runetip": 1010,
     "SkillTipParm": [
       5
@@ -138,7 +138,7 @@
   },
   {
     "Id": 12014,
-    "RuneName": "骑乘训练-多效Ⅰ",
+    "RuneName": "Cavalry Mastery -Utility",
     "Runetip": 1011,
     "SkillTipParm": [
       1
@@ -146,7 +146,7 @@
   },
   {
     "Id": 12024,
-    "RuneName": "伤害增压-精通",
+    "RuneName": "Head Crush -Proficient",
     "Runetip": 1012,
     "SkillTipParm": [
       10
@@ -154,7 +154,7 @@
   },
   {
     "Id": 12027,
-    "RuneName": "钢铁之心-精通",
+    "RuneName": "Heart of Steel -Proficient",
     "Runetip": 1013,
     "SkillTipParm": [
       10
@@ -162,7 +162,7 @@
   },
   {
     "Id": 12029,
-    "RuneName": "长矛熟练度Ⅰ",
+    "RuneName": "Spear Mastery I",
     "Runetip": 1014,
     "SkillTipParm": [
       8
@@ -170,7 +170,7 @@
   },
   {
     "Id": 12030,
-    "RuneName": "强效魔法防御",
+    "RuneName": "Highly Effective M.Def",
     "Runetip": 1016,
     "SkillTipParm": [
       10
@@ -178,7 +178,7 @@
   },
   {
     "Id": 12032,
-    "RuneName": "连刺攻击-射程",
+    "RuneName": "Pierce -Range",
     "Runetip": 1015,
     "SkillTipParm": [
       0.5
@@ -194,7 +194,7 @@
   },
   {
     "Id": 12040,
-    "RuneName": "反击-魔法",
+    "RuneName": "Counter Attack-Magic",
     "Runetip": 1017,
     "SkillTipParm": [
       15
@@ -202,7 +202,7 @@
   },
   {
     "Id": 12041,
-    "RuneName": "反击-远程物理",
+    "RuneName": "Counter Attack-Ranged Atk",
     "Runetip": 1018,
     "SkillTipParm": [
       8
@@ -210,7 +210,7 @@
   },
   {
     "Id": 12050,
-    "RuneName": "反击-反伤盾",
+    "RuneName": "Counter Attack-Damage Shield",
     "Runetip": 1019,
     "SkillTipParm": [
       5
@@ -218,7 +218,7 @@
   },
   {
     "Id": 12060,
-    "RuneName": "伤害增压-致残",
+    "RuneName": "Head Crush -Crippling",
     "Runetip": 1020,
     "SkillTipParm": [
       15
@@ -226,7 +226,7 @@
   },
   {
     "Id": 12070,
-    "RuneName": "冲锋攻击",
+    "RuneName": "Charge Attack",
     "Runetip": 1021,
     "SkillTipParm": [
       1,
@@ -235,7 +235,7 @@
   },
   {
     "Id": 12071,
-    "RuneName": "冲锋攻击",
+    "RuneName": "Charge Attack",
     "Runetip": 1021,
     "SkillTipParm": [
       1,
@@ -253,7 +253,7 @@
   },
   {
     "Id": 12080,
-    "RuneName": "集中攻击-警惕",
+    "RuneName": "Concentration-Alert",
     "Runetip": 1022,
     "SkillTipParm": [
       7
@@ -261,7 +261,7 @@
   },
   {
     "Id": 12090,
-    "RuneName": "挑衅-范围",
+    "RuneName": "Taunt -AoE",
     "Runetip": 1023,
     "SkillTipParm": [
       0.5
@@ -269,7 +269,7 @@
   },
   {
     "Id": 12100,
-    "RuneName": "巧打-强效",
+    "RuneName": "Joint Beat -Enpower",
     "Runetip": 1024,
     "SkillTipParm": [
       15
@@ -277,7 +277,7 @@
   },
   {
     "Id": 12110,
-    "RuneName": "投掷长矛攻击",
+    "RuneName": "Spear Boomerang",
     "Runetip": 1025,
     "SkillTipParm": [
       300,
@@ -287,7 +287,7 @@
   },
   {
     "Id": 12111,
-    "RuneName": "投掷长矛攻击",
+    "RuneName": "Spear Boomerang",
     "Runetip": 1025,
     "SkillTipParm": [
       300,
@@ -307,7 +307,7 @@
   },
   {
     "Id": 12120,
-    "RuneName": "投掷长矛-减速",
+    "RuneName": "Spear Boomerang -Slow",
     "Runetip": 1026,
     "SkillTipParm": [
       15,
@@ -316,7 +316,7 @@
   },
   {
     "Id": 12130,
-    "RuneName": "狂怒之枪-警惕",
+    "RuneName": "Frenzy Spear-Alert",
     "Runetip": 1027,
     "SkillTipParm": [
       12
@@ -324,7 +324,7 @@
   },
   {
     "Id": 12131,
-    "RuneName": "狂暴之怒-免控",
+    "RuneName": "Furious Rage -CC Immunity",
     "Runetip": 1028,
     "SkillTipParm": [
       2
@@ -332,7 +332,7 @@
   },
   {
     "Id": 12140,
-    "RuneName": "狂怒之枪-冷却",
+    "RuneName": "Frenzy Spear -Cooldown",
     "Runetip": 1029,
     "SkillTipParm": [
       7
@@ -340,7 +340,7 @@
   },
   {
     "Id": 12150,
-    "RuneName": "极速回复",
+    "RuneName": "Tension Relax",
     "Runetip": 1030,
     "SkillTipParm": [
       100
@@ -348,7 +348,7 @@
   },
   {
     "Id": 12151,
-    "RuneName": "极速回复",
+    "RuneName": "Tension Relax",
     "Runetip": 1030,
     "SkillTipParm": [
       100
@@ -364,7 +364,7 @@
   },
   {
     "Id": 12160,
-    "RuneName": "螺旋击刺-射程",
+    "RuneName": "Spiral Pierce -Range",
     "Runetip": 1031,
     "SkillTipParm": [
       0.5
@@ -372,19 +372,19 @@
   },
   {
     "Id": 12170,
-    "RuneName": "狂暴之怒",
+    "RuneName": "Furious Rage",
     "Runetip": 1032,
     "SkillTipParm": null
   },
   {
     "Id": 12180,
-    "RuneName": "霸体-无限",
+    "RuneName": "Endure -Unlimited",
     "Runetip": 1033,
     "SkillTipParm": null
   },
   {
     "Id": 12190,
-    "RuneName": "领主光环-精通",
+    "RuneName": "Lord's Aura -Proficient",
     "Runetip": 1034,
     "SkillTipParm": [
       15
@@ -424,7 +424,7 @@
   },
   {
     "Id": 14010,
-    "RuneName": "幻影刺击-射程",
+    "RuneName": "Phantom Thrust - Range",
     "Runetip": 1401,
     "SkillTipParm": [
       0.5
@@ -432,7 +432,7 @@
   },
   {
     "Id": 14020,
-    "RuneName": "龙之吐息-强化",
+    "RuneName": "Dragon Breath - Strong",
     "Runetip": 1402,
     "SkillTipParm": [
       6
@@ -440,7 +440,7 @@
   },
   {
     "Id": 14030,
-    "RuneName": "急速戳刺-螺旋",
+    "RuneName": "Hundred Spears - Spiral",
     "Runetip": 1403,
     "SkillTipParm": [
       3
@@ -448,7 +448,7 @@
   },
   {
     "Id": 14040,
-    "RuneName": "急速戳刺-强化",
+    "RuneName": " Hundred Spears - Strong",
     "Runetip": 1404,
     "SkillTipParm": [
       6
@@ -456,7 +456,7 @@
   },
   {
     "Id": 14050,
-    "RuneName": "符文精通-长效",
+    "RuneName": "Rune Mastery - Lengthened",
     "Runetip": 1405,
     "SkillTipParm": [
       5
@@ -464,7 +464,7 @@
   },
   {
     "Id": 14060,
-    "RuneName": "附魔之刃-魔化",
+    "RuneName": "Enchant Blade - Transformed",
     "Runetip": 1406,
     "SkillTipParm": [
       5
@@ -472,7 +472,7 @@
   },
   {
     "Id": 14070,
-    "RuneName": "孤注一掷-坚守",
+    "RuneName": "Sink or Swim - Steadfast",
     "Runetip": 1407,
     "SkillTipParm": [
       10
@@ -480,7 +480,7 @@
   },
   {
     "Id": 14080,
-    "RuneName": "龙之庇护-火免",
+    "RuneName": "Dragon’s Protection - Fire Immunity",
     "Runetip": 1408,
     "SkillTipParm": [
       2
@@ -488,7 +488,7 @@
   },
   {
     "Id": 21001,
-    "RuneName": "火箭术-专精",
+    "RuneName": "Fire Bolt -Proficient",
     "Runetip": 2000,
     "SkillTipParm": [
       0.1
@@ -496,7 +496,7 @@
   },
   {
     "Id": 21002,
-    "RuneName": "火焰之环-速读",
+    "RuneName": "Ring of Fire -Quick Cast",
     "Runetip": 2001,
     "SkillTipParm": [
       0.25
@@ -504,7 +504,7 @@
   },
   {
     "Id": 21004,
-    "RuneName": "火箭术-速读",
+    "RuneName": "Fire Bolt -Quick Cast",
     "Runetip": 2002,
     "SkillTipParm": [
       0.2
@@ -512,7 +512,7 @@
   },
   {
     "Id": 21005,
-    "RuneName": "法术暴击",
+    "RuneName": "Spell Crit",
     "Runetip": 2003,
     "SkillTipParm": [
       10
@@ -520,13 +520,13 @@
   },
   {
     "Id": 21006,
-    "RuneName": "火狩护佑",
+    "RuneName": "Sight Blissing",
     "Runetip": 2004,
     "SkillTipParm": null
   },
   {
     "Id": 21007,
-    "RuneName": "火球术-强效",
+    "RuneName": "Fire Ball -Quick Cast",
     "Runetip": 2005,
     "SkillTipParm": [
       5,
@@ -535,7 +535,7 @@
   },
   {
     "Id": 21010,
-    "RuneName": "火焰之环-抵挡",
+    "RuneName": "Ring of Fire -Block",
     "Runetip": 2006,
     "SkillTipParm": [
       1
@@ -543,7 +543,7 @@
   },
   {
     "Id": 21013,
-    "RuneName": "冰箭术-专精",
+    "RuneName": "Cold Bolt -Proficient",
     "Runetip": 2007,
     "SkillTipParm": [
       0.1
@@ -551,7 +551,7 @@
   },
   {
     "Id": 21016,
-    "RuneName": "怒雷强击-专精",
+    "RuneName": "Lord of Vermilion -Proficient",
     "Runetip": 2008,
     "SkillTipParm": [
       5
@@ -559,7 +559,7 @@
   },
   {
     "Id": 22004,
-    "RuneName": "无视空间",
+    "RuneName": "Invisible Space",
     "Runetip": 2009,
     "SkillTipParm": [
       1,
@@ -568,7 +568,7 @@
   },
   {
     "Id": 22006,
-    "RuneName": "高能火箭术",
+    "RuneName": "High-energy Fire Bolt",
     "Runetip": 2010,
     "SkillTipParm": [
       10
@@ -576,7 +576,7 @@
   },
   {
     "Id": 22007,
-    "RuneName": "火狩叠加",
+    "RuneName": "Sight Accumulation",
     "Runetip": 2011,
     "SkillTipParm": [
       3
@@ -584,7 +584,7 @@
   },
   {
     "Id": 22008,
-    "RuneName": "点燃-强效",
+    "RuneName": "Alight -Enpower",
     "Runetip": 2012,
     "SkillTipParm": [
       3
@@ -592,7 +592,7 @@
   },
   {
     "Id": 22012,
-    "RuneName": "崩裂术-专精",
+    "RuneName": "Heaven's Drive -Proficient",
     "Runetip": 2013,
     "SkillTipParm": [
       5
@@ -600,7 +600,7 @@
   },
   {
     "Id": 22017,
-    "RuneName": "法力普攻",
+    "RuneName": "SP auto attack",
     "Runetip": 2014,
     "SkillTipParm": [
       5
@@ -608,7 +608,7 @@
   },
   {
     "Id": 22018,
-    "RuneName": "高能圣灵",
+    "RuneName": "High-energy Holy Spirit",
     "Runetip": 2015,
     "SkillTipParm": [
       10
@@ -616,7 +616,7 @@
   },
   {
     "Id": 22019,
-    "RuneName": "自动圣灵-高效",
+    "RuneName": "Auto Holy Spirit -Efficient",
     "Runetip": 2016,
     "SkillTipParm": [
       2
@@ -624,7 +624,7 @@
   },
   {
     "Id": 22020,
-    "RuneName": "自动圣灵",
+    "RuneName": "Auto Holy Spirit",
     "Runetip": 2017,
     "SkillTipParm": [
       5
@@ -632,7 +632,7 @@
   },
   {
     "Id": 22024,
-    "RuneName": "破冰",
+    "RuneName": "Ice Breaking",
     "Runetip": 2018,
     "SkillTipParm": [
       40
@@ -640,7 +640,7 @@
   },
   {
     "Id": 22025,
-    "RuneName": "破冰-伤害",
+    "RuneName": "Ice Breaking -Damage",
     "Runetip": 2019,
     "SkillTipParm": [
       15
@@ -648,7 +648,7 @@
   },
   {
     "Id": 22028,
-    "RuneName": "暴风雪-专精",
+    "RuneName": "Storm Gust -Proficient",
     "Runetip": 2020,
     "SkillTipParm": [
       4
@@ -656,7 +656,7 @@
   },
   {
     "Id": 22033,
-    "RuneName": "元素扩散-强效",
+    "RuneName": "Element Diffusion -Enpower",
     "Runetip": 2021,
     "SkillTipParm": [
       2
@@ -664,13 +664,13 @@
   },
   {
     "Id": 22040,
-    "RuneName": "陨石术Ⅱ",
+    "RuneName": "Meteor Storm II",
     "Runetip": 2023,
     "SkillTipParm": null
   },
   {
     "Id": 22041,
-    "RuneName": "火柱攻击",
+    "RuneName": "Fire Pillar Attack",
     "Runetip": 2024,
     "SkillTipParm": [
       50
@@ -678,7 +678,7 @@
   },
   {
     "Id": 22042,
-    "RuneName": "火柱攻击-强效",
+    "RuneName": "Fire Pillar -Enpower",
     "Runetip": 2025,
     "SkillTipParm": [
       50
@@ -686,7 +686,7 @@
   },
   {
     "Id": 22043,
-    "RuneName": "双重火柱",
+    "RuneName": "Double Fire Pillars",
     "Runetip": 2026,
     "SkillTipParm": [
       50
@@ -694,19 +694,19 @@
   },
   {
     "Id": 22044,
-    "RuneName": "陨石术Ⅱ",
+    "RuneName": "Meteor Storm II",
     "Runetip": 2023,
     "SkillTipParm": null
   },
   {
     "Id": 22045,
-    "RuneName": "陨石术Ⅰ",
+    "RuneName": "Meteor Storm I",
     "Runetip": 2040,
     "SkillTipParm": null
   },
   {
     "Id": 22046,
-    "RuneName": "陨石术Ⅰ",
+    "RuneName": "Meteor Storm I",
     "Runetip": 2040,
     "SkillTipParm": null
   },
@@ -724,7 +724,7 @@
   },
   {
     "Id": 22050,
-    "RuneName": "念力高能",
+    "RuneName": "Thought High Energy",
     "Runetip": 2027,
     "SkillTipParm": [
       10
@@ -732,7 +732,7 @@
   },
   {
     "Id": 22060,
-    "RuneName": "引雷针Ⅰ",
+    "RuneName": "Lightning Rod I",
     "Runetip": 2028,
     "SkillTipParm": [
       1,
@@ -742,7 +742,7 @@
   },
   {
     "Id": 22061,
-    "RuneName": "引雷针Ⅰ",
+    "RuneName": "Lightning Rod I",
     "Runetip": 2028,
     "SkillTipParm": [
       1,
@@ -752,7 +752,7 @@
   },
   {
     "Id": 22070,
-    "RuneName": "元素扩散-强效",
+    "RuneName": "Element Diffusion -Enpower",
     "Runetip": 2030,
     "SkillTipParm": [
       2
@@ -760,7 +760,7 @@
   },
   {
     "Id": 22080,
-    "RuneName": "元素扩散",
+    "RuneName": "Element Diffusion",
     "Runetip": 2029,
     "SkillTipParm": [
       5,
@@ -769,7 +769,7 @@
   },
   {
     "Id": 22090,
-    "RuneName": "无视空间",
+    "RuneName": "Invisible Space",
     "Runetip": 2035,
     "SkillTipParm": [
       1,
@@ -787,7 +787,7 @@
   },
   {
     "Id": 22100,
-    "RuneName": "冰箭术-速读",
+    "RuneName": "Cold Bolt -Quick Cast",
     "Runetip": 2033,
     "SkillTipParm": [
       0.2
@@ -795,13 +795,13 @@
   },
   {
     "Id": 22110,
-    "RuneName": "破冰-蔓延",
+    "RuneName": "Ice Breaking -Spread",
     "Runetip": 2031,
     "SkillTipParm": null
   },
   {
     "Id": 22120,
-    "RuneName": "高能冰箭术",
+    "RuneName": "High-energy Cold Bolt",
     "Runetip": 2032,
     "SkillTipParm": [
       10
@@ -809,7 +809,7 @@
   },
   {
     "Id": 22130,
-    "RuneName": "冰墓",
+    "RuneName": "Ice Tomb",
     "Runetip": 2034,
     "SkillTipParm": [
       3
@@ -817,7 +817,7 @@
   },
   {
     "Id": 22140,
-    "RuneName": "冰墓-回复",
+    "RuneName": "Ice Tomb - Restore",
     "Runetip": 2036,
     "SkillTipParm": [
       1.5
@@ -825,7 +825,7 @@
   },
   {
     "Id": 22150,
-    "RuneName": "重力原野Ⅱ",
+    "RuneName": "Gravitational Field II",
     "Runetip": 2037,
     "SkillTipParm": [
       200,
@@ -835,7 +835,7 @@
   },
   {
     "Id": 22151,
-    "RuneName": "重力原野Ⅰ",
+    "RuneName": "Gravitational Field I",
     "Runetip": 2039,
     "SkillTipParm": [
       200,
@@ -845,7 +845,7 @@
   },
   {
     "Id": 22152,
-    "RuneName": "重力原野Ⅰ",
+    "RuneName": "Gravitational Field I",
     "Runetip": 2039,
     "SkillTipParm": [
       200,
@@ -865,7 +865,7 @@
   },
   {
     "Id": 22154,
-    "RuneName": "重力原野Ⅱ",
+    "RuneName": "Gravitational Field II",
     "Runetip": 2037,
     "SkillTipParm": [
       200,
@@ -875,7 +875,7 @@
   },
   {
     "Id": 22160,
-    "RuneName": "元素集中",
+    "RuneName": "Element Concentration",
     "Runetip": 2038,
     "SkillTipParm": [
       10
@@ -883,7 +883,7 @@
   },
   {
     "Id": 22161,
-    "RuneName": "元素集中",
+    "RuneName": "Element Concentration",
     "Runetip": 2038,
     "SkillTipParm": [
       10
@@ -891,7 +891,7 @@
   },
   {
     "Id": 22170,
-    "RuneName": "普攻点燃",
+    "RuneName": "Auto Attack Igniting",
     "Runetip": 2022,
     "SkillTipParm": null
   },
@@ -921,7 +921,7 @@
   },
   {
     "Id": 24010,
-    "RuneName": "元素漩涡-融合",
+    "RuneName": "Tetra Vortex - Merge",
     "Runetip": 2401,
     "SkillTipParm": [
       4
@@ -929,7 +929,7 @@
   },
   {
     "Id": 24020,
-    "RuneName": "连锁闪电-跳跃",
+    "RuneName": "Chain Lightning - Jump",
     "Runetip": 2402,
     "SkillTipParm": [
       3
@@ -937,7 +937,7 @@
   },
   {
     "Id": 24030,
-    "RuneName": "连锁闪电-震荡",
+    "RuneName": "Chain Lightning - Concussion",
     "Runetip": 2403,
     "SkillTipParm": [
       20
@@ -945,7 +945,7 @@
   },
   {
     "Id": 24040,
-    "RuneName": "灵魂爆发-强化",
+    "RuneName": "Soul Expansion - Strong",
     "Runetip": 2404,
     "SkillTipParm": [
       5
@@ -953,7 +953,7 @@
   },
   {
     "Id": 24050,
-    "RuneName": "白色监狱-折磨",
+    "RuneName": "White Imprison - Torment",
     "Runetip": 2405,
     "SkillTipParm": [
       2
@@ -961,7 +961,7 @@
   },
   {
     "Id": 24060,
-    "RuneName": "魔法理解-精通",
+    "RuneName": "Recognized Spell - Mastery",
     "Runetip": 2406,
     "SkillTipParm": [
       5
@@ -969,7 +969,7 @@
   },
   {
     "Id": 24070,
-    "RuneName": "生命吸收-强化",
+    "RuneName": "HP Absorb - Strong",
     "Runetip": 2407,
     "SkillTipParm": [
       4
@@ -977,7 +977,7 @@
   },
   {
     "Id": 24080,
-    "RuneName": "状态易伤-强化",
+    "RuneName": "Status Vulnerability - Strong",
     "Runetip": 2408,
     "SkillTipParm": [
       3,
@@ -986,7 +986,7 @@
   },
   {
     "Id": 31001,
-    "RuneName": "伏击增幅Ⅰ",
+    "RuneName": "Ambush Booster I",
     "Runetip": 3000,
     "SkillTipParm": [
       5
@@ -994,7 +994,7 @@
   },
   {
     "Id": 31002,
-    "RuneName": "伏击增幅Ⅱ",
+    "RuneName": "Ambush Booster II",
     "Runetip": 3000,
     "SkillTipParm": [
       10
@@ -1002,7 +1002,7 @@
   },
   {
     "Id": 31006,
-    "RuneName": "二刀增幅Ⅰ",
+    "RuneName": "Twin Blade Booster I",
     "Runetip": 3001,
     "SkillTipParm": [
       5
@@ -1010,7 +1010,7 @@
   },
   {
     "Id": 31007,
-    "RuneName": "二刀增幅Ⅱ",
+    "RuneName": "Twin Blade Booster II",
     "Runetip": 3001,
     "SkillTipParm": [
       10
@@ -1018,7 +1018,7 @@
   },
   {
     "Id": 31011,
-    "RuneName": "眩晕加伤Ⅰ",
+    "RuneName": "Stunning Damage I",
     "Runetip": 3002,
     "SkillTipParm": [
       10
@@ -1026,7 +1026,7 @@
   },
   {
     "Id": 31012,
-    "RuneName": "眩晕加伤Ⅱ",
+    "RuneName": "Stunning Damage II",
     "Runetip": 3002,
     "SkillTipParm": [
       5
@@ -1034,7 +1034,7 @@
   },
   {
     "Id": 31013,
-    "RuneName": "眩晕加伤Ⅲ",
+    "RuneName": "Stunning Damage III",
     "Runetip": 3002,
     "SkillTipParm": [
       10
@@ -1042,7 +1042,7 @@
   },
   {
     "Id": 31014,
-    "RuneName": "眩晕加伤Ⅳ",
+    "RuneName": "Stunning Damage IV",
     "Runetip": 3002,
     "SkillTipParm": [
       5
@@ -1050,7 +1050,7 @@
   },
   {
     "Id": 31015,
-    "RuneName": "眩晕加伤Ⅴ",
+    "RuneName": "Stunning Damage V",
     "Runetip": 3002,
     "SkillTipParm": [
       5
@@ -1058,7 +1058,7 @@
   },
   {
     "Id": 31016,
-    "RuneName": "强刃击Ⅰ",
+    "RuneName": "Strong Blade Attack I",
     "Runetip": 3003,
     "SkillTipParm": [
       10,
@@ -1067,7 +1067,7 @@
   },
   {
     "Id": 31017,
-    "RuneName": "强刃击Ⅱ",
+    "RuneName": "Strong Blade Attack II",
     "Runetip": 3004,
     "SkillTipParm": [
       0.25
@@ -1075,7 +1075,7 @@
   },
   {
     "Id": 31019,
-    "RuneName": "毒性克制Ⅰ",
+    "RuneName": "Poison Restraint I",
     "Runetip": 3005,
     "SkillTipParm": [
       10
@@ -1083,7 +1083,7 @@
   },
   {
     "Id": 31020,
-    "RuneName": "毒性克制Ⅱ",
+    "RuneName": "Poison Restraint II",
     "Runetip": 3005,
     "SkillTipParm": [
       10
@@ -1091,7 +1091,7 @@
   },
   {
     "Id": 31021,
-    "RuneName": "毒刃Ⅰ",
+    "RuneName": "Venom Knife I",
     "Runetip": 3006,
     "SkillTipParm": [
       10
@@ -1099,7 +1099,7 @@
   },
   {
     "Id": 31022,
-    "RuneName": "毒刃Ⅱ",
+    "RuneName": "Venom Knife II",
     "Runetip": 3006,
     "SkillTipParm": [
       5
@@ -1107,7 +1107,7 @@
   },
   {
     "Id": 31024,
-    "RuneName": "涂毒Ⅰ",
+    "RuneName": "Enchant Poison I",
     "Runetip": 3017,
     "SkillTipParm": [
       25
@@ -1115,7 +1115,7 @@
   },
   {
     "Id": 31025,
-    "RuneName": "涂毒Ⅱ",
+    "RuneName": "Enchant Poison II",
     "Runetip": 3017,
     "SkillTipParm": [
       50
@@ -1123,7 +1123,7 @@
   },
   {
     "Id": 31026,
-    "RuneName": "中毒Ⅰ",
+    "RuneName": "Poisoned I",
     "Runetip": 3007,
     "SkillTipParm": [
       5
@@ -1131,7 +1131,7 @@
   },
   {
     "Id": 31027,
-    "RuneName": "中毒Ⅱ",
+    "RuneName": "Poisoned II",
     "Runetip": 3007,
     "SkillTipParm": [
       5
@@ -1139,7 +1139,7 @@
   },
   {
     "Id": 32001,
-    "RuneName": "双刀破甲Ⅰ",
+    "RuneName": "Twin Blade Penetration I",
     "Runetip": 3008,
     "SkillTipParm": [
       10
@@ -1147,7 +1147,7 @@
   },
   {
     "Id": 32002,
-    "RuneName": "双刀破甲Ⅱ",
+    "RuneName": "Twin Blade Penetration II",
     "Runetip": 3008,
     "SkillTipParm": [
       5
@@ -1155,7 +1155,7 @@
   },
   {
     "Id": 32003,
-    "RuneName": "后退回避Ⅰ",
+    "RuneName": "Back Sliding I",
     "Runetip": 3009,
     "SkillTipParm": [
       25,
@@ -1164,7 +1164,7 @@
   },
   {
     "Id": 32004,
-    "RuneName": "后退回避Ⅱ",
+    "RuneName": "Back Sliding II",
     "Runetip": 3010,
     "SkillTipParm": [
       15,
@@ -1173,7 +1173,7 @@
   },
   {
     "Id": 32005,
-    "RuneName": "剧毒暗器Ⅰ",
+    "RuneName": "Venom Dart I",
     "Runetip": 3011,
     "SkillTipParm": [
       10
@@ -1181,7 +1181,7 @@
   },
   {
     "Id": 32006,
-    "RuneName": "剧毒暗器Ⅱ",
+    "RuneName": "Venom Dart II",
     "Runetip": 3012,
     "SkillTipParm": [
       5
@@ -1189,7 +1189,7 @@
   },
   {
     "Id": 32007,
-    "RuneName": "剧毒暗器Ⅲ",
+    "RuneName": "Venom Dart III",
     "Runetip": 3012,
     "SkillTipParm": [
       10
@@ -1197,7 +1197,7 @@
   },
   {
     "Id": 32011,
-    "RuneName": "音速投掷Ⅰ",
+    "RuneName": "Sonic Blow I",
     "Runetip": 3013,
     "SkillTipParm": [
       10
@@ -1205,7 +1205,7 @@
   },
   {
     "Id": 32012,
-    "RuneName": "音速投掷Ⅱ",
+    "RuneName": "Sonic Blow II",
     "Runetip": 3013,
     "SkillTipParm": [
       5
@@ -1213,7 +1213,7 @@
   },
   {
     "Id": 32013,
-    "RuneName": "音速投掷Ⅲ",
+    "RuneName": "Sonic Blow III",
     "Runetip": 3014,
     "SkillTipParm": [
       0.25
@@ -1221,7 +1221,7 @@
   },
   {
     "Id": 32014,
-    "RuneName": "病毒散播Ⅰ",
+    "RuneName": "Virus Diffusion I",
     "Runetip": 3015,
     "SkillTipParm": [
       5
@@ -1229,7 +1229,7 @@
   },
   {
     "Id": 32019,
-    "RuneName": "无影之牙Ⅰ",
+    "RuneName": "Grimtooth I",
     "Runetip": 3016,
     "SkillTipParm": [
       5,
@@ -1238,7 +1238,7 @@
   },
   {
     "Id": 32021,
-    "RuneName": "无影之牙Ⅲ",
+    "RuneName": "Grimtooth III",
     "Runetip": 3016,
     "SkillTipParm": [
       5,
@@ -1247,7 +1247,7 @@
   },
   {
     "Id": 32024,
-    "RuneName": "强化涂毒Ⅰ",
+    "RuneName": "Enhanced Enchant Poison I",
     "Runetip": 3017,
     "SkillTipParm": [
       50
@@ -1255,7 +1255,7 @@
   },
   {
     "Id": 32025,
-    "RuneName": "强化涂毒Ⅱ",
+    "RuneName": "Enhanced Enchant Poison II",
     "Runetip": 3017,
     "SkillTipParm": [
       25
@@ -1263,7 +1263,7 @@
   },
   {
     "Id": 32026,
-    "RuneName": "无影之牙_增幅Ⅰ",
+    "RuneName": "Grimtooth - Increase I",
     "Runetip": 3018,
     "SkillTipParm": [
       10
@@ -1271,7 +1271,7 @@
   },
   {
     "Id": 32027,
-    "RuneName": "无影之牙_增幅Ⅱ",
+    "RuneName": "Grimtooth - Increase II",
     "Runetip": 3018,
     "SkillTipParm": [
       5
@@ -1279,7 +1279,7 @@
   },
   {
     "Id": 32031,
-    "RuneName": "拳刃修炼Ⅰ",
+    "RuneName": "Katar Mastery I",
     "Runetip": 3019,
     "SkillTipParm": [
       25
@@ -1287,7 +1287,7 @@
   },
   {
     "Id": 32032,
-    "RuneName": "拳刃修炼Ⅱ",
+    "RuneName": "Katar Mastery II",
     "Runetip": 3019,
     "SkillTipParm": [
       50
@@ -1295,7 +1295,7 @@
   },
   {
     "Id": 32040,
-    "RuneName": "毒药投掷",
+    "RuneName": "Poison Cast",
     "Runetip": 3020,
     "SkillTipParm": [
       5,
@@ -1304,7 +1304,7 @@
   },
   {
     "Id": 32050,
-    "RuneName": "毒药投掷-强效",
+    "RuneName": "Poison Cast -Enpower",
     "Runetip": 3021,
     "SkillTipParm": [
       1,
@@ -1313,7 +1313,7 @@
   },
   {
     "Id": 32060,
-    "RuneName": "心灵震波-强效",
+    "RuneName": "Soul Breaker -Enpower",
     "Runetip": 3022,
     "SkillTipParm": [
       20
@@ -1321,7 +1321,7 @@
   },
   {
     "Id": 32070,
-    "RuneName": "心灵震波-专精",
+    "RuneName": "Soul Breaker -Mastery",
     "Runetip": 3023,
     "SkillTipParm": [
       0.25
@@ -1329,7 +1329,7 @@
   },
   {
     "Id": 32080,
-    "RuneName": "心灵震波-增幅",
+    "RuneName": "Soul Breaker -Increase ",
     "Runetip": 3024,
     "SkillTipParm": [
       6
@@ -1337,7 +1337,7 @@
   },
   {
     "Id": 32090,
-    "RuneName": "斩击-专精",
+    "RuneName": "Slash -Mastery",
     "Runetip": 3025,
     "SkillTipParm": [
       0.25
@@ -1345,7 +1345,7 @@
   },
   {
     "Id": 32100,
-    "RuneName": "致命涂毒-强化",
+    "RuneName": "Enchant Deadly Poison -Enpower",
     "Runetip": 3026,
     "SkillTipParm": [
       2
@@ -1353,7 +1353,7 @@
   },
   {
     "Id": 32110,
-    "RuneName": "黑暗瞬间-专精",
+    "RuneName": "Meteor Assault -Mastery",
     "Runetip": 3027,
     "SkillTipParm": [
       0.25
@@ -1361,7 +1361,7 @@
   },
   {
     "Id": 32120,
-    "RuneName": "黑暗瞬间-瞬杀",
+    "RuneName": "Meteor Assault -Instant Kill",
     "Runetip": 3028,
     "SkillTipParm": [
       10
@@ -1393,7 +1393,7 @@
   },
   {
     "Id": 33040,
-    "RuneName": "隐匿强化-延时",
+    "RuneName": "Enhanced Hiding -Delay",
     "Runetip": 3304,
     "SkillTipParm": [
       1
@@ -1401,7 +1401,7 @@
   },
   {
     "Id": 34010,
-    "RuneName": "回旋利刃-切割",
+    "RuneName": "Rolling Cutter - Cut",
     "Runetip": 3401,
     "SkillTipParm": [
       1
@@ -1409,7 +1409,7 @@
   },
   {
     "Id": 34020,
-    "RuneName": "回旋十字斩-强化",
+    "RuneName": "Cross Ripper Slasher - Strong",
     "Runetip": 3402,
     "SkillTipParm": [
       3
@@ -1417,7 +1417,7 @@
   },
   {
     "Id": 34030,
-    "RuneName": "武器格挡-反击斩",
+    "RuneName": "Weapon Blocking - Counter Slash",
     "Runetip": 3403,
     "SkillTipParm": [
       15
@@ -1425,7 +1425,7 @@
   },
   {
     "Id": 34040,
-    "RuneName": "疾风步-无影",
+    "RuneName": "Hallucination Walk - Shadowless",
     "Runetip": 3404,
     "SkillTipParm": [
       6
@@ -1433,7 +1433,7 @@
   },
   {
     "Id": 34050,
-    "RuneName": "疾风步-破法",
+    "RuneName": "Hallucination Walk - Magic Break",
     "Runetip": 3405,
     "SkillTipParm": [
       8
@@ -1441,7 +1441,7 @@
   },
   {
     "Id": 34060,
-    "RuneName": "剧毒蔓延",
+    "RuneName": "Toxic Spread",
     "Runetip": 3406,
     "SkillTipParm": [
       2
@@ -1449,7 +1449,7 @@
   },
   {
     "Id": 34070,
-    "RuneName": "毒性爆发",
+    "RuneName": "Poison Burst",
     "Runetip": 3407,
     "SkillTipParm": [
       5
@@ -1457,7 +1457,7 @@
   },
   {
     "Id": 34080,
-    "RuneName": "暗影步-突袭",
+    "RuneName": "Dark Illusion - Assault",
     "Runetip": 3408,
     "SkillTipParm": [
       0.5
@@ -1465,7 +1465,7 @@
   },
   {
     "Id": 41001,
-    "RuneName": "箭雨Ⅰ",
+    "RuneName": "Arrow Shower I",
     "Runetip": 4000,
     "SkillTipParm": [
       5
@@ -1473,7 +1473,7 @@
   },
   {
     "Id": 41002,
-    "RuneName": "箭雨Ⅱ",
+    "RuneName": "Arrow Shower II",
     "Runetip": 4000,
     "SkillTipParm": [
       10
@@ -1481,7 +1481,7 @@
   },
   {
     "Id": 41005,
-    "RuneName": "箭雨Ⅴ",
+    "RuneName": "Arrow Shower V",
     "Runetip": 4001,
     "SkillTipParm": [
       2
@@ -1489,13 +1489,13 @@
   },
   {
     "Id": 41006,
-    "RuneName": "火箭雨",
+    "RuneName": "Fire Arrow Shower",
     "Runetip": 4002,
     "SkillTipParm": null
   },
   {
     "Id": 41007,
-    "RuneName": "火爆发",
+    "RuneName": "Fire Explosion",
     "Runetip": 4003,
     "SkillTipParm": [
       10,
@@ -1504,7 +1504,7 @@
   },
   {
     "Id": 41008,
-    "RuneName": "元素箭矢Ⅰ",
+    "RuneName": "Elemental Arrow I",
     "Runetip": 4004,
     "SkillTipParm": [
       0.75
@@ -1512,7 +1512,7 @@
   },
   {
     "Id": 41009,
-    "RuneName": "元素箭矢Ⅱ",
+    "RuneName": "Elemental Arrow II",
     "Runetip": 4004,
     "SkillTipParm": [
       1.5
@@ -1520,7 +1520,7 @@
   },
   {
     "Id": 41011,
-    "RuneName": "定身加伤Ⅰ",
+    "RuneName": "Freezing Damage I",
     "Runetip": 4005,
     "SkillTipParm": [
       15
@@ -1528,7 +1528,7 @@
   },
   {
     "Id": 41012,
-    "RuneName": "定身加伤Ⅱ",
+    "RuneName": "Freezing Damage II",
     "Runetip": 4005,
     "SkillTipParm": [
       10
@@ -1536,7 +1536,7 @@
   },
   {
     "Id": 41013,
-    "RuneName": "定身加伤Ⅲ",
+    "RuneName": "Freezing Damage III",
     "Runetip": 4005,
     "SkillTipParm": [
       15
@@ -1544,7 +1544,7 @@
   },
   {
     "Id": 41014,
-    "RuneName": "冲锋箭Ⅰ",
+    "RuneName": "Arrow Repel I",
     "Runetip": 4006,
     "SkillTipParm": [
       15
@@ -1552,7 +1552,7 @@
   },
   {
     "Id": 41016,
-    "RuneName": "冲锋箭Ⅲ",
+    "RuneName": "Arrow Repel III",
     "Runetip": 4007,
     "SkillTipParm": [
       5
@@ -1560,7 +1560,7 @@
   },
   {
     "Id": 42001,
-    "RuneName": "闪电冲击Ⅰ",
+    "RuneName": "Blitz Beat I",
     "Runetip": 4008,
     "SkillTipParm": [
       2
@@ -1568,7 +1568,7 @@
   },
   {
     "Id": 42002,
-    "RuneName": "闪电冲击Ⅱ",
+    "RuneName": "Blitz Beat II",
     "Runetip": 4008,
     "SkillTipParm": [
       1
@@ -1576,7 +1576,7 @@
   },
   {
     "Id": 42006,
-    "RuneName": "驯兽术Ⅰ",
+    "RuneName": "Beastmastery I",
     "Runetip": 4009,
     "SkillTipParm": [
       5
@@ -1584,7 +1584,7 @@
   },
   {
     "Id": 42007,
-    "RuneName": "驯兽术Ⅱ",
+    "RuneName": "Beastmastery II",
     "Runetip": 4009,
     "SkillTipParm": [
       10
@@ -1592,13 +1592,13 @@
   },
   {
     "Id": 42011,
-    "RuneName": "宠物伤害Ⅰ",
+    "RuneName": "Pet Damage I",
     "Runetip": 4010,
     "SkillTipParm": null
   },
   {
     "Id": 42012,
-    "RuneName": "宠物伤害Ⅱ",
+    "RuneName": "Pet Damage II",
     "Runetip": 4011,
     "SkillTipParm": [
       1,
@@ -1607,7 +1607,7 @@
   },
   {
     "Id": 42013,
-    "RuneName": "闪电冲击Ⅵ",
+    "RuneName": "Blitz Beat VI",
     "Runetip": 4012,
     "SkillTipParm": [
       10
@@ -1615,7 +1615,7 @@
   },
   {
     "Id": 42015,
-    "RuneName": "闪电冲击Ⅷ",
+    "RuneName": "Blitz Beat VIII",
     "Runetip": 4012,
     "SkillTipParm": [
       30
@@ -1623,7 +1623,7 @@
   },
   {
     "Id": 42016,
-    "RuneName": "分裂箭Ⅰ",
+    "RuneName": "Splitting Arrows I",
     "Runetip": 4013,
     "SkillTipParm": [
       5
@@ -1631,7 +1631,7 @@
   },
   {
     "Id": 42017,
-    "RuneName": "分裂箭Ⅱ",
+    "RuneName": "Splitting Arrows II",
     "Runetip": 4014,
     "SkillTipParm": [
       10
@@ -1639,13 +1639,13 @@
   },
   {
     "Id": 42022,
-    "RuneName": "分裂箭Ⅶ",
+    "RuneName": "Splitting Arrows VII",
     "Runetip": 4015,
     "SkillTipParm": null
   },
   {
     "Id": 42023,
-    "RuneName": "重伤箭Ⅰ",
+    "RuneName": "Heavy Arrow I",
     "Runetip": 4016,
     "SkillTipParm": [
       0.2
@@ -1653,7 +1653,7 @@
   },
   {
     "Id": 42025,
-    "RuneName": "爆散陷阱Ⅰ",
+    "RuneName": "Claymore Trap I",
     "Runetip": 4017,
     "SkillTipParm": [
       10
@@ -1661,7 +1661,7 @@
   },
   {
     "Id": 42026,
-    "RuneName": "爆散陷阱Ⅱ",
+    "RuneName": "Claymore Trap II",
     "Runetip": 4017,
     "SkillTipParm": [
       5
@@ -1669,13 +1669,13 @@
   },
   {
     "Id": 42030,
-    "RuneName": "引爆Ⅰ",
+    "RuneName": "Detonator I",
     "Runetip": 4018,
     "SkillTipParm": null
   },
   {
     "Id": 42031,
-    "RuneName": "引爆Ⅱ",
+    "RuneName": "Detonator II",
     "Runetip": 4019,
     "SkillTipParm": [
       10
@@ -1683,7 +1683,7 @@
   },
   {
     "Id": 42032,
-    "RuneName": "引爆Ⅲ",
+    "RuneName": "Detonator III",
     "Runetip": 4019,
     "SkillTipParm": [
       5
@@ -1691,7 +1691,7 @@
   },
   {
     "Id": 42036,
-    "RuneName": "冰霜陷阱Ⅰ",
+    "RuneName": "Frost Trap I",
     "Runetip": 4020,
     "SkillTipParm": [
       5
@@ -1699,7 +1699,7 @@
   },
   {
     "Id": 42037,
-    "RuneName": "冰霜陷阱Ⅱ",
+    "RuneName": "Frost Trap II",
     "Runetip": 4020,
     "SkillTipParm": [
       10
@@ -1707,7 +1707,7 @@
   },
   {
     "Id": 42050,
-    "RuneName": "地雷陷阱-强化",
+    "RuneName": "Land Mine -Enpower",
     "Runetip": 4021,
     "SkillTipParm": [
       10
@@ -1715,7 +1715,7 @@
   },
   {
     "Id": 42060,
-    "RuneName": "陷阱研究-精通",
+    "RuneName": "Trap Research -Proficient",
     "Runetip": 4022,
     "SkillTipParm": [
       3
@@ -1723,7 +1723,7 @@
   },
   {
     "Id": 42070,
-    "RuneName": "陷阱-噩梦",
+    "RuneName": "Trap -Nightmare",
     "Runetip": 4023,
     "SkillTipParm": [
       5
@@ -1731,7 +1731,7 @@
   },
   {
     "Id": 42080,
-    "RuneName": "猎鹰-震慑",
+    "RuneName": "Falcon -Stun",
     "Runetip": 4024,
     "SkillTipParm": [
       2
@@ -1739,7 +1739,7 @@
   },
   {
     "Id": 42090,
-    "RuneName": "猎鹰-驱散",
+    "RuneName": "Falcon -Clearance",
     "Runetip": 4025,
     "SkillTipParm": [
       5
@@ -1747,7 +1747,7 @@
   },
   {
     "Id": 42100,
-    "RuneName": "禁锢箭",
+    "RuneName": "Imprisoned arrow",
     "Runetip": 4026,
     "SkillTipParm": [
       5
@@ -1755,7 +1755,7 @@
   },
   {
     "Id": 42101,
-    "RuneName": "禁锢箭",
+    "RuneName": "Imprisoned arrow",
     "Runetip": 4026,
     "SkillTipParm": [
       5
@@ -1787,7 +1787,7 @@
   },
   {
     "Id": 42110,
-    "RuneName": "多重扫射-强效",
+    "RuneName": "Multi Firing -Enpower",
     "Runetip": 4027,
     "SkillTipParm": [
       10
@@ -1795,7 +1795,7 @@
   },
   {
     "Id": 42120,
-    "RuneName": "多重扫射-专精",
+    "RuneName": "Multi Firing -Mastery",
     "Runetip": 4028,
     "SkillTipParm": [
       0.1
@@ -1803,7 +1803,7 @@
   },
   {
     "Id": 42130,
-    "RuneName": "专注射击-精通",
+    "RuneName": "Sharp Shooting -Proficient",
     "Runetip": 4029,
     "SkillTipParm": [
       0.3,
@@ -1821,7 +1821,7 @@
   },
   {
     "Id": 43020,
-    "RuneName": "多重扫射-专精",
+    "RuneName": "Multi Firing -Mastery",
     "Runetip": 4302,
     "SkillTipParm": [
       0.5
@@ -1861,7 +1861,7 @@
   },
   {
     "Id": 44010,
-    "RuneName": "驯狼术",
+    "RuneName": "Wolf Training",
     "Runetip": 4401,
     "SkillTipParm": [
       5
@@ -1869,7 +1869,7 @@
   },
   {
     "Id": 44020,
-    "RuneName": "狼突击-强效",
+    "RuneName": "Warg Strike - Strong",
     "Runetip": 4402,
     "SkillTipParm": [
       4
@@ -1877,7 +1877,7 @@
   },
   {
     "Id": 44030,
-    "RuneName": "狼突击-协同",
+    "RuneName": "Warg Strike - Synergy",
     "Runetip": 4403,
     "SkillTipParm": [
       0.5
@@ -1885,7 +1885,7 @@
   },
   {
     "Id": 44040,
-    "RuneName": "蓄势待发-专精",
+    "RuneName": "Exceed Break- Mastery",
     "Runetip": 4404,
     "SkillTipParm": [
       2
@@ -1893,7 +1893,7 @@
   },
   {
     "Id": 44050,
-    "RuneName": "死亡狙击-强化",
+    "RuneName": "Deadly Snipe - Strong",
     "Runetip": 4405,
     "SkillTipParm": [
       5
@@ -1901,7 +1901,7 @@
   },
   {
     "Id": 44060,
-    "RuneName": "死亡狙击-精准",
+    "RuneName": "Deadly Snipe - Precision",
     "Runetip": 4406,
     "SkillTipParm": [
       3
@@ -1909,7 +1909,7 @@
   },
   {
     "Id": 44070,
-    "RuneName": "箭矢风暴-暴风",
+    "RuneName": "Arrow Storm - Storm",
     "Runetip": 4407,
     "SkillTipParm": [
       10
@@ -1917,7 +1917,7 @@
   },
   {
     "Id": 44080,
-    "RuneName": "电击陷阱-强化",
+    "RuneName": "Electric Shock - Strong",
     "Runetip": 4408,
     "SkillTipParm": [
       8
@@ -1925,7 +1925,7 @@
   },
   {
     "Id": 44090,
-    "RuneName": "自然庇护",
+    "RuneName": "Nature’s Protection",
     "Runetip": 4409,
     "SkillTipParm": [
       1
@@ -1933,7 +1933,7 @@
   },
   {
     "Id": 51001,
-    "RuneName": "治愈术-强效",
+    "RuneName": "Heal -Enpower",
     "Runetip": 5000,
     "SkillTipParm": [
       2
@@ -1941,7 +1941,7 @@
   },
   {
     "Id": 51002,
-    "RuneName": "持久愈合",
+    "RuneName": "Lasting Healing",
     "Runetip": 5001,
     "SkillTipParm": [
       7
@@ -1949,7 +1949,7 @@
   },
   {
     "Id": 51003,
-    "RuneName": "持久愈合-强效",
+    "RuneName": "Lasting Healing -Enpower",
     "Runetip": 5002,
     "SkillTipParm": [
       5
@@ -1957,7 +1957,7 @@
   },
   {
     "Id": 51004,
-    "RuneName": "霸邪之阵-疾走",
+    "RuneName": "Kyrie Eleison -Speeding Up",
     "Runetip": 5003,
     "SkillTipParm": [
       20,
@@ -1966,7 +1966,7 @@
   },
   {
     "Id": 51010,
-    "RuneName": "急速光耀",
+    "RuneName": "Speedy Blazing",
     "Runetip": 5004,
     "SkillTipParm": [
       15
@@ -1974,7 +1974,7 @@
   },
   {
     "Id": 51012,
-    "RuneName": "钝器熟练度-强效",
+    "RuneName": "The Blunt Mastery -Enpower",
     "Runetip": 5005,
     "SkillTipParm": [
       60
@@ -1982,7 +1982,7 @@
   },
   {
     "Id": 51013,
-    "RuneName": "力量普攻",
+    "RuneName": "STR auto attack",
     "Runetip": 5006,
     "SkillTipParm": [
       5,
@@ -1991,7 +1991,7 @@
   },
   {
     "Id": 51014,
-    "RuneName": "转生术-恢复",
+    "RuneName": "Turn Undead -Restore",
     "Runetip": 5007,
     "SkillTipParm": [
       7
@@ -1999,7 +1999,7 @@
   },
   {
     "Id": 51015,
-    "RuneName": "神威祈福-强效",
+    "RuneName": "Impositio Manus -Enpower",
     "Runetip": 5008,
     "SkillTipParm": [
       5
@@ -2007,7 +2007,7 @@
   },
   {
     "Id": 51017,
-    "RuneName": "高等物理防御",
+    "RuneName": "Advanced Def",
     "Runetip": 5025,
     "SkillTipParm": [
       3
@@ -2015,7 +2015,7 @@
   },
   {
     "Id": 51019,
-    "RuneName": "神圣增幅-眩晕",
+    "RuneName": "Holy Booster -Stun",
     "Runetip": 5009,
     "SkillTipParm": [
       20,
@@ -2024,7 +2024,7 @@
   },
   {
     "Id": 51021,
-    "RuneName": "高等魔法防御",
+    "RuneName": "Advanced M.Def",
     "Runetip": 5027,
     "SkillTipParm": [
       3
@@ -2032,7 +2032,7 @@
   },
   {
     "Id": 51022,
-    "RuneName": "高等物理防御",
+    "RuneName": "Advanced Def",
     "Runetip": 5025,
     "SkillTipParm": [
       3
@@ -2040,7 +2040,7 @@
   },
   {
     "Id": 51023,
-    "RuneName": "高等魔法防御",
+    "RuneName": "Advanced M.Def",
     "Runetip": 5027,
     "SkillTipParm": [
       3
@@ -2048,7 +2048,7 @@
   },
   {
     "Id": 52001,
-    "RuneName": "双重愈合Ⅰ",
+    "RuneName": "Double Healing I",
     "Runetip": 5010,
     "SkillTipParm": [
       10
@@ -2056,7 +2056,7 @@
   },
   {
     "Id": 52003,
-    "RuneName": "双重愈合-延时",
+    "RuneName": "Double Healing -Delay",
     "Runetip": 5011,
     "SkillTipParm": [
       3,
@@ -2065,7 +2065,7 @@
   },
   {
     "Id": 52004,
-    "RuneName": "圣母之颂歌-专精",
+    "RuneName": "Magnificat -Mastery",
     "Runetip": 5012,
     "SkillTipParm": [
       10
@@ -2073,7 +2073,7 @@
   },
   {
     "Id": 52006,
-    "RuneName": "信仰祈福",
+    "RuneName": "Faith Pray",
     "Runetip": 5013,
     "SkillTipParm": [
       1,
@@ -2082,7 +2082,7 @@
   },
   {
     "Id": 52007,
-    "RuneName": "信仰祈福",
+    "RuneName": "Faith Pray",
     "Runetip": 5013,
     "SkillTipParm": [
       1,
@@ -2091,7 +2091,7 @@
   },
   {
     "Id": 52008,
-    "RuneName": "信仰祈福-治愈",
+    "RuneName": "Faith Pray -Cure",
     "Runetip": 5014,
     "SkillTipParm": [
       5
@@ -2099,7 +2099,7 @@
   },
   {
     "Id": 52011,
-    "RuneName": "传送之阵",
+    "RuneName": "Warp Portal",
     "Runetip": 5015,
     "SkillTipParm": [
       1
@@ -2107,7 +2107,7 @@
   },
   {
     "Id": 52013,
-    "RuneName": "法力普攻",
+    "RuneName": "SP auto attack",
     "Runetip": 5016,
     "SkillTipParm": [
       7,
@@ -2116,7 +2116,7 @@
   },
   {
     "Id": 52019,
-    "RuneName": "普攻-沉默",
+    "RuneName": "Auto Attack -Silence",
     "Runetip": 5017,
     "SkillTipParm": [
       2,
@@ -2125,7 +2125,7 @@
   },
   {
     "Id": 52021,
-    "RuneName": "自动幸运",
+    "RuneName": "Auto Luck",
     "Runetip": 5018,
     "SkillTipParm": [
       5
@@ -2133,7 +2133,7 @@
   },
   {
     "Id": 52023,
-    "RuneName": "忏悔",
+    "RuneName": "Repentance",
     "Runetip": 5019,
     "SkillTipParm": [
       1
@@ -2141,7 +2141,7 @@
   },
   {
     "Id": 52024,
-    "RuneName": "忏悔-多效",
+    "RuneName": "Repentance -Utility",
     "Runetip": 5020,
     "SkillTipParm": [
       20
@@ -2149,7 +2149,7 @@
   },
   {
     "Id": 52030,
-    "RuneName": "十字驱魔-专精",
+    "RuneName": "Magnus Exorcismus -Mastery",
     "Runetip": 5021,
     "SkillTipParm": [
       0.2,
@@ -2158,7 +2158,7 @@
   },
   {
     "Id": 52031,
-    "RuneName": "群体复活术",
+    "RuneName": "Group Resurrection",
     "Runetip": 5022,
     "SkillTipParm": [
       1
@@ -2166,7 +2166,7 @@
   },
   {
     "Id": 52034,
-    "RuneName": "牺牲祈福-延时",
+    "RuneName": "Suffragium -Delay",
     "Runetip": 5023,
     "SkillTipParm": [
       2
@@ -2174,7 +2174,7 @@
   },
   {
     "Id": 52035,
-    "RuneName": "光猎-延时",
+    "RuneName": "Ruwach -Delay",
     "Runetip": 5024,
     "SkillTipParm": [
       10
@@ -2190,7 +2190,7 @@
   },
   {
     "Id": 52037,
-    "RuneName": "十字驱魔-强效",
+    "RuneName": "Magnus Exorcismus -Enpower",
     "Runetip": 5039,
     "SkillTipParm": [
       30
@@ -2198,7 +2198,7 @@
   },
   {
     "Id": 52040,
-    "RuneName": "双重愈合Ⅰ",
+    "RuneName": "Double Healing I",
     "Runetip": 5010,
     "SkillTipParm": [
       10
@@ -2230,7 +2230,7 @@
   },
   {
     "Id": 52070,
-    "RuneName": "牺牲祈福-专精",
+    "RuneName": "Suffragium -Mastery",
     "Runetip": 5028,
     "SkillTipParm": [
       5
@@ -2238,7 +2238,7 @@
   },
   {
     "Id": 52080,
-    "RuneName": "牺牲颂歌",
+    "RuneName": "Sacrifice Ode",
     "Runetip": 5032,
     "SkillTipParm": [
       8
@@ -2246,7 +2246,7 @@
   },
   {
     "Id": 52090,
-    "RuneName": "强效驱散",
+    "RuneName": "Highly Effective Clearance",
     "Runetip": 5029,
     "SkillTipParm": [
       1
@@ -2254,7 +2254,7 @@
   },
   {
     "Id": 52100,
-    "RuneName": "言语之术",
+    "RuneName": "Word Style",
     "Runetip": 5030,
     "SkillTipParm": [
       100,
@@ -2263,7 +2263,7 @@
   },
   {
     "Id": 52110,
-    "RuneName": "缓速术-蔓延",
+    "RuneName": "Decrease Agility -Spread",
     "Runetip": 5031,
     "SkillTipParm": [
       3
@@ -2298,7 +2298,7 @@
   },
   {
     "Id": 52130,
-    "RuneName": "沉默之术-抑制",
+    "RuneName": "Lex Divina -Control",
     "Runetip": 5033,
     "SkillTipParm": [
       2
@@ -2306,7 +2306,7 @@
   },
   {
     "Id": 52140,
-    "RuneName": "群体复活术",
+    "RuneName": "Group Resurrection",
     "Runetip": 5034,
     "SkillTipParm": [
       1
@@ -2314,7 +2314,7 @@
   },
   {
     "Id": 52150,
-    "RuneName": "双向传送",
+    "RuneName": "Two-way Teleport",
     "Runetip": 5035,
     "SkillTipParm": [
       100,
@@ -2323,7 +2323,7 @@
   },
   {
     "Id": 52151,
-    "RuneName": "双向传送",
+    "RuneName": "Two-way Teleport",
     "Runetip": 5035,
     "SkillTipParm": [
       100,
@@ -2332,7 +2332,7 @@
   },
   {
     "Id": 52160,
-    "RuneName": "自动神威",
+    "RuneName": "Auto Impositio",
     "Runetip": 5037,
     "SkillTipParm": [
       3
@@ -2340,7 +2340,7 @@
   },
   {
     "Id": 52170,
-    "RuneName": "忏悔",
+    "RuneName": "Repentance",
     "Runetip": 5038,
     "SkillTipParm": [
       1,
@@ -2360,7 +2360,7 @@
   },
   {
     "Id": 52180,
-    "RuneName": "转生术-强效",
+    "RuneName": "Turn Undead -Enpower",
     "Runetip": 5040,
     "SkillTipParm": [
       100
@@ -2408,7 +2408,7 @@
   },
   {
     "Id": 54010,
-    "RuneName": "否决-强效",
+    "RuneName": "Deny - Strong",
     "Runetip": 5401,
     "SkillTipParm": [
       2
@@ -2416,7 +2416,7 @@
   },
   {
     "Id": 54020,
-    "RuneName": "缓毒术-长效",
+    "RuneName": "Slow Poison - Lengthened",
     "Runetip": 5402,
     "SkillTipParm": [
       2,
@@ -2425,7 +2425,7 @@
   },
   {
     "Id": 54030,
-    "RuneName": "治愈之光-强效",
+    "RuneName": "Coluceo Heal - Strong",
     "Runetip": 5403,
     "SkillTipParm": [
       2
@@ -2433,7 +2433,7 @@
   },
   {
     "Id": 54040,
-    "RuneName": "祷告-强效",
+    "RuneName": "Oratio - Strong",
     "Runetip": 5404,
     "SkillTipParm": [
       5
@@ -2441,7 +2441,7 @@
   },
   {
     "Id": 54050,
-    "RuneName": "赞歌-强化",
+    "RuneName": "Adoramus - Strong",
     "Runetip": 5405,
     "SkillTipParm": [
       6
@@ -2449,7 +2449,7 @@
   },
   {
     "Id": 54060,
-    "RuneName": "赞歌-专精",
+    "RuneName": "Adoramus - Mastery",
     "Runetip": 5406,
     "SkillTipParm": [
       10
@@ -2457,7 +2457,7 @@
   },
   {
     "Id": 54070,
-    "RuneName": "赎罪-强效",
+    "RuneName": "Expiatio - Strong",
     "Runetip": 5407,
     "SkillTipParm": [
       1
@@ -2465,7 +2465,7 @@
   },
   {
     "Id": 54080,
-    "RuneName": "双重圣光-强化",
+    "RuneName": "Duple Light - Strong",
     "Runetip": 5408,
     "SkillTipParm": [
       5
@@ -2473,7 +2473,7 @@
   },
   {
     "Id": 54090,
-    "RuneName": "双重圣光-加速",
+    "RuneName": "Duple Light - Boost",
     "Runetip": 5409,
     "SkillTipParm": [
       3
@@ -2481,7 +2481,7 @@
   },
   {
     "Id": 61001,
-    "RuneName": "改装手推车Ⅰ",
+    "RuneName": "Change Cart I",
     "Runetip": 6000,
     "SkillTipParm": [
       2,
@@ -2490,7 +2490,7 @@
   },
   {
     "Id": 61002,
-    "RuneName": "改装手推车Ⅱ",
+    "RuneName": "Change Cart II",
     "Runetip": 6000,
     "SkillTipParm": [
       4,
@@ -2499,7 +2499,7 @@
   },
   {
     "Id": 61006,
-    "RuneName": "手推车攻击",
+    "RuneName": "Cart Revolution",
     "Runetip": 6001,
     "SkillTipParm": [
       0.5,
@@ -2508,7 +2508,7 @@
   },
   {
     "Id": 61007,
-    "RuneName": "手推车攻击",
+    "RuneName": "Cart Revolution",
     "Runetip": 6001,
     "SkillTipParm": [
       1,
@@ -2517,7 +2517,7 @@
   },
   {
     "Id": 61011,
-    "RuneName": "手推车增幅Ⅰ",
+    "RuneName": "Cart Increase I",
     "Runetip": 6002,
     "SkillTipParm": [
       5
@@ -2525,7 +2525,7 @@
   },
   {
     "Id": 61012,
-    "RuneName": "手推车增幅Ⅱ",
+    "RuneName": "Cart Increase II",
     "Runetip": 6002,
     "SkillTipParm": [
       5
@@ -2533,7 +2533,7 @@
   },
   {
     "Id": 61013,
-    "RuneName": "手推车增幅Ⅲ",
+    "RuneName": "Cart Increase III",
     "Runetip": 6002,
     "SkillTipParm": [
       10
@@ -2541,7 +2541,7 @@
   },
   {
     "Id": 61014,
-    "RuneName": "手推车增幅Ⅳ",
+    "RuneName": "Cart Increase IV",
     "Runetip": 6002,
     "SkillTipParm": [
       5
@@ -2549,7 +2549,7 @@
   },
   {
     "Id": 61015,
-    "RuneName": "手推车增幅Ⅴ",
+    "RuneName": "Cart Increase V",
     "Runetip": 6002,
     "SkillTipParm": [
       5
@@ -2557,7 +2557,7 @@
   },
   {
     "Id": 62001,
-    "RuneName": "眩晕加伤Ⅰ",
+    "RuneName": "Stunning Damage I",
     "Runetip": 6003,
     "SkillTipParm": [
       2
@@ -2565,7 +2565,7 @@
   },
   {
     "Id": 62002,
-    "RuneName": "眩晕加伤Ⅱ",
+    "RuneName": "Stunning Damage II",
     "Runetip": 6003,
     "SkillTipParm": [
       4
@@ -2573,7 +2573,7 @@
   },
   {
     "Id": 62003,
-    "RuneName": "眩晕加伤Ⅲ",
+    "RuneName": "Stunning Damage III",
     "Runetip": 6003,
     "SkillTipParm": [
       4
@@ -2581,7 +2581,7 @@
   },
   {
     "Id": 62004,
-    "RuneName": "眩晕加伤Ⅳ",
+    "RuneName": "Stunning Damage IV",
     "Runetip": 6003,
     "SkillTipParm": [
       2
@@ -2589,7 +2589,7 @@
   },
   {
     "Id": 62005,
-    "RuneName": "眩晕加伤Ⅴ",
+    "RuneName": "Stunning Damage V",
     "Runetip": 6003,
     "SkillTipParm": [
       2
@@ -2597,7 +2597,7 @@
   },
   {
     "Id": 62006,
-    "RuneName": "强化火属性Ⅰ",
+    "RuneName": "Skin Tempering I",
     "Runetip": 6004,
     "SkillTipParm": [
       1
@@ -2605,7 +2605,7 @@
   },
   {
     "Id": 62007,
-    "RuneName": "斧头精炼度Ⅰ",
+    "RuneName": "Axe Refining I",
     "Runetip": 6008,
     "SkillTipParm": [
       20
@@ -2613,7 +2613,7 @@
   },
   {
     "Id": 62008,
-    "RuneName": "手推车撞击Ⅰ",
+    "RuneName": "Cart Attack I",
     "Runetip": 6005,
     "SkillTipParm": [
       1,
@@ -2622,7 +2622,7 @@
   },
   {
     "Id": 62009,
-    "RuneName": "手推车撞击Ⅱ",
+    "RuneName": "Cart Attack II",
     "Runetip": 6005,
     "SkillTipParm": [
       0.5,
@@ -2631,7 +2631,7 @@
   },
   {
     "Id": 62013,
-    "RuneName": "灵巧转换Ⅰ",
+    "RuneName": "Swiftly Transform I",
     "Runetip": 6006,
     "SkillTipParm": [
       1,
@@ -2640,7 +2640,7 @@
   },
   {
     "Id": 62014,
-    "RuneName": "灵巧转换Ⅱ",
+    "RuneName": "Swiftly Transform II",
     "Runetip": 6006,
     "SkillTipParm": [
       1,
@@ -2649,7 +2649,7 @@
   },
   {
     "Id": 62015,
-    "RuneName": "灵巧转换Ⅲ",
+    "RuneName": "Swiftly Transform III",
     "Runetip": 6006,
     "SkillTipParm": [
       1,
@@ -2658,7 +2658,7 @@
   },
   {
     "Id": 62016,
-    "RuneName": "灵巧转换Ⅳ",
+    "RuneName": "Swiftly Transform IV",
     "Runetip": 6006,
     "SkillTipParm": [
       1,
@@ -2667,7 +2667,7 @@
   },
   {
     "Id": 62017,
-    "RuneName": "灵巧转换Ⅴ",
+    "RuneName": "Swiftly Transform V",
     "Runetip": 6006,
     "SkillTipParm": [
       1,
@@ -2676,7 +2676,7 @@
   },
   {
     "Id": 62018,
-    "RuneName": "斧头精炼度Ⅱ",
+    "RuneName": "Axe Refining II",
     "Runetip": 6008,
     "SkillTipParm": [
       20
@@ -2684,7 +2684,7 @@
   },
   {
     "Id": 62019,
-    "RuneName": "斧头精炼度Ⅲ",
+    "RuneName": "Axe Refining III",
     "Runetip": 6008,
     "SkillTipParm": [
       10
@@ -2692,7 +2692,7 @@
   },
   {
     "Id": 62020,
-    "RuneName": "手推车撞击Ⅵ",
+    "RuneName": "Cart Attack VI",
     "Runetip": 6007,
     "SkillTipParm": [
       10,
@@ -2701,7 +2701,7 @@
   },
   {
     "Id": 62021,
-    "RuneName": "手推车撞击Ⅶ",
+    "RuneName": "Cart Attack VII",
     "Runetip": 6007,
     "SkillTipParm": [
       5,
@@ -2710,7 +2710,7 @@
   },
   {
     "Id": 62024,
-    "RuneName": "斧头精炼度Ⅳ",
+    "RuneName": "Axe Refining IV",
     "Runetip": 6008,
     "SkillTipParm": [
       20
@@ -2718,7 +2718,7 @@
   },
   {
     "Id": 62025,
-    "RuneName": "斧头精炼度Ⅴ",
+    "RuneName": "Axe Refining V",
     "Runetip": 6008,
     "SkillTipParm": [
       10
@@ -2726,7 +2726,7 @@
   },
   {
     "Id": 62026,
-    "RuneName": "幸运转换Ⅰ",
+    "RuneName": "Luck Switch I",
     "Runetip": 6009,
     "SkillTipParm": [
       1,
@@ -2735,7 +2735,7 @@
   },
   {
     "Id": 62027,
-    "RuneName": "幸运转换Ⅱ",
+    "RuneName": "Luck Switch II",
     "Runetip": 6009,
     "SkillTipParm": [
       1,
@@ -2744,7 +2744,7 @@
   },
   {
     "Id": 62028,
-    "RuneName": "幸运转换Ⅲ",
+    "RuneName": "Luck Switch III",
     "Runetip": 6009,
     "SkillTipParm": [
       1,
@@ -2753,7 +2753,7 @@
   },
   {
     "Id": 62029,
-    "RuneName": "幸运转换Ⅳ",
+    "RuneName": "Luck Switch IV",
     "Runetip": 6009,
     "SkillTipParm": [
       1,
@@ -2762,7 +2762,7 @@
   },
   {
     "Id": 62030,
-    "RuneName": "幸运转换Ⅴ",
+    "RuneName": "Luck Switch V",
     "Runetip": 6009,
     "SkillTipParm": [
       1,
@@ -2771,7 +2771,7 @@
   },
   {
     "Id": 62040,
-    "RuneName": "斧头精炼度-强化",
+    "RuneName": "Axe Refining -Enpower",
     "Runetip": 6010,
     "SkillTipParm": [
       10
@@ -2779,7 +2779,7 @@
   },
   {
     "Id": 62050,
-    "RuneName": "金钱攻击-精通",
+    "RuneName": "Mammonite -Proficient",
     "Runetip": 6011,
     "SkillTipParm": [
       5,
@@ -2788,7 +2788,7 @@
   },
   {
     "Id": 62060,
-    "RuneName": "旋风斧",
+    "RuneName": "Whirl Axe",
     "Runetip": 6012,
     "SkillTipParm": [
       40,
@@ -2798,7 +2798,7 @@
   },
   {
     "Id": 62061,
-    "RuneName": "旋风斧",
+    "RuneName": "Whirl Axe",
     "Runetip": 6012,
     "SkillTipParm": [
       40,
@@ -2838,7 +2838,7 @@
   },
   {
     "Id": 62070,
-    "RuneName": "旋风斧-强化",
+    "RuneName": "Whirl Axe -Enpower",
     "Runetip": 6013,
     "SkillTipParm": [
       5
@@ -2846,7 +2846,7 @@
   },
   {
     "Id": 62080,
-    "RuneName": "力量膨胀",
+    "RuneName": "Strength Expanding",
     "Runetip": 6014,
     "SkillTipParm": [
       20,
@@ -2855,7 +2855,7 @@
   },
   {
     "Id": 62090,
-    "RuneName": "分裂斧",
+    "RuneName": "Split Axe",
     "Runetip": 6015,
     "SkillTipParm": [
       5,
@@ -2864,7 +2864,7 @@
   },
   {
     "Id": 62091,
-    "RuneName": "分裂斧",
+    "RuneName": "Split Axe",
     "Runetip": 6015,
     "SkillTipParm": [
       5,
@@ -2882,7 +2882,7 @@
   },
   {
     "Id": 62100,
-    "RuneName": "分裂斧-强化",
+    "RuneName": "Split Axe -Enpower",
     "Runetip": 6016,
     "SkillTipParm": [
       3
@@ -2914,7 +2914,7 @@
   },
   {
     "Id": 64010,
-    "RuneName": "元素盔甲",
+    "RuneName": "Elemental Armor",
     "Runetip": 6401,
     "SkillTipParm": [
       4
@@ -2922,7 +2922,7 @@
   },
   {
     "Id": 64020,
-    "RuneName": "机械维修-精通",
+    "RuneName": "Repair - Mastery",
     "Runetip": 6402,
     "SkillTipParm": [
       5
@@ -2930,7 +2930,7 @@
   },
   {
     "Id": 64030,
-    "RuneName": "悬浮-专精",
+    "RuneName": "Hover - Mastery",
     "Runetip": 6403,
     "SkillTipParm": [
       10
@@ -2938,7 +2938,7 @@
   },
   {
     "Id": 64040,
-    "RuneName": "自爆-强化",
+    "RuneName": "Suicidal Destruction - Strong",
     "Runetip": 6404,
     "SkillTipParm": [
       5
@@ -2946,7 +2946,7 @@
   },
   {
     "Id": 64050,
-    "RuneName": "紧急护盾",
+    "RuneName": "Emergency Shield",
     "Runetip": 6405,
     "SkillTipParm": [
       1
@@ -2954,7 +2954,7 @@
   },
   {
     "Id": 64060,
-    "RuneName": "磁场-强效",
+    "RuneName": "Magnetic Field - Strong",
     "Runetip": 6406,
     "SkillTipParm": [
       10
@@ -2962,7 +2962,7 @@
   },
   {
     "Id": 64070,
-    "RuneName": "加农炮-强化",
+    "RuneName": "Arm Cannon - Strong",
     "Runetip": 6407,
     "SkillTipParm": [
       10
@@ -2970,7 +2970,7 @@
   },
   {
     "Id": 64080,
-    "RuneName": "加农炮-破坏",
+    "RuneName": "Arm Cannon - Destroy",
     "Runetip": 6408,
     "SkillTipParm": [
       10
@@ -2978,7 +2978,7 @@
   },
   {
     "Id": 64090,
-    "RuneName": "连续飞拳",
+    "RuneName": "Successive Flying Punches",
     "Runetip": 6409,
     "SkillTipParm": [
       10
@@ -2986,7 +2986,7 @@
   },
   {
     "Id": 70010,
-    "RuneName": "普攻-强效",
+    "RuneName": "Auto Atk -Enpower",
     "Runetip": 7001,
     "SkillTipParm": [
       3,
@@ -2995,7 +2995,7 @@
   },
   {
     "Id": 70020,
-    "RuneName": "圣十字攻击-强效",
+    "RuneName": "Holy Cross -Enpower",
     "Runetip": 7002,
     "SkillTipParm": [
       10
@@ -3003,7 +3003,7 @@
   },
   {
     "Id": 70030,
-    "RuneName": "盾击-眩晕",
+    "RuneName": "Shield Charge -Stun",
     "Runetip": 7003,
     "SkillTipParm": [
       15
@@ -3011,7 +3011,7 @@
   },
   {
     "Id": 70040,
-    "RuneName": "连续盾击-强效",
+    "RuneName": "Shield Chain -Enpower",
     "Runetip": 7004,
     "SkillTipParm": [
       10
@@ -3019,7 +3019,7 @@
   },
   {
     "Id": 70050,
-    "RuneName": "连续盾击-射程",
+    "RuneName": "Shield Chain -Range",
     "Runetip": 7005,
     "SkillTipParm": [
       0.5
@@ -3027,13 +3027,13 @@
   },
   {
     "Id": 70060,
-    "RuneName": "【神之威压】",
+    "RuneName": "[Pressure]",
     "Runetip": 7006,
     "SkillTipParm": null
   },
   {
     "Id": 70061,
-    "RuneName": "【神之威压】",
+    "RuneName": "[Pressure]",
     "Runetip": 7006,
     "SkillTipParm": null
   },
@@ -3057,7 +3057,7 @@
   },
   {
     "Id": 70070,
-    "RuneName": "惩戒-强效",
+    "RuneName": "Retribution -Enpower",
     "Runetip": 7007,
     "SkillTipParm": [
       10
@@ -3065,7 +3065,7 @@
   },
   {
     "Id": 70080,
-    "RuneName": "圣十字审判-警惕",
+    "RuneName": "Grand Cross-Alert",
     "Runetip": 7008,
     "SkillTipParm": [
       5
@@ -3073,7 +3073,7 @@
   },
   {
     "Id": 70090,
-    "RuneName": "圣十字审判-速读",
+    "RuneName": "Grand Cross -Quick Cast",
     "Runetip": 7009,
     "SkillTipParm": [
       0.25
@@ -3081,7 +3081,7 @@
   },
   {
     "Id": 70100,
-    "RuneName": "回旋盾击-强效",
+    "RuneName": "Shield Boomerang -Enpower",
     "Runetip": 7010,
     "SkillTipParm": [
       5
@@ -3089,7 +3089,7 @@
   },
   {
     "Id": 70110,
-    "RuneName": "濒死回复",
+    "RuneName": "Dying Rocovery",
     "Runetip": 7011,
     "SkillTipParm": [
       15
@@ -3097,7 +3097,7 @@
   },
   {
     "Id": 70120,
-    "RuneName": "圣十字祝福",
+    "RuneName": "Holy Cross Blissing",
     "Runetip": 7012,
     "SkillTipParm": [
       2
@@ -3105,7 +3105,7 @@
   },
   {
     "Id": 70130,
-    "RuneName": "盾击-命中",
+    "RuneName": "Shield Charge -Hit",
     "Runetip": 7013,
     "SkillTipParm": [
       20
@@ -3113,7 +3113,7 @@
   },
   {
     "Id": 70140,
-    "RuneName": "圣十字审判-强效",
+    "RuneName": "Grand Cross -Enpower",
     "Runetip": 7014,
     "SkillTipParm": [
       10
@@ -3161,7 +3161,7 @@
   },
   {
     "Id": 74010,
-    "RuneName": "大地猛击-冷却",
+    "RuneName": "Earth Drive - Cooldown",
     "Runetip": 7401,
     "SkillTipParm": [
       0.5
@@ -3169,7 +3169,7 @@
   },
   {
     "Id": 74020,
-    "RuneName": "指挥冲锋-急速",
+    "RuneName": "Command of Charge - Haste",
     "Runetip": 7402,
     "SkillTipParm": [
       4
@@ -3177,7 +3177,7 @@
   },
   {
     "Id": 74030,
-    "RuneName": "血十字-强化",
+    "RuneName": "Overbrand - Strong",
     "Runetip": 7403,
     "SkillTipParm": [
       7
@@ -3185,7 +3185,7 @@
   },
   {
     "Id": 74040,
-    "RuneName": "圣灵感应-祝福",
+    "RuneName": "Inspiration - Blessing",
     "Runetip": 7404,
     "SkillTipParm": [
       10
@@ -3193,7 +3193,7 @@
   },
   {
     "Id": 74050,
-    "RuneName": "虔诚-长效",
+    "RuneName": "Piety - Lengthened",
     "Runetip": 7405,
     "SkillTipParm": [
       5
@@ -3201,7 +3201,7 @@
   },
   {
     "Id": 74060,
-    "RuneName": "无惧无畏-铁甲",
+    "RuneName": "Fearless - Armor",
     "Runetip": 7406,
     "SkillTipParm": [
       5
@@ -3209,7 +3209,7 @@
   },
   {
     "Id": 74070,
-    "RuneName": "圣音-治疗",
+    "RuneName": "Battle Chant - Cure",
     "Runetip": 7407,
     "SkillTipParm": [
       10
@@ -3217,7 +3217,7 @@
   },
   {
     "Id": 74080,
-    "RuneName": "虔诚-信仰",
+    "RuneName": "Piety - Faith",
     "Runetip": 7408,
     "SkillTipParm": [
       2
@@ -3542,7 +3542,7 @@
   },
   {
     "Id": 90010,
-    "RuneName": "双倍防具卸除",
+    "RuneName": "Double Armor Removal",
     "Runetip": 9001,
     "SkillTipParm": [
       10
@@ -3550,7 +3550,7 @@
   },
   {
     "Id": 90011,
-    "RuneName": "双倍防具卸除",
+    "RuneName": "Double Armor Removal",
     "Runetip": 9001,
     "SkillTipParm": [
       10
@@ -3582,7 +3582,7 @@
   },
   {
     "Id": 90020,
-    "RuneName": "【流氓天堂】",
+    "RuneName": "[Gangster's Paradise]",
     "Runetip": 9002,
     "SkillTipParm": [
       9
@@ -3590,7 +3590,7 @@
   },
   {
     "Id": 90021,
-    "RuneName": "【流氓天堂】",
+    "RuneName": "[Gangster's Paradise]",
     "Runetip": 9002,
     "SkillTipParm": [
       9
@@ -3598,19 +3598,19 @@
   },
   {
     "Id": 90030,
-    "RuneName": "【陷阱探查】",
+    "RuneName": "[Talkie Box]",
     "Runetip": 9003,
     "SkillTipParm": null
   },
   {
     "Id": 90031,
-    "RuneName": "【陷阱探查】",
+    "RuneName": "[Talkie Box]",
     "Runetip": 9003,
     "SkillTipParm": null
   },
   {
     "Id": 90040,
-    "RuneName": "【陷阱移除】",
+    "RuneName": "[Remove Trap]",
     "Runetip": 9004,
     "SkillTipParm": [
       1
@@ -3618,7 +3618,7 @@
   },
   {
     "Id": 90041,
-    "RuneName": "【陷阱移除】",
+    "RuneName": "[Remove Trap]",
     "Runetip": 9004,
     "SkillTipParm": [
       1
@@ -3626,7 +3626,7 @@
   },
   {
     "Id": 90050,
-    "RuneName": "三连矢-强效",
+    "RuneName": "Triangle Shot -Enpower",
     "Runetip": 9005,
     "SkillTipParm": [
       8
@@ -3634,7 +3634,7 @@
   },
   {
     "Id": 90060,
-    "RuneName": "潜击-强效",
+    "RuneName": "Raid -Enpower",
     "Runetip": 9006,
     "SkillTipParm": [
       20
@@ -3642,7 +3642,7 @@
   },
   {
     "Id": 90070,
-    "RuneName": "潜击-易伤",
+    "RuneName": "Raid -Vulnerable",
     "Runetip": 9007,
     "SkillTipParm": [
       3
@@ -3650,7 +3650,7 @@
   },
   {
     "Id": 90080,
-    "RuneName": "背刺-强效",
+    "RuneName": "Back Stab -Enpower",
     "Runetip": 9008,
     "SkillTipParm": [
       8
@@ -3658,7 +3658,7 @@
   },
   {
     "Id": 90090,
-    "RuneName": "背刺-精通",
+    "RuneName": "Back Stab -Proficient",
     "Runetip": 9009,
     "SkillTipParm": [
       0.25
@@ -3666,7 +3666,7 @@
   },
   {
     "Id": 90100,
-    "RuneName": "胁持-强效",
+    "RuneName": "Intimidate -Enpower",
     "Runetip": 9010,
     "SkillTipParm": [
       10
@@ -3674,7 +3674,7 @@
   },
   {
     "Id": 90110,
-    "RuneName": "胁持-压迫",
+    "RuneName": "Intimidate -Oppress",
     "Runetip": 9011,
     "SkillTipParm": [
       5
@@ -3682,7 +3682,7 @@
   },
   {
     "Id": 90120,
-    "RuneName": "伏击-强效",
+    "RuneName": "The Ambush -Enpower",
     "Runetip": 9012,
     "SkillTipParm": [
       10
@@ -3690,7 +3690,7 @@
   },
   {
     "Id": 90130,
-    "RuneName": "擒拿-防护",
+    "RuneName": "Close Confine -Defense",
     "Runetip": 9013,
     "SkillTipParm": [
       2,
@@ -3699,7 +3699,7 @@
   },
   {
     "Id": 90140,
-    "RuneName": "销声匿迹-冷却",
+    "RuneName": "Vanished -Cooldown",
     "Runetip": 9014,
     "SkillTipParm": [
       10
@@ -3707,7 +3707,7 @@
   },
   {
     "Id": 90150,
-    "RuneName": "销声匿迹-精通",
+    "RuneName": "Vanished -Proficient",
     "Runetip": 9015,
     "SkillTipParm": [
       0.25
@@ -3715,7 +3715,7 @@
   },
   {
     "Id": 90160,
-    "RuneName": "隐匿强化-延时",
+    "RuneName": "Enhanced Hiding -Delay",
     "Runetip": 9016,
     "SkillTipParm": [
       1
@@ -3723,7 +3723,7 @@
   },
   {
     "Id": 90170,
-    "RuneName": "二刀连击-强效",
+    "RuneName": "Double Attack -Enpower",
     "Runetip": 9017,
     "SkillTipParm": [
       6
@@ -3731,7 +3731,7 @@
   },
   {
     "Id": 90180,
-    "RuneName": "短剑修炼",
+    "RuneName": "Sword Mastery",
     "Runetip": 9018,
     "SkillTipParm": [
       12
@@ -3739,7 +3739,7 @@
   },
   {
     "Id": 90190,
-    "RuneName": "弓类修炼",
+    "RuneName": "Bow Mastery",
     "Runetip": 9019,
     "SkillTipParm": [
       8
@@ -3747,7 +3747,7 @@
   },
   {
     "Id": 90200,
-    "RuneName": "定身追击",
+    "RuneName": "Freezing Pursuit",
     "Runetip": 9020,
     "SkillTipParm": [
       3
@@ -3755,7 +3755,7 @@
   },
   {
     "Id": 90210,
-    "RuneName": "眩晕追击",
+    "RuneName": "Stunning Pursuit",
     "Runetip": 9021,
     "SkillTipParm": [
       5
@@ -3763,7 +3763,7 @@
   },
   {
     "Id": 90220,
-    "RuneName": "远程物理伤害",
+    "RuneName": "Ranged Physical Damage",
     "Runetip": 9022,
     "SkillTipParm": [
       1
@@ -3804,7 +3804,7 @@
   },
   {
     "Id": 94010,
-    "RuneName": "嗜血渴望-牢笼",
+    "RuneName": "Blood Thirst - Cage",
     "Runetip": 9401,
     "SkillTipParm": [
       10
@@ -3812,7 +3812,7 @@
   },
   {
     "Id": 94020,
-    "RuneName": "黑洞陷阱-吞噬",
+    "RuneName": "Manhole - Devour",
     "Runetip": 9402,
     "SkillTipParm": [
       0.5
@@ -3820,7 +3820,7 @@
   },
   {
     "Id": 94030,
-    "RuneName": "黑洞陷阱-专精",
+    "RuneName": "Manhole - Mastery",
     "Runetip": 9403,
     "SkillTipParm": [
       2
@@ -3828,7 +3828,7 @@
   },
   {
     "Id": 94040,
-    "RuneName": "魔力陷阱-退魔",
+    "RuneName": "Magic Trap - Exorcism",
     "Runetip": 9404,
     "SkillTipParm": [
       20
@@ -3836,7 +3836,7 @@
   },
   {
     "Id": 94050,
-    "RuneName": "魔力陷阱-强化",
+    "RuneName": "Magic Trap - Strong",
     "Runetip": 9405,
     "SkillTipParm": [
       10
@@ -3844,7 +3844,7 @@
   },
   {
     "Id": 94060,
-    "RuneName": "逐影",
+    "RuneName": "Shadow Chaser ",
     "Runetip": 9406,
     "SkillTipParm": [
       8,
@@ -3853,7 +3853,7 @@
   },
   {
     "Id": 94070,
-    "RuneName": "威胁恐吓-惊吓",
+    "RuneName": "Threaten - Frighten",
     "Runetip": 9407,
     "SkillTipParm": [
       5
@@ -3861,7 +3861,7 @@
   },
   {
     "Id": 94080,
-    "RuneName": "死亡标记-噩梦",
+    "RuneName": "Mark of Death - Nightmare",
     "Runetip": 9408,
     "SkillTipParm": [
       2
@@ -3869,7 +3869,7 @@
   },
   {
     "Id": 94090,
-    "RuneName": "死亡标记-追击",
+    "RuneName": "Mark of Death - Chase Down",
     "Runetip": 9409,
     "SkillTipParm": [
       3
@@ -3961,7 +3961,7 @@
   },
   {
     "Id": 102014,
-    "RuneName": "智力转换",
+    "RuneName": "INT Switch",
     "Runetip": 10214,
     "SkillTipParm": [
       0.2
@@ -4386,7 +4386,7 @@
   },
   {
     "Id": 120010,
-    "RuneName": "力量专精",
+    "RuneName": "Strength Mastery",
     "Runetip": 12001,
     "SkillTipParm": [
       5,
@@ -4395,7 +4395,7 @@
   },
   {
     "Id": 120020,
-    "RuneName": "普通攻击-精修",
+    "RuneName": "Auto Attack -Refining",
     "Runetip": 12002,
     "SkillTipParm": [
       3,
@@ -4404,7 +4404,7 @@
   },
   {
     "Id": 120030,
-    "RuneName": "金刚不坏-警惕",
+    "RuneName": "Steel Body-Alert",
     "Runetip": 12003,
     "SkillTipParm": [
       3
@@ -4412,7 +4412,7 @@
   },
   {
     "Id": 120040,
-    "RuneName": "金刚不坏-速读",
+    "RuneName": "Steel Body -Quick Cast",
     "Runetip": 12004,
     "SkillTipParm": [
       0.2
@@ -4420,7 +4420,7 @@
   },
   {
     "Id": 120050,
-    "RuneName": "金刚不坏-精通",
+    "RuneName": "Steel Body -Proficient",
     "Runetip": 12005,
     "SkillTipParm": [
       5
@@ -4428,7 +4428,7 @@
   },
   {
     "Id": 120060,
-    "RuneName": "铁砂掌-强效",
+    "RuneName": "Iron Fist -Enpower",
     "Runetip": 12006,
     "SkillTipParm": [
       20
@@ -4436,7 +4436,7 @@
   },
   {
     "Id": 120070,
-    "RuneName": "运气调息-强效",
+    "RuneName": "Spirits Recovery -Enpower",
     "Runetip": 12007,
     "SkillTipParm": [
       10
@@ -4444,7 +4444,7 @@
   },
   {
     "Id": 120080,
-    "RuneName": "普通攻击-SP回复",
+    "RuneName": "Auto Attack -SP Regen",
     "Runetip": 12008,
     "SkillTipParm": [
       25
@@ -4452,7 +4452,7 @@
   },
   {
     "Id": 120090,
-    "RuneName": "爆气",
+    "RuneName": "Critical Explosion",
     "Runetip": 12009,
     "SkillTipParm": [
       1
@@ -4460,7 +4460,7 @@
   },
   {
     "Id": 120100,
-    "RuneName": "阿修罗霸凰拳-强效",
+    "RuneName": "Asura Strike -Enpower",
     "Runetip": 12010,
     "SkillTipParm": [
       0.6
@@ -4468,7 +4468,7 @@
   },
   {
     "Id": 120110,
-    "RuneName": "六合拳-强效",
+    "RuneName": "Triple Attack-Enpower",
     "Runetip": 12011,
     "SkillTipParm": [
       10
@@ -4476,7 +4476,7 @@
   },
   {
     "Id": 120120,
-    "RuneName": "浸透劲-精通",
+    "RuneName": "Investigate -Proficient",
     "Runetip": 12012,
     "SkillTipParm": [
       10
@@ -4484,7 +4484,7 @@
   },
   {
     "Id": 120130,
-    "RuneName": "弹指神通-强效",
+    "RuneName": "Finger Offensive-Enpower",
     "Runetip": 12013,
     "SkillTipParm": [
       10
@@ -4492,7 +4492,7 @@
   },
   {
     "Id": 120140,
-    "RuneName": "弹指神通-速读",
+    "RuneName": "Finger Offensive -Quick Cast",
     "Runetip": 12014,
     "SkillTipParm": [
       0.25
@@ -4500,7 +4500,7 @@
   },
   {
     "Id": 120150,
-    "RuneName": "猛龙夸强-强效",
+    "RuneName": "Combo Finish -Enpower",
     "Runetip": 12015,
     "SkillTipParm": [
       5
@@ -4508,7 +4508,7 @@
   },
   {
     "Id": 120160,
-    "RuneName": "【注气】",
+    "RuneName": "[Ki Translation]",
     "Runetip": 12016,
     "SkillTipParm": [
       1
@@ -4516,7 +4516,7 @@
   },
   {
     "Id": 120161,
-    "RuneName": "【注气】",
+    "RuneName": "[Ki Translation]",
     "Runetip": 12016,
     "SkillTipParm": [
       1
@@ -4524,7 +4524,7 @@
   },
   {
     "Id": 120170,
-    "RuneName": "气弹-多效",
+    "RuneName": "Spirit Bomb -Utility",
     "Runetip": 12017,
     "SkillTipParm": [
       1
@@ -4532,7 +4532,7 @@
   },
   {
     "Id": 120180,
-    "RuneName": "沉默追击",
+    "RuneName": "Silent Pursuit",
     "Runetip": 12018,
     "SkillTipParm": [
       3
@@ -4540,7 +4540,7 @@
   },
   {
     "Id": 120190,
-    "RuneName": "定身追击",
+    "RuneName": "Freezing Pursuit",
     "Runetip": 12019,
     "SkillTipParm": [
       5
@@ -4548,7 +4548,7 @@
   },
   {
     "Id": 120200,
-    "RuneName": "光猎-延时",
+    "RuneName": "Ruwach -Delay",
     "Runetip": 12020,
     "SkillTipParm": [
       10
@@ -4556,7 +4556,7 @@
   },
   {
     "Id": 120210,
-    "RuneName": "致命追击",
+    "RuneName": "Fatal Pursuit",
     "Runetip": 12021,
     "SkillTipParm": [
       10
@@ -4564,7 +4564,7 @@
   },
   {
     "Id": 120220,
-    "RuneName": "浸透劲-强效",
+    "RuneName": "Investigate-Enpower",
     "Runetip": 12022,
     "SkillTipParm": [
       10
@@ -4572,7 +4572,7 @@
   },
   {
     "Id": 120230,
-    "RuneName": "连环全身掌-强效",
+    "RuneName": "Chain Combo -Enpower",
     "Runetip": 12023,
     "SkillTipParm": [
       5
@@ -4580,7 +4580,7 @@
   },
   {
     "Id": 120240,
-    "RuneName": "气爆散-强效",
+    "RuneName": "Ki Explosion -Enpower",
     "Runetip": 12024,
     "SkillTipParm": [
       5
@@ -4588,7 +4588,7 @@
   },
   {
     "Id": 120250,
-    "RuneName": "气绝崩击-精通",
+    "RuneName": "Chain Crush Combo -Proficient",
     "Runetip": 12025,
     "SkillTipParm": [
       10
@@ -4596,7 +4596,7 @@
   },
   {
     "Id": 120260,
-    "RuneName": "伏虎拳-强效",
+    "RuneName": "Tiger Knuckle Fist -Enpower",
     "Runetip": 12026,
     "SkillTipParm": [
       5
@@ -4628,7 +4628,7 @@
   },
   {
     "Id": 124010,
-    "RuneName": "虎炮-破魔",
+    "RuneName": "Tiger Cannon - Exorcism",
     "Runetip": 12401,
     "SkillTipParm": [
       5
@@ -4636,7 +4636,7 @@
   },
   {
     "Id": 124020,
-    "RuneName": "虎炮-爆发",
+    "RuneName": "Tiger Cannon - Burst",
     "Runetip": 12402,
     "SkillTipParm": [
       10
@@ -4644,7 +4644,7 @@
   },
   {
     "Id": 124030,
-    "RuneName": "罗刹破凰拳-专精",
+    "RuneName": "Hell Gate - Mastery",
     "Runetip": 12403,
     "SkillTipParm": [
       0.3
@@ -4652,7 +4652,7 @@
   },
   {
     "Id": 124040,
-    "RuneName": "罗刹破凰拳-强化",
+    "RuneName": "Hell Gate - Strong",
     "Runetip": 12404,
     "SkillTipParm": [
       6
@@ -4660,7 +4660,7 @@
   },
   {
     "Id": 124050,
-    "RuneName": "濒死觉醒-超脱",
+    "RuneName": "Near-death Awaken - Transcendence",
     "Runetip": 12405,
     "SkillTipParm": [
       2
@@ -4668,7 +4668,7 @@
   },
   {
     "Id": 124060,
-    "RuneName": "咒缚阵-速读",
+    "RuneName": "Cursed Circle - Quick Cast",
     "Runetip": 12406,
     "SkillTipParm": [
       1
@@ -4676,7 +4676,7 @@
   },
   {
     "Id": 124070,
-    "RuneName": "点穴-强愈",
+    "RuneName": "Gentle Touch - Power Healing",
     "Runetip": 12407,
     "SkillTipParm": [
       8
@@ -4684,7 +4684,7 @@
   },
   {
     "Id": 124080,
-    "RuneName": "点穴-活血",
+    "RuneName": "Gentle Touch - Invigorate",
     "Runetip": 12408,
     "SkillTipParm": [
       2
@@ -4692,7 +4692,7 @@
   },
   {
     "Id": 124090,
-    "RuneName": "潜龙升天-无畏",
+    "RuneName": "Rising Dragon - Fearless",
     "Runetip": 12409,
     "SkillTipParm": [
       2
@@ -4700,7 +4700,7 @@
   },
   {
     "Id": 130010,
-    "RuneName": "手推车攻击-强效",
+    "RuneName": "Cart Revolution -Enpower",
     "Runetip": 13001,
     "SkillTipParm": [
       10
@@ -4708,7 +4708,7 @@
   },
   {
     "Id": 130020,
-    "RuneName": "气泡虫召唤-强效",
+    "RuneName": "Sphere Mine -Enpower",
     "Runetip": 13002,
     "SkillTipParm": [
       30
@@ -4716,7 +4716,7 @@
   },
   {
     "Id": 130030,
-    "RuneName": "巴尼米乐斯的祈福",
+    "RuneName": "Vanilmirth's Blessing",
     "Runetip": 13003,
     "SkillTipParm": [
       20
@@ -4724,7 +4724,7 @@
   },
   {
     "Id": 130040,
-    "RuneName": "战斧修炼",
+    "RuneName": "Axe Mastery",
     "Runetip": 13004,
     "SkillTipParm": [
       15
@@ -4732,7 +4732,7 @@
   },
   {
     "Id": 130050,
-    "RuneName": "治愈之手-赤色",
+    "RuneName": "Touch of Heal -Red",
     "Runetip": 13005,
     "SkillTipParm": [
       15
@@ -4740,7 +4740,7 @@
   },
   {
     "Id": 130060,
-    "RuneName": "艾米斯可鲁的祈福",
+    "RuneName": "Amistr's Blessing",
     "Runetip": 13006,
     "SkillTipParm": [
       20
@@ -4748,7 +4748,7 @@
   },
   {
     "Id": 130070,
-    "RuneName": "智力转换",
+    "RuneName": "INT Switch",
     "Runetip": 13007,
     "SkillTipParm": [
       0.2
@@ -4756,7 +4756,7 @@
   },
   {
     "Id": 130080,
-    "RuneName": "气泡虫寄生-强效",
+    "RuneName": "Sphere Parasitism -Enpower",
     "Runetip": 13008,
     "SkillTipParm": [
       10
@@ -4764,7 +4764,7 @@
   },
   {
     "Id": 130090,
-    "RuneName": "野蛮叫嚣-群体",
+    "RuneName": "Wild Clamor -Group",
     "Runetip": 13009,
     "SkillTipParm": [
       1.5
@@ -4772,7 +4772,7 @@
   },
   {
     "Id": 130100,
-    "RuneName": "善变-强效",
+    "RuneName": "Caprice -Enpower",
     "Runetip": 13010,
     "SkillTipParm": [
       10
@@ -4789,13 +4789,13 @@
   },
   {
     "Id": 130120,
-    "RuneName": "生命体禁术",
+    "RuneName": "Homunculus Forbidden Skill",
     "Runetip": 13012,
     "SkillTipParm": null
   },
   {
     "Id": 130121,
-    "RuneName": "生命体禁术",
+    "RuneName": "Homunculus Forbidden Skill",
     "Runetip": 13012,
     "SkillTipParm": null
   },
@@ -4807,7 +4807,7 @@
   },
   {
     "Id": 130130,
-    "RuneName": "【生命体修复】",
+    "RuneName": "[Homunculusn Repair]",
     "Runetip": 13013,
     "SkillTipParm": [
       2
@@ -4815,7 +4815,7 @@
   },
   {
     "Id": 130131,
-    "RuneName": "【生命体修复】",
+    "RuneName": "[Homunculusn Repair]",
     "Runetip": 13013,
     "SkillTipParm": [
       2
@@ -4847,7 +4847,7 @@
   },
   {
     "Id": 130140,
-    "RuneName": "地狱植物-强效",
+    "RuneName": "Hell Plant -Enpower",
     "Runetip": 13014,
     "SkillTipParm": [
       5
@@ -4855,7 +4855,7 @@
   },
   {
     "Id": 130150,
-    "RuneName": "地狱植物-专精",
+    "RuneName": "Hell Plant -Mastery",
     "Runetip": 13015,
     "SkillTipParm": [
       0.25
@@ -4863,7 +4863,7 @@
   },
   {
     "Id": 130160,
-    "RuneName": "强酸攻击-强效",
+    "RuneName": "Acid Terror -Enpower",
     "Runetip": 13016,
     "SkillTipParm": [
       5
@@ -4871,7 +4871,7 @@
   },
   {
     "Id": 130170,
-    "RuneName": "丽芙的祈福",
+    "RuneName": "Lif's Blessing",
     "Runetip": 13017,
     "SkillTipParm": [
       3,
@@ -4881,7 +4881,7 @@
   },
   {
     "Id": 130180,
-    "RuneName": "化学头盔保护",
+    "RuneName": "Chemical Protection Helm",
     "Runetip": 13018,
     "SkillTipParm": [
       1,
@@ -4890,7 +4890,7 @@
   },
   {
     "Id": 130181,
-    "RuneName": "化学头盔保护",
+    "RuneName": "Chemical Protection Helm",
     "Runetip": 13018,
     "SkillTipParm": [
       1,
@@ -4908,7 +4908,7 @@
   },
   {
     "Id": 130190,
-    "RuneName": "钝器精通",
+    "RuneName": "The Blunt Proficient",
     "Runetip": 13019,
     "SkillTipParm": [
       10
@@ -4916,7 +4916,7 @@
   },
   {
     "Id": 130200,
-    "RuneName": "强酸攻击-专精",
+    "RuneName": "Acid Terror -Mastery",
     "Runetip": 13020,
     "SkillTipParm": [
       0.25
@@ -4924,7 +4924,7 @@
   },
   {
     "Id": 130210,
-    "RuneName": "强酸火烟瓶投掷-强效",
+    "RuneName": "Improved Acid Demonstration -Enpower",
     "Runetip": 13021,
     "SkillTipParm": [
       8
@@ -4932,7 +4932,7 @@
   },
   {
     "Id": 130220,
-    "RuneName": "强酸火烟瓶投掷-精通",
+    "RuneName": "Improved Acid Demonstration -Proficient",
     "Runetip": 13022,
     "SkillTipParm": [
       10
@@ -4940,7 +4940,7 @@
   },
   {
     "Id": 130230,
-    "RuneName": "强酸火烟瓶投掷-专精",
+    "RuneName": "Improved Acid Demonstration -Mastery",
     "Runetip": 13023,
     "SkillTipParm": [
       0.25
@@ -4948,7 +4948,7 @@
   },
   {
     "Id": 130240,
-    "RuneName": "幸运转换",
+    "RuneName": "Luck Switch",
     "Runetip": 13024,
     "SkillTipParm": [
       0.2
@@ -4956,13 +4956,13 @@
   },
   {
     "Id": 130250,
-    "RuneName": "生命体-技能",
+    "RuneName": "Homunculus -Skill",
     "Runetip": 13025,
     "SkillTipParm": null
   },
   {
     "Id": 130260,
-    "RuneName": "火烟瓶投掷-强效",
+    "RuneName": "Acid Demonstration -Enpower",
     "Runetip": 13026,
     "SkillTipParm": [
       10
@@ -4970,7 +4970,7 @@
   },
   {
     "Id": 130270,
-    "RuneName": "化学盾牌保护",
+    "RuneName": "Chemical Protection Shield",
     "Runetip": 13027,
     "SkillTipParm": [
       1,
@@ -4979,7 +4979,7 @@
   },
   {
     "Id": 130271,
-    "RuneName": "化学盾牌保护",
+    "RuneName": "Chemical Protection Shield",
     "Runetip": 13027,
     "SkillTipParm": [
       1,
@@ -4997,25 +4997,25 @@
   },
   {
     "Id": 130280,
-    "RuneName": "地狱植物-秘术",
+    "RuneName": "Hell Plant -Occult",
     "Runetip": 13028,
     "SkillTipParm": null
   },
   {
     "Id": 130290,
-    "RuneName": "善变-火箭术",
+    "RuneName": "Caprice -Fire Bolt",
     "Runetip": 13029,
     "SkillTipParm": null
   },
   {
     "Id": 130300,
-    "RuneName": "善变-冰箭术",
+    "RuneName": "Caprice -Cold Bolt",
     "Runetip": 13030,
     "SkillTipParm": null
   },
   {
     "Id": 130310,
-    "RuneName": "善变-雷击术",
+    "RuneName": "Caprice -Lightning Bolt",
     "Runetip": 13031,
     "SkillTipParm": null
   },
@@ -5051,7 +5051,7 @@
   },
   {
     "Id": 134010,
-    "RuneName": "疯狂火焰-烈焰",
+    "RuneName": "Demonic Fire - Blaze",
     "Runetip": 13401,
     "SkillTipParm": [
       4
@@ -5059,7 +5059,7 @@
   },
   {
     "Id": 134020,
-    "RuneName": "快速生长",
+    "RuneName": "Rapid Growth",
     "Runetip": 13402,
     "SkillTipParm": [
       0.8
@@ -5067,7 +5067,7 @@
   },
   {
     "Id": 134030,
-    "RuneName": "基因异变",
+    "RuneName": "Genetic Mutation",
     "Runetip": 13403,
     "SkillTipParm": [
       5
@@ -5075,7 +5075,7 @@
   },
   {
     "Id": 134040,
-    "RuneName": "手推车加农炮-强化",
+    "RuneName": "Cart Cannon - Strong",
     "Runetip": 13404,
     "SkillTipParm": [
       10
@@ -5083,7 +5083,7 @@
   },
   {
     "Id": 134050,
-    "RuneName": "痛苦嚎叫",
+    "RuneName": "Agonizing Roar",
     "Runetip": 13405,
     "SkillTipParm": [
       0.7
@@ -5091,7 +5091,7 @@
   },
   {
     "Id": 134060,
-    "RuneName": "疯狂野草-强化",
+    "RuneName": "Crazy Weed - Strong",
     "Runetip": 13406,
     "SkillTipParm": [
       8
@@ -5099,7 +5099,7 @@
   },
   {
     "Id": 134070,
-    "RuneName": "手推车爆发-加速",
+    "RuneName": "Cart Boost - Boost",
     "Runetip": 13407,
     "SkillTipParm": [
       2,
@@ -5108,7 +5108,7 @@
   },
   {
     "Id": 134080,
-    "RuneName": "生命融合-强化",
+    "RuneName": "Life Merge - Strong",
     "Runetip": 13408,
     "SkillTipParm": [
       10,
@@ -5117,7 +5117,7 @@
   },
   {
     "Id": 134090,
-    "RuneName": "火焰爆炸-强化",
+    "RuneName": "Fire Expansion - Strong",
     "Runetip": 13409,
     "SkillTipParm": [
       6
