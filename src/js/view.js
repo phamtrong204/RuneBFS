@@ -418,11 +418,11 @@ var renderCost = function () {
     }, {});
     var runeCheckCostText = "";
     _.each(runeCheckCost, function (o, i) {
-        runeCheckCostText += "<tr><td>" + i + "</td><td>" + o + "</td></tr>";
+        runeCheckCostText += "<tr><td> " + i + " </td><td> " + o + " </td></tr>";
     })
     var runeCostText = "";
     _.each(runeCost, function (o, i) {
-        runeCostText += "<tr><td>" + i + "</td><td>" + o + "</td></tr>";
+        runeCostText += "<tr><td> " + i + " </td><td> " + o + " </td></tr>";
     })
     runeCheckResetCost = _.reduce(runeCheckResetCost, function (memo, item) {
         _.each(item, function (o, i) {
@@ -438,11 +438,11 @@ var renderCost = function () {
     }, {});
     var runeCheckResetCostText = "";
     _.each(runeCheckResetCost, function (o, i) {
-        runeCheckResetCostText += "<tr><td>" + i + "</td><td>" + o + "</td></tr>";
+        runeCheckResetCostText += "<tr><td> " + i + " </td><td> " + o + "</td></tr>";
     })
     var runeResetCostText = "";
     _.each(runeResetCost, function (o, i) {
-        runeResetCostText += "<tr><td>" + i + "</td><td>" + o + "</td></tr>";
+        runeResetCostText += "<tr><td> " + i + " </td><td> " + o + " </td></tr>";
     })
     runeCheckTotalAttr = _.reduce(runeCheckTotalAttr, function (memo, o) {
         if (!o || !o.Key) { return memo; }
@@ -459,27 +459,34 @@ var renderCost = function () {
     var index = 0;
     _.each(runeCheckTotalAttr, function (o, i) {
         index++;
-        runeCheckTotalAttrText += "<tr><td>" + Ui.getEquipEffect(i) + "</td><td>+" + Math.round(o * 100) / 100 + "</td></tr>";
+        runeCheckTotalAttrText += "<tr><td> " + Ui.getEquipEffect(i) + "</td><td>+" + Math.round(o * 100) / 100 + "</td></tr>";
         //if (index % 4 == 0) { runeCheckTotalAttrText += "<br/>"; }
     })
     var runeTotalAttrText = "";
     index = 0;
     _.each(runeTotalAttr, function (o, i) {
         index++;
-        runeTotalAttrText += "<tr><td>" + Ui.getEquipEffect(i) + "</td><td>+" + Math.round(o * 100) / 100 + "</td></tr>";
+        runeTotalAttrText += "<tr><td> " + Ui.getEquipEffect(i) + "</td><td>+" + Math.round(o * 100) / 100 + "</td></tr>";
         //if (index % 4 == 0) { runeTotalAttrText += "<br/>"; }
     })
     $('#runeCheckCost').empty()
         .append(runeCheckCostText.trim()
             + runeCheckResetCostText.trim()
             + runeCheckTotalAttrText.trim());
-    $('#runeCheckCost').data('cost', runeCheckCostText.trim() + runeCheckResetCostText.trim());
+    $('#runeCheckCost').data('cost', stripHtml(runeCheckCostText.trim() + runeCheckResetCostText.trim()));
     $('#runeCost').empty()
         .append(runeCostText.trim()
             + runeResetCostText.trim()
             + runeTotalAttrText.trim());
-    $('#runeCost').data('cost', runeCostText.trim() + runeResetCostText.trim());
+    $('#runeCost').data('cost', stripHtml(runeCostText.trim() + runeResetCostText.trim()));
 };
+
+var stripHtml = function(html)
+{
+   var tmp = document.createElement("DIV");
+   tmp.innerHTML = html;
+   return tmp.textContent || tmp.innerText || "";
+}
 
 var runeClick = function (runeId) {
     if (runeId == 10000) {
