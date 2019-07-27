@@ -50,7 +50,7 @@
     },
     {
       "Id": 920000,
-      "Name": "钢铁之心-冷却",
+      "Name": "Heart of Steel - Cooldown",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -1338,7 +1338,7 @@
     },
     {
       "Id": 990003,
-      "Name": "攻速精修",
+      "Name": "AS Refining",
       "Key": "SkillASPD",
       "Value": 0.01,
       "Type": 1,
@@ -1418,7 +1418,7 @@
     },
     {
       "Id": 990013,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -2186,7 +2186,7 @@
     },
     {
       "Id": 980004,
-      "Name": "敏捷精修",
+      "Name": "Agi Refining",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -3250,7 +3250,7 @@
     },
     {
       "Id": 970009,
-      "Name": "敏捷精修",
+      "Name": "Agi Refining",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -4266,7 +4266,7 @@
     },
     {
       "Id": 960000,
-      "Name": "敏捷精修",
+      "Name": "Agi Refining",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -5378,7 +5378,7 @@
     },
     {
       "Id": 950000,
-      "Name": "狂击-精通",
+      "Name": "Bash - Proficient",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -5474,7 +5474,7 @@
     },
     {
       "Id": 950012,
-      "Name": "敏捷精修",
+      "Name": "Agi Refining",
       "Key": "Agi",
       "Value": 1,
       "Type": 4,
@@ -6042,7 +6042,7 @@
     },
     {
       "Id": 1020009,
-      "Name": "攻速精修",
+      "Name": "AS Refining",
       "Key": "SkillASPD",
       "Value": 0.01,
       "Type": 1,
@@ -6114,7 +6114,7 @@
     },
     {
       "Id": 1020007,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -6130,7 +6130,7 @@
     },
     {
       "Id": 940000,
-      "Name": "狂击-精通",
+      "Name": "Bash - Proficient",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -6162,7 +6162,7 @@
     },
     {
       "Id": 940004,
-      "Name": "钢铁之心-冷却",
+      "Name": "Heart of Steel - Cooldown",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -6258,7 +6258,7 @@
     },
     {
       "Id": 1020001,
-      "Name": "正义裁决-魔攻",
+      "Name": "Call of Justice - M.Atk",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -6322,7 +6322,7 @@
     },
     {
       "Id": 1010004,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -6386,7 +6386,7 @@
     },
     {
       "Id": 1010000,
-      "Name": "正义裁决-魔攻",
+      "Name": "Call of Justice - M.Atk",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -6482,7 +6482,7 @@
     },
     {
       "Id": 990008,
-      "Name": "攻速精修",
+      "Name": "AS Refining",
       "Key": "SkillASPD",
       "Value": 0.01,
       "Type": 1,
@@ -8098,7 +8098,7 @@
     },
     {
       "Id": 930001,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -11236,7 +11236,7 @@
     },
     {
       "Id": 990001,
-      "Name": "魔力恩赐",
+      "Name": "Magic Bliss",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -11332,7 +11332,7 @@
     },
     {
       "Id": 990013,
-      "Name": "舍命庇护-强效",
+      "Name": "Selfless Shield - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -11348,7 +11348,7 @@
     },
     {
       "Id": 990015,
-      "Name": "舍命攻击-强化",
+      "Name": "Sacrifice - Strong",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -12068,7 +12068,7 @@
     },
     {
       "Id": 980000,
-      "Name": "回旋盾击-冷却",
+      "Name": "Shield Boomerang - Cooldown",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -13164,7 +13164,7 @@
     },
     {
       "Id": 970009,
-      "Name": "舍命庇护-强效",
+      "Name": "Selfless Shield - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -15292,7 +15292,7 @@
     },
     {
       "Id": 950000,
-      "Name": "魔力恩赐",
+      "Name": "Magic Bliss",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -15388,7 +15388,7 @@
     },
     {
       "Id": 950012,
-      "Name": "舍命庇护-强效",
+      "Name": "Selfless Shield - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -16044,7 +16044,7 @@
     },
     {
       "Id": 940000,
-      "Name": "魔力恩赐",
+      "Name": "Magic Bliss",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -16076,7 +16076,7 @@
     },
     {
       "Id": 940004,
-      "Name": "魔法穿刺精修",
+      "Name": "M.Pen. Refining",
       "Key": "MDamSpike",
       "Value": 0.02,
       "Type": 1,
@@ -16172,7 +16172,7 @@
     },
     {
       "Id": 1020001,
-      "Name": "光之盾-反射",
+      "Name": "Defending Aura - Reflect",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -16300,7 +16300,7 @@
     },
     {
       "Id": 1010000,
-      "Name": "光之盾-反射",
+      "Name": "Defending Aura - Reflect",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -16500,7 +16500,7 @@
     },
     {
       "Id": 970000,
-      "Name": "回旋盾击-冷却",
+      "Name": "Shield Boomerang - Cooldown",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -18012,7 +18012,7 @@
     },
     {
       "Id": 930001,
-      "Name": "魔法穿刺精修",
+      "Name": "M.Pen. Refining",
       "Key": "MDamSpike",
       "Value": 0.02,
       "Type": 1,
@@ -21166,7 +21166,7 @@
     },
     {
       "Id": 990003,
-      "Name": "攻速精修",
+      "Name": "AS Refining",
       "Key": "SkillASPD",
       "Value": 0.01,
       "Type": 1,
@@ -21246,7 +21246,7 @@
     },
     {
       "Id": 990013,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -21262,7 +21262,7 @@
     },
     {
       "Id": 990015,
-      "Name": "强化念力",
+      "Name": "Enhanced Ghost Power",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -21982,7 +21982,7 @@
     },
     {
       "Id": 980000,
-      "Name": "泥潭沼泽-弱化",
+      "Name": "Marsh Pond - Weaken",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -25206,7 +25206,7 @@
     },
     {
       "Id": 950000,
-      "Name": "强化念力",
+      "Name": "Enhanced Ghost Power",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -25870,7 +25870,7 @@
     },
     {
       "Id": 1020009,
-      "Name": "攻速精修",
+      "Name": "AS Refining",
       "Key": "SkillASPD",
       "Value": 0.01,
       "Type": 1,
@@ -25942,7 +25942,7 @@
     },
     {
       "Id": 1020007,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -26086,7 +26086,7 @@
     },
     {
       "Id": 1020001,
-      "Name": "强化念力",
+      "Name": "Enhanced Ghost Power",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -26150,7 +26150,7 @@
     },
     {
       "Id": 1010004,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -26310,7 +26310,7 @@
     },
     {
       "Id": 990008,
-      "Name": "攻速精修",
+      "Name": "AS Refining",
       "Key": "SkillASPD",
       "Value": 0.01,
       "Type": 1,
@@ -26414,7 +26414,7 @@
     },
     {
       "Id": 970000,
-      "Name": "泥潭沼泽-弱化",
+      "Name": "Marsh Pond - Weaken",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -27926,7 +27926,7 @@
     },
     {
       "Id": 930001,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -29792,7 +29792,7 @@
     },
     {
       "Id": 920000,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -31080,7 +31080,7 @@
     },
     {
       "Id": 990003,
-      "Name": "攻速精修",
+      "Name": "AS Refining",
       "Key": "SkillASPD",
       "Value": 0.01,
       "Type": 1,
@@ -31160,7 +31160,7 @@
     },
     {
       "Id": 990013,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -35784,7 +35784,7 @@
     },
     {
       "Id": 1020009,
-      "Name": "攻速精修",
+      "Name": "AS Refining",
       "Key": "SkillASPD",
       "Value": 0.01,
       "Type": 1,
@@ -35856,7 +35856,7 @@
     },
     {
       "Id": 1020007,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -36064,7 +36064,7 @@
     },
     {
       "Id": 1010004,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -36224,7 +36224,7 @@
     },
     {
       "Id": 990008,
-      "Name": "攻速精修",
+      "Name": "AS Refining",
       "Key": "SkillASPD",
       "Value": 0.01,
       "Type": 1,
@@ -39706,7 +39706,7 @@
     },
     {
       "Id": 920000,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -40978,7 +40978,7 @@
     },
     {
       "Id": 990001,
-      "Name": "刺杀光环-防护",
+      "Name": "Assassination Halo - Protection",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -40994,7 +40994,7 @@
     },
     {
       "Id": 990003,
-      "Name": "智力精修",
+      "Name": "Int Refining",
       "Key": "Int",
       "Value": 1,
       "Type": 4,
@@ -41074,7 +41074,7 @@
     },
     {
       "Id": 990013,
-      "Name": "灵巧精修",
+      "Name": "Dex Refining",
       "Key": "Dex",
       "Value": 1,
       "Type": 4,
@@ -41090,7 +41090,7 @@
     },
     {
       "Id": 990015,
-      "Name": "隐匿-防护",
+      "Name": "Hiding - Protection",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -41810,7 +41810,7 @@
     },
     {
       "Id": 980000,
-      "Name": "刺杀光环-防护",
+      "Name": "Assassination Halo - Protection",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -42906,7 +42906,7 @@
     },
     {
       "Id": 970009,
-      "Name": "智力精修",
+      "Name": "Int Refining",
       "Key": "Int",
       "Value": 1,
       "Type": 4,
@@ -45034,7 +45034,7 @@
     },
     {
       "Id": 950000,
-      "Name": "音速投掷-穿甲",
+      "Name": "Sonic Blow - Armor Piercing",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -45130,7 +45130,7 @@
     },
     {
       "Id": 950012,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -45698,7 +45698,7 @@
     },
     {
       "Id": 1020009,
-      "Name": "灵巧精修",
+      "Name": "Dex Refining",
       "Key": "Dex",
       "Value": 1,
       "Type": 4,
@@ -45770,7 +45770,7 @@
     },
     {
       "Id": 1020007,
-      "Name": "智力精修",
+      "Name": "Int Refining",
       "Key": "Int",
       "Value": 1,
       "Type": 4,
@@ -45786,7 +45786,7 @@
     },
     {
       "Id": 940000,
-      "Name": "音速投掷-穿甲",
+      "Name": "Sonic Blow - Armor Piercing",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -45818,7 +45818,7 @@
     },
     {
       "Id": 940004,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -45978,7 +45978,7 @@
     },
     {
       "Id": 1010004,
-      "Name": "灵巧精修",
+      "Name": "Dex Refining",
       "Key": "Dex",
       "Value": 1,
       "Type": 4,
@@ -46138,7 +46138,7 @@
     },
     {
       "Id": 990008,
-      "Name": "智力精修",
+      "Name": "Int Refining",
       "Key": "Int",
       "Value": 1,
       "Type": 4,
@@ -46242,7 +46242,7 @@
     },
     {
       "Id": 970000,
-      "Name": "刺杀光环-防护",
+      "Name": "Assassination Halo - Protection",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -47754,7 +47754,7 @@
     },
     {
       "Id": 930001,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -49620,7 +49620,7 @@
     },
     {
       "Id": 920000,
-      "Name": "人形种族减伤",
+      "Name": "Demi-Human Damage Reduction",
       "Key": "DemiHumanResPer",
       "Value": 0.01,
       "Type": 3,
@@ -50892,7 +50892,7 @@
     },
     {
       "Id": 990001,
-      "Name": "擒拿-强化",
+      "Name": "Close Confine - Strong",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -50908,7 +50908,7 @@
     },
     {
       "Id": 990003,
-      "Name": "人形种族减伤",
+      "Name": "Demi-Human Damage Reduction",
       "Key": "DemiHumanResPer",
       "Value": 0.01,
       "Type": 3,
@@ -51004,7 +51004,7 @@
     },
     {
       "Id": 990015,
-      "Name": "潜击-急速",
+      "Name": "Raid - Haste",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -51724,7 +51724,7 @@
     },
     {
       "Id": 980000,
-      "Name": "擒拿-强化",
+      "Name": "Close Confine - Strong",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -54948,7 +54948,7 @@
     },
     {
       "Id": 950000,
-      "Name": "致残袭击-残虐",
+      "Name": "Disabling Strike - Cruel Maltreatment",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -55612,7 +55612,7 @@
     },
     {
       "Id": 1020009,
-      "Name": "卸除盾牌-远程",
+      "Name": "Strip Shield - Ranged",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -55684,7 +55684,7 @@
     },
     {
       "Id": 1020007,
-      "Name": "卸除盾牌-远程",
+      "Name": "Strip Shield - Ranged",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -55700,7 +55700,7 @@
     },
     {
       "Id": 940000,
-      "Name": "致残袭击-残虐",
+      "Name": "Disabling Strike - Cruel Maltreatment",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -55892,7 +55892,7 @@
     },
     {
       "Id": 1010004,
-      "Name": "人形种族减伤",
+      "Name": "Demi-Human Damage Reduction",
       "Key": "DemiHumanResPer",
       "Value": 0.01,
       "Type": 3,
@@ -56156,7 +56156,7 @@
     },
     {
       "Id": 970000,
-      "Name": "擒拿-强化",
+      "Name": "Close Confine - Strong",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -57668,7 +57668,7 @@
     },
     {
       "Id": 930001,
-      "Name": "人形种族减伤",
+      "Name": "Demi-Human Damage Reduction",
       "Key": "DemiHumanResPer",
       "Value": 0.01,
       "Type": 3,
@@ -60822,7 +60822,7 @@
     },
     {
       "Id": 990003,
-      "Name": "智力精修",
+      "Name": "Int Refining",
       "Key": "Int",
       "Value": 1,
       "Type": 4,
@@ -60902,7 +60902,7 @@
     },
     {
       "Id": 990013,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -61638,7 +61638,7 @@
     },
     {
       "Id": 980000,
-      "Name": "普攻伤害",
+      "Name": "Auto Attack",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -61670,7 +61670,7 @@
     },
     {
       "Id": 980004,
-      "Name": "陷阱精修",
+      "Name": "Trap Refine",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -62734,7 +62734,7 @@
     },
     {
       "Id": 970009,
-      "Name": "智力精修",
+      "Name": "Int Refining",
       "Key": "Int",
       "Value": 1,
       "Type": 4,
@@ -63750,7 +63750,7 @@
     },
     {
       "Id": 960000,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -64862,7 +64862,7 @@
     },
     {
       "Id": 950000,
-      "Name": "风之步-防护",
+      "Name": "Wind Walk - Protection",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -64958,7 +64958,7 @@
     },
     {
       "Id": 950012,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -65526,7 +65526,7 @@
     },
     {
       "Id": 1020009,
-      "Name": "陷阱精修",
+      "Name": "Trap Refine",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -65598,7 +65598,7 @@
     },
     {
       "Id": 1020007,
-      "Name": "智力精修",
+      "Name": "Int Refining",
       "Key": "Int",
       "Value": 1,
       "Type": 4,
@@ -65614,7 +65614,7 @@
     },
     {
       "Id": 940000,
-      "Name": "风之步-防护",
+      "Name": "Wind Walk - Protection",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -65806,7 +65806,7 @@
     },
     {
       "Id": 1010004,
-      "Name": "陷阱精修",
+      "Name": "Trap Refine",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -65966,7 +65966,7 @@
     },
     {
       "Id": 990008,
-      "Name": "智力精修",
+      "Name": "Int Refining",
       "Key": "Int",
       "Value": 1,
       "Type": 4,
@@ -66070,7 +66070,7 @@
     },
     {
       "Id": 970000,
-      "Name": "普攻伤害",
+      "Name": "Auto Attack",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -69448,7 +69448,7 @@
     },
     {
       "Id": 920000,
-      "Name": "法力精修",
+      "Name": "Magic Refining",
       "Key": "MaxSpPer",
       "Value": 0.02,
       "Type": 3,
@@ -70816,7 +70816,7 @@
     },
     {
       "Id": 990013,
-      "Name": "法力精修",
+      "Name": "Magic Refining",
       "Key": "MaxSpPer",
       "Value": 0.02,
       "Type": 3,
@@ -71584,7 +71584,7 @@
     },
     {
       "Id": 980004,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -72648,7 +72648,7 @@
     },
     {
       "Id": 970009,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -73664,7 +73664,7 @@
     },
     {
       "Id": 960000,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -75720,7 +75720,7 @@
     },
     {
       "Id": 1010004,
-      "Name": "法力精修",
+      "Name": "Magic Refining",
       "Key": "MaxSpPer",
       "Value": 0.02,
       "Type": 3,
@@ -79362,7 +79362,7 @@
     },
     {
       "Id": 920000,
-      "Name": "法力精修",
+      "Name": "Magic Refining",
       "Key": "MaxSpPer",
       "Value": 0.02,
       "Type": 3,
@@ -80730,7 +80730,7 @@
     },
     {
       "Id": 990013,
-      "Name": "法力精修",
+      "Name": "Magic Refining",
       "Key": "MaxSpPer",
       "Value": 0.02,
       "Type": 3,
@@ -81498,7 +81498,7 @@
     },
     {
       "Id": 980004,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -82562,7 +82562,7 @@
     },
     {
       "Id": 970009,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -83578,7 +83578,7 @@
     },
     {
       "Id": 960000,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -85634,7 +85634,7 @@
     },
     {
       "Id": 1010004,
-      "Name": "法力精修",
+      "Name": "Magic Refining",
       "Key": "MaxSpPer",
       "Value": 0.02,
       "Type": 3,
@@ -89276,7 +89276,7 @@
     },
     {
       "Id": 920000,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -90564,7 +90564,7 @@
     },
     {
       "Id": 990003,
-      "Name": "法力精修",
+      "Name": "Magic Refining",
       "Key": "MaxSpPer",
       "Value": 0.02,
       "Type": 3,
@@ -90644,7 +90644,7 @@
     },
     {
       "Id": 990013,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -90660,7 +90660,7 @@
     },
     {
       "Id": 990015,
-      "Name": "物理穿刺精修",
+      "Name": "Pen. Refining",
       "Key": "DamSpike",
       "Value": 0.02,
       "Type": 1,
@@ -91380,7 +91380,7 @@
     },
     {
       "Id": 980000,
-      "Name": "光耀之堂-强效",
+      "Name": "Sanctuary - Strong",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -91412,7 +91412,7 @@
     },
     {
       "Id": 980004,
-      "Name": "圣母之祈福-多效",
+      "Name": "Assumptio - Utility",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -92476,7 +92476,7 @@
     },
     {
       "Id": 970009,
-      "Name": "圣母之祈福-多效",
+      "Name": "Assumptio - Utility",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -93492,7 +93492,7 @@
     },
     {
       "Id": 960000,
-      "Name": "圣母之祈福-多效",
+      "Name": "Assumptio - Utility",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -94604,7 +94604,7 @@
     },
     {
       "Id": 950000,
-      "Name": "天使之击-强效",
+      "Name": "Demon Bane - Strong",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -94700,7 +94700,7 @@
     },
     {
       "Id": 950012,
-      "Name": "幸运之颂歌-延时",
+      "Name": "Gloria - Delay",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -95268,7 +95268,7 @@
     },
     {
       "Id": 1020009,
-      "Name": "法力精修",
+      "Name": "Magic Refining",
       "Key": "MaxSpPer",
       "Value": 0.02,
       "Type": 3,
@@ -95340,7 +95340,7 @@
     },
     {
       "Id": 1020007,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -95356,7 +95356,7 @@
     },
     {
       "Id": 940000,
-      "Name": "天使之击-强效",
+      "Name": "Demon Bane - Strong",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -95388,7 +95388,7 @@
     },
     {
       "Id": 940004,
-      "Name": "幸运之颂歌-延时",
+      "Name": "Gloria - Delay",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -95548,7 +95548,7 @@
     },
     {
       "Id": 1010004,
-      "Name": "法力精修",
+      "Name": "Magic Refining",
       "Key": "MaxSpPer",
       "Value": 0.02,
       "Type": 3,
@@ -95708,7 +95708,7 @@
     },
     {
       "Id": 990008,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.01,
       "Type": 3,
@@ -95812,7 +95812,7 @@
     },
     {
       "Id": 970000,
-      "Name": "光耀之堂-强效",
+      "Name": "Sanctuary - Strong",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -97324,7 +97324,7 @@
     },
     {
       "Id": 930001,
-      "Name": "幸运之颂歌-延时",
+      "Name": "Gloria - Delay",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -99190,7 +99190,7 @@
     },
     {
       "Id": 920000,
-      "Name": "攻防转换",
+      "Name": "Atk-Def Switch",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -100462,7 +100462,7 @@
     },
     {
       "Id": 990001,
-      "Name": "物理穿刺精修",
+      "Name": "Pen. Refining",
       "Key": "DamSpike",
       "Value": 0.01,
       "Type": 1,
@@ -100478,7 +100478,7 @@
     },
     {
       "Id": 990003,
-      "Name": "智力精修",
+      "Name": "Int Refining",
       "Key": "Int",
       "Value": 1,
       "Type": 4,
@@ -100558,7 +100558,7 @@
     },
     {
       "Id": 990013,
-      "Name": "暴击防护精修",
+      "Name": "Crit.Res. Refining",
       "Key": "CriRes",
       "Value": 3,
       "Type": 3,
@@ -100574,7 +100574,7 @@
     },
     {
       "Id": 990015,
-      "Name": "金刚不坏-幻影",
+      "Name": "Steel Body - Phantom",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -101294,7 +101294,7 @@
     },
     {
       "Id": 980000,
-      "Name": "弓身弹影-加速",
+      "Name": "Body Relocation - Boost",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -101326,7 +101326,7 @@
     },
     {
       "Id": 980004,
-      "Name": "暴击防护精修",
+      "Name": "Crit.Res. Refining",
       "Key": "CriRes",
       "Value": 3,
       "Type": 3,
@@ -102390,7 +102390,7 @@
     },
     {
       "Id": 970009,
-      "Name": "智力精修",
+      "Name": "Int Refining",
       "Key": "Int",
       "Value": 1,
       "Type": 4,
@@ -103406,7 +103406,7 @@
     },
     {
       "Id": 960000,
-      "Name": "暴击防护精修",
+      "Name": "Crit.Res. Refining",
       "Key": "CriRes",
       "Value": 3,
       "Type": 3,
@@ -104614,7 +104614,7 @@
     },
     {
       "Id": 950012,
-      "Name": "攻速精修",
+      "Name": "AS Refining",
       "Key": "SkillASPD",
       "Value": 0.01,
       "Type": 1,
@@ -105182,7 +105182,7 @@
     },
     {
       "Id": 1020009,
-      "Name": "攻速精修",
+      "Name": "AS Refining",
       "Key": "SkillASPD",
       "Value": 0.01,
       "Type": 1,
@@ -105254,7 +105254,7 @@
     },
     {
       "Id": 1020007,
-      "Name": "智力精修",
+      "Name": "Int Refining",
       "Key": "Int",
       "Value": 1,
       "Type": 4,
@@ -105302,7 +105302,7 @@
     },
     {
       "Id": 940004,
-      "Name": "攻速精修",
+      "Name": "AS Refining",
       "Key": "SkillASPD",
       "Value": 0.01,
       "Type": 1,
@@ -105398,7 +105398,7 @@
     },
     {
       "Id": 1020001,
-      "Name": "物理穿刺精修",
+      "Name": "Pen. Refining",
       "Key": "DamSpike",
       "Value": 0.01,
       "Type": 1,
@@ -105462,7 +105462,7 @@
     },
     {
       "Id": 1010004,
-      "Name": "暴击防护精修",
+      "Name": "Crit.Res. Refining",
       "Key": "CriRes",
       "Value": 3,
       "Type": 3,
@@ -105526,7 +105526,7 @@
     },
     {
       "Id": 1010000,
-      "Name": "物理穿刺精修",
+      "Name": "Pen. Refining",
       "Key": "DamSpike",
       "Value": 0.01,
       "Type": 1,
@@ -105622,7 +105622,7 @@
     },
     {
       "Id": 990008,
-      "Name": "智力精修",
+      "Name": "Int Refining",
       "Key": "Int",
       "Value": 1,
       "Type": 4,
@@ -105726,7 +105726,7 @@
     },
     {
       "Id": 970000,
-      "Name": "弓身弹影-加速",
+      "Name": "Body Relocation - Boost",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -107238,7 +107238,7 @@
     },
     {
       "Id": 930001,
-      "Name": "攻防转换",
+      "Name": "Atk-Def Switch",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -109104,7 +109104,7 @@
     },
     {
       "Id": 920000,
-      "Name": "人形种族减伤",
+      "Name": "Demi-Human Damage Reduction",
       "Key": "DemiHumanResPer",
       "Value": 0.01,
       "Type": 3,
@@ -110392,7 +110392,7 @@
     },
     {
       "Id": 990003,
-      "Name": "法力精修",
+      "Name": "Magic Refining",
       "Key": "MaxSpPer",
       "Value": 0.02,
       "Type": 3,
@@ -110472,7 +110472,7 @@
     },
     {
       "Id": 990013,
-      "Name": "火属性防护",
+      "Name": "Fire Protection",
       "Key": "BeFireDamPer",
       "Value": 0.02,
       "Type": 3,
@@ -110488,7 +110488,7 @@
     },
     {
       "Id": 990015,
-      "Name": "武器修理-精通",
+      "Name": "Repair Weapon - Proficient",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -111240,7 +111240,7 @@
     },
     {
       "Id": 980004,
-      "Name": "法力精修",
+      "Name": "Magic Refining",
       "Key": "MaxSpPer",
       "Value": 0.02,
       "Type": 3,
@@ -112304,7 +112304,7 @@
     },
     {
       "Id": 970009,
-      "Name": "幸运精修",
+      "Name": "Luck Refining",
       "Key": "Luk",
       "Value": 1,
       "Type": 4,
@@ -113320,7 +113320,7 @@
     },
     {
       "Id": 960000,
-      "Name": "幸运精修",
+      "Name": "Luck Refining",
       "Key": "Luk",
       "Value": 1,
       "Type": 4,
@@ -114432,7 +114432,7 @@
     },
     {
       "Id": 950000,
-      "Name": "大声呐喊-防御",
+      "Name": "Loud Exclamation - Defense",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -114528,7 +114528,7 @@
     },
     {
       "Id": 950012,
-      "Name": "幸运精修",
+      "Name": "Luck Refining",
       "Key": "Luk",
       "Value": 1,
       "Type": 4,
@@ -115096,7 +115096,7 @@
     },
     {
       "Id": 1020009,
-      "Name": "火属性防护",
+      "Name": "Fire Protection",
       "Key": "BeFireDamPer",
       "Value": 0.02,
       "Type": 3,
@@ -115168,7 +115168,7 @@
     },
     {
       "Id": 1020007,
-      "Name": "法力精修",
+      "Name": "Magic Refining",
       "Key": "MaxSpPer",
       "Value": 0.02,
       "Type": 3,
@@ -115184,7 +115184,7 @@
     },
     {
       "Id": 940000,
-      "Name": "大声呐喊-防御",
+      "Name": "Loud Exclamation - Defense",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -115216,7 +115216,7 @@
     },
     {
       "Id": 940004,
-      "Name": "火属性防护",
+      "Name": "Fire Protection",
       "Key": "BeFireDamPer",
       "Value": 0.02,
       "Type": 3,
@@ -115312,7 +115312,7 @@
     },
     {
       "Id": 1020001,
-      "Name": "速度激发-强化",
+      "Name": "Adrenaline Rush - Strong",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -115376,7 +115376,7 @@
     },
     {
       "Id": 1010004,
-      "Name": "法力精修",
+      "Name": "Magic Refining",
       "Key": "MaxSpPer",
       "Value": 0.02,
       "Type": 3,
@@ -115440,7 +115440,7 @@
     },
     {
       "Id": 1010000,
-      "Name": "速度激发-强化",
+      "Name": "Adrenaline Rush - Strong",
       "Key": null,
       "Value": 0,
       "Type": 5,
@@ -115536,7 +115536,7 @@
     },
     {
       "Id": 990008,
-      "Name": "火属性防护",
+      "Name": "Fire Protection",
       "Key": "BeFireDamPer",
       "Value": 0.02,
       "Type": 3,
@@ -117152,7 +117152,7 @@
     },
     {
       "Id": 930001,
-      "Name": "人形种族减伤",
+      "Name": "Demi-Human Damage Reduction",
       "Key": "DemiHumanResPer",
       "Value": 0.01,
       "Type": 3,
@@ -119018,7 +119018,7 @@
     },
     {
       "Id": 920000,
-      "Name": "人形种族减伤",
+      "Name": "Demi-Human Damage Reduction",
       "Key": "DemiHumanResPer",
       "Value": 0.01,
       "Type": 3,
@@ -120290,7 +120290,7 @@
     },
     {
       "Id": 990001,
-      "Name": "伊琳诺雅的祈福",
+      "Name": "Eleanor's Blessing",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -120306,7 +120306,7 @@
     },
     {
       "Id": 990003,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -121122,7 +121122,7 @@
     },
     {
       "Id": 980000,
-      "Name": "音速利爪-尖锐",
+      "Name": "Sonic Claw - Sharp",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -121154,7 +121154,7 @@
     },
     {
       "Id": 980004,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -122218,7 +122218,7 @@
     },
     {
       "Id": 970009,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -123234,7 +123234,7 @@
     },
     {
       "Id": 960000,
-      "Name": "暴击防护精修",
+      "Name": "Crit.Res. Refining",
       "Key": "CriRes",
       "Value": 3,
       "Type": 3,
@@ -124346,7 +124346,7 @@
     },
     {
       "Id": 950000,
-      "Name": "强酸火焰瓶投掷-强化",
+      "Name": "Improved Acid Demonstration - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -124442,7 +124442,7 @@
     },
     {
       "Id": 950012,
-      "Name": "暴击防护精修",
+      "Name": "Crit.Res. Refining",
       "Key": "CriRes",
       "Value": 3,
       "Type": 3,
@@ -125010,7 +125010,7 @@
     },
     {
       "Id": 1020009,
-      "Name": "人形种族减伤",
+      "Name": "Demi-Human Damage Reduction",
       "Key": "DemiHumanResPer",
       "Value": 0.01,
       "Type": 3,
@@ -125082,7 +125082,7 @@
     },
     {
       "Id": 1020007,
-      "Name": "生存精修",
+      "Name": "Survival Refining",
       "Key": "MaxHpPer",
       "Value": 0.02,
       "Type": 3,
@@ -125098,7 +125098,7 @@
     },
     {
       "Id": 940000,
-      "Name": "强酸火焰瓶投掷-强化",
+      "Name": "Improved Acid Demonstration - Strong",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -125130,7 +125130,7 @@
     },
     {
       "Id": 940004,
-      "Name": "暴击防护精修",
+      "Name": "Crit.Res. Refining",
       "Key": "CriRes",
       "Value": 3,
       "Type": 3,
@@ -125226,7 +125226,7 @@
     },
     {
       "Id": 1020001,
-      "Name": "音速利爪-尖锐",
+      "Name": "Sonic Claw - Sharp",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -125354,7 +125354,7 @@
     },
     {
       "Id": 1010000,
-      "Name": "伊琳诺雅的祈福",
+      "Name": "Eleanor's Blessing",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -125554,7 +125554,7 @@
     },
     {
       "Id": 970000,
-      "Name": "音速利爪-尖锐",
+      "Name": "Sonic Claw - Sharp",
       "Key": null,
       "Value": 0,
       "Type": 6,
@@ -127066,7 +127066,7 @@
     },
     {
       "Id": 930001,
-      "Name": "人形种族减伤",
+      "Name": "Demi-Human Damage Reduction",
       "Key": "DemiHumanResPer",
       "Value": 0.01,
       "Type": 3,

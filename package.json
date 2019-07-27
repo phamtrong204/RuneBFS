@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasonripp/RuneBFS.git"
+    "url": "git+https://github.com/phamtrong204/RuneBFS.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jasonripp/RuneBFS/issues"
+    "url": "https://github.com/phamtrong204/RuneBFS/issues"
   },
-  "homepage": "https://github.com/jasonripp/RuneBFS#readme",
+  "homepage": "https://github.com/phamtrong204/RuneBFS#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.18",
     "css-loader": "^0.28.9",

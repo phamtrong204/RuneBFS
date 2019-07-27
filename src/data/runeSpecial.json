@@ -392,7 +392,7 @@
   },
   {
     "Id": 13010,
-    "RuneName": "狂击-精通",
+    "RuneName": "Bash - Proficient",
     "Runetip": 1301,
     "SkillTipParm": [
       10
@@ -408,7 +408,7 @@
   },
   {
     "Id": 13030,
-    "RuneName": "正义裁决-魔攻",
+    "RuneName": "Call of Justice - M.Atk",
     "Runetip": 1303,
     "SkillTipParm": [
       0.8
@@ -416,7 +416,7 @@
   },
   {
     "Id": 13040,
-    "RuneName": "钢铁之心-冷却",
+    "RuneName": "Heart of Steel - Cooldown",
     "Runetip": 1304,
     "SkillTipParm": [
       0.5
@@ -897,7 +897,7 @@
   },
   {
     "Id": 23010,
-    "RuneName": "泥潭沼泽-弱化",
+    "RuneName": "Marsh Pond - Weaken",
     "Runetip": 2301,
     "SkillTipParm": [
       10
@@ -913,7 +913,7 @@
   },
   {
     "Id": 23030,
-    "RuneName": "强化念力",
+    "RuneName": "Enhanced Ghost Power",
     "Runetip": 2303,
     "SkillTipParm": [
       5
@@ -1369,7 +1369,7 @@
   },
   {
     "Id": 33010,
-    "RuneName": "音速投掷-穿甲",
+    "RuneName": "Sonic Blow - Armor Piercing",
     "Runetip": 3301,
     "SkillTipParm": [
       3
@@ -1377,7 +1377,7 @@
   },
   {
     "Id": 33020,
-    "RuneName": "隐匿-防护",
+    "RuneName": "Hiding - Protection",
     "Runetip": 3302,
     "SkillTipParm": [
       3
@@ -1385,7 +1385,7 @@
   },
   {
     "Id": 33030,
-    "RuneName": "刺杀光环-防护",
+    "RuneName": "Assassination Halo - Protection",
     "Runetip": 3303,
     "SkillTipParm": [
       2
@@ -1813,7 +1813,7 @@
   },
   {
     "Id": 43010,
-    "RuneName": "风之步-防护",
+    "RuneName": "Wind Walk - Protection",
     "Runetip": 4301,
     "SkillTipParm": [
       5
@@ -1829,7 +1829,7 @@
   },
   {
     "Id": 43030,
-    "RuneName": "普通伤害",
+    "RuneName": "Normal Damage",
     "Runetip": 4303,
     "SkillTipParm": [
       1
@@ -1837,7 +1837,7 @@
   },
   {
     "Id": 43040,
-    "RuneName": "陷阱精修",
+    "RuneName": "Trap Refine",
     "Runetip": 4304,
     "SkillTipParm": [
       5
@@ -1845,7 +1845,7 @@
   },
   {
     "Id": 43041,
-    "RuneName": "陷阱精修",
+    "RuneName": "Trap Refine",
     "Runetip": 4304,
     "SkillTipParm": [
       5
@@ -1853,7 +1853,7 @@
   },
   {
     "Id": 43042,
-    "RuneName": "陷阱精修",
+    "RuneName": "Trap Refine",
     "Runetip": 4304,
     "SkillTipParm": [
       5
@@ -2368,7 +2368,7 @@
   },
   {
     "Id": 53010,
-    "RuneName": "天使之击-强效",
+    "RuneName": "Demon Bane - Strong",
     "Runetip": 5301,
     "SkillTipParm": [
       0.5
@@ -2376,7 +2376,7 @@
   },
   {
     "Id": 53020,
-    "RuneName": "光耀之堂-强效",
+    "RuneName": "Sanctuary - Strong",
     "Runetip": 5302,
     "SkillTipParm": [
       2
@@ -2392,7 +2392,7 @@
   },
   {
     "Id": 53040,
-    "RuneName": "圣母之祈福-多效",
+    "RuneName": "Assumptio - Utility",
     "Runetip": 5304,
     "SkillTipParm": [
       0.2
@@ -2400,7 +2400,7 @@
   },
   {
     "Id": 53050,
-    "RuneName": "幸运之颂歌-延时",
+    "RuneName": "Gloria - Delay",
     "Runetip": 5305,
     "SkillTipParm": [
       10
@@ -2890,7 +2890,7 @@
   },
   {
     "Id": 63010,
-    "RuneName": "速度激发-强化",
+    "RuneName": "Adrenaline Rush - Strong",
     "Runetip": 6301,
     "SkillTipParm": [
       3
@@ -2898,7 +2898,7 @@
   },
   {
     "Id": 63020,
-    "RuneName": "大声呐喊-防御",
+    "RuneName": "Loud Exclamation - Defense",
     "Runetip": 6302,
     "SkillTipParm": [
       3
@@ -2906,7 +2906,7 @@
   },
   {
     "Id": 63030,
-    "RuneName": "武器修理-精通",
+    "RuneName": "Repair Weapon - Proficient",
     "Runetip": 6303,
     "SkillTipParm": [
       5
@@ -3121,7 +3121,7 @@
   },
   {
     "Id": 73010,
-    "RuneName": "舍命攻击-强化",
+    "RuneName": "Sacrifice - Strong",
     "Runetip": 7301,
     "SkillTipParm": [
       1
@@ -3129,7 +3129,7 @@
   },
   {
     "Id": 73020,
-    "RuneName": "回旋盾击-冷却",
+    "RuneName": "Shield Boomerang - Cooldown",
     "Runetip": 7302,
     "SkillTipParm": [
       0.5
@@ -3137,7 +3137,7 @@
   },
   {
     "Id": 73030,
-    "RuneName": "光之盾-反射",
+    "RuneName": "Defending Aura - Reflect",
     "Runetip": 7303,
     "SkillTipParm": [
       10
@@ -3145,7 +3145,7 @@
   },
   {
     "Id": 73040,
-    "RuneName": "魔力恩赐",
+    "RuneName": "Magic Bliss",
     "Runetip": 7304,
     "SkillTipParm": [
       10
@@ -3153,7 +3153,7 @@
   },
   {
     "Id": 73050,
-    "RuneName": "舍命庇护-强效",
+    "RuneName": "Selfless Shield - Strong",
     "Runetip": 7305,
     "SkillTipParm": [
       2
@@ -3771,7 +3771,7 @@
   },
   {
     "Id": 93010,
-    "RuneName": "潜击-急速",
+    "RuneName": "Raid - Haste",
     "Runetip": 9301,
     "SkillTipParm": [
       4,
@@ -3780,7 +3780,7 @@
   },
   {
     "Id": 93020,
-    "RuneName": "致残袭击-残虐",
+    "RuneName": "Disabling Strike - Cruel Maltreatment",
     "Runetip": 9302,
     "SkillTipParm": [
       10
@@ -3788,7 +3788,7 @@
   },
   {
     "Id": 93030,
-    "RuneName": "擒拿-强化",
+    "RuneName": "Close Confine - Strong",
     "Runetip": 9303,
     "SkillTipParm": [
       0.5
@@ -3796,7 +3796,7 @@
   },
   {
     "Id": 93040,
-    "RuneName": "卸除盾牌-远程",
+    "RuneName": "Strip Shield - Ranged",
     "Runetip": 9304,
     "SkillTipParm": [
       1
@@ -4604,7 +4604,7 @@
   },
   {
     "Id": 123010,
-    "RuneName": "金刚不坏-幻影",
+    "RuneName": "Steel Body - Phantom",
     "Runetip": 12301,
     "SkillTipParm": [
       10
@@ -4612,7 +4612,7 @@
   },
   {
     "Id": 123020,
-    "RuneName": "弓身弹影-加速",
+    "RuneName": "Body Relocation - Boost",
     "Runetip": 12302,
     "SkillTipParm": [
       5
@@ -4620,7 +4620,7 @@
   },
   {
     "Id": 123030,
-    "RuneName": "攻防转换",
+    "RuneName": "Atk-Def Switch",
     "Runetip": 12303,
     "SkillTipParm": [
       0.2
@@ -5021,7 +5021,7 @@
   },
   {
     "Id": 133010,
-    "RuneName": "强酸火焰瓶投掷-强化",
+    "RuneName": "Improved Acid Demonstration - Strong",
     "Runetip": 13301,
     "SkillTipParm": [
       10
@@ -5029,7 +5029,7 @@
   },
   {
     "Id": 133020,
-    "RuneName": "伊琳诺雅的祈福",
+    "RuneName": "Eleanor's Blessing",
     "Runetip": 13302,
     "SkillTipParm": [
       5
@@ -5043,7 +5043,7 @@
   },
   {
     "Id": 133040,
-    "RuneName": "音速利爪-尖锐",
+    "RuneName": "Sonic Claw - Sharp",
     "Runetip": 13304,
     "SkillTipParm": [
       10

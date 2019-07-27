@@ -141,19 +141,19 @@
   },
   {
     "Id": 1301,
-    "Text": "使【狂击】使用技能的消耗-%s%%"
+    "Text": "[Bash] skill cost -%s%%"
   },
   {
     "Id": 1302,
-    "Text": "【冲锋攻击】冲锋距离越远，伤害越高，每米提升%s%%伤害。"
+    "Text": "The longer charging distance of [Charge Attack], the higher its damage. Each meter adds %s%% damage."
   },
   {
     "Id": 1303,
-    "Text": "使【正义裁决】每5点体质额外增加%s点魔法攻击"
+    "Text": "[Call of Justice] adds %s additional M.Atk for every 5 VIT"
   },
   {
     "Id": 1304,
-    "Text": "使【钢铁之心】冷却时间-%s%%"
+    "Text": "[Heart of Steel] cooldown -%s%%"
   },
   {
     "Id": 1401,
@@ -353,7 +353,7 @@
   },
   {
     "Id": 2301,
-    "Text": "泥潭沼泽命中的敌人受到水属性伤害增加%s%%"
+    "Text": "Enemy hit by Marsh Pond takes %s%% more Water damage"
   },
   {
     "Id": 2302,
@@ -361,7 +361,7 @@
   },
   {
     "Id": 2303,
-    "Text": "【念力连击】伤害增加%s%%"
+    "Text": "[Napalm Vulcan] damage +%s%%"
   },
   {
     "Id": 2401,
@@ -517,7 +517,7 @@
   },
   {
     "Id": 3302,
-    "Text": "在隐匿状态下，提升自身%s%%魔法防御"
+    "Text": "M.Def +%s%% in Hiding"
   },
   {
     "Id": 3303,
@@ -681,19 +681,19 @@
   },
   {
     "Id": 4301,
-    "Text": "使【风之步】同时减少远程物理伤害%s%%"
+    "Text": "[Wind Walk] also reduces Ranged Damage by %s%%"
   },
   {
     "Id": 4302,
-    "Text": "使【多重扫射】冷却-%s秒"
+    "Text": "[Multi Firing] cooldown -%s sec"
   },
   {
     "Id": 4303,
-    "Text": "普通攻击附加%s%%伤害"
+    "Text": "Auto attack deals +%s%% damage"
   },
   {
     "Id": 4304,
-    "Text": "增加定身、冰冻和眩晕抵抗%s%%"
+    "Text": "Slow, Freeze and Stun Resist +%s%%"
   },
   {
     "Id": 4401,
@@ -897,11 +897,11 @@
   },
   {
     "Id": 5301,
-    "Text": "【天使之击】每级增加攻速%s%%"
+    "Text": "AS +%s%% for each level of [Demon Bane]"
   },
   {
     "Id": 5302,
-    "Text": "使【光耀之堂】治疗效果增加%s%%"
+    "Text": "[Sanctuary] healing effect +%s%%"
   },
   {
     "Id": 5303,
@@ -909,7 +909,7 @@
   },
   {
     "Id": 5304,
-    "Text": "【圣母之祈福】每级提升%s%%魔伤和物伤减免"
+    "Text": "M.Dmg and Dmg Reduc. +%s%% for each level of [Assumptio]"
   },
   {
     "Id": 5305,
@@ -1021,15 +1021,15 @@
   },
   {
     "Id": 6301,
-    "Text": "使用【速度激发】同时能够使自身和队友%s%%移速"
+    "Text": "Using [Adrenaline Rush] increases self and teammate Move Spd by %s%% at the same time"
   },
   {
     "Id": 6302,
-    "Text": "使【大声呐喊】同时提升队友和自身%s%%物理、魔法防御"
+    "Text": "[Loud Exclamation] increases teammate and self Def and M.Def by %s%% at the same time"
   },
   {
     "Id": 6303,
-    "Text": "使【武器修理】使用之后，目标%s秒内免疫武器破坏效果"
+    "Text": "After using [Repair Weapon], target is immune to weapon break for %s sec"
   },
   {
     "Id": 6401,
@@ -1129,19 +1129,19 @@
   },
   {
     "Id": 7302,
-    "Text": "使【回旋盾击】冷却时间-%s秒"
+    "Text": "Reduce [Shield Boomerang] cooldown by %s sec"
   },
   {
     "Id": 7303,
-    "Text": "使【光之盾】的移动速度惩罚减少%s%%"
+    "Text": "[Defending Aura] Move Spd penalty -%s%%"
   },
   {
     "Id": 7304,
-    "Text": "【恩赐】每级提供%sSp上限"
+    "Text": "Each level of [Bliss] provides %sSp Max"
   },
   {
     "Id": 7305,
-    "Text": "使【舍命庇护】同时提升队友%s%%物理防御和魔法防御"
+    "Text": "[Selfless Shield] also increases teammate Def and M.Def by %s%%"
   },
   {
     "Id": 7401,
@@ -1437,11 +1437,11 @@
   },
   {
     "Id": 9302,
-    "Text": "使受到【致残袭击】的目标移速-%s%%，持续3秒"
+    "Text": "[Disabling Strike] target Move Spd -%s%% for 3 sec"
   },
   {
     "Id": 9303,
-    "Text": "使受到【擒拿】的目标每秒损失%s%%最大生命值"
+    "Text": "[Close Confine] target loses %s%% Max HP per sec"
   },
   {
     "Id": 9304,
@@ -1697,7 +1697,7 @@
   },
   {
     "Id": 10303,
-    "Text": "普通攻击附加%s%%伤害"
+    "Text": "Auto attack deals +%s%% damage"
   },
   {
     "Id": 10304,
@@ -1853,15 +1853,15 @@
   },
   {
     "Id": 12301,
-    "Text": "使【金刚不坏】持续时间变为%s秒"
+    "Text": "[Steel Body] duration changed to %s sec"
   },
   {
     "Id": 12302,
-    "Text": "使用【弓身弹影】之后提升自身%s%%移速，持续3秒"
+    "Text": "Using [Body Relocation] increases self Move Spd by %s%% for 3 sec"
   },
   {
     "Id": 12303,
-    "Text": "每50点物理攻击提供%s点物理防御"
+    "Text": "Each 50 Atk provides %s Def"
   },
   {
     "Id": 12401,
@@ -2025,7 +2025,7 @@
   },
   {
     "Id": 13301,
-    "Text": "使【强酸火烟瓶投掷】计算体质时增加%s点"
+    "Text": "[Improved Acid Demonstration] adds %s points when calculating VIT"
   },
   {
     "Id": 13302,
