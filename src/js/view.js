@@ -16,7 +16,7 @@ var maxX = 0;
 var minY = 0;
 var maxY = 0;
 var scale = 0.2;
-var maxevo = 40000;
+var maxevo = 99999;
 var pathAlgorithm = "nogold";
 var inited = false;
 var runeSize = 60.0;
@@ -152,6 +152,7 @@ var initControl = function () {
     });
     $('.rune-panel-switch').click(function () {
         $('.rune-panel-main').toggle();
+        $('.rune-panel-switch').toggleClass("deactive")
     });
     inited = true;
 };
